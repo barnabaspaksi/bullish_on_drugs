@@ -8,7 +8,7 @@
  - Special characters (incl. whitespaces, tabs, dots, parentheses) should be avoided. Note that using dots in R is permissible for variable names. 
  - Figures are named semantically, not just numbered.
  - Dates are given in ISO 8601 format (YYYY-MM-DD), i.e. months and days are padded. Dates appear after the description, before the version and extension.
- - Versioning should be avoided by replacements and commits to Github, if possible. Otherwise, the version should not be padded (e.g. orchestrator_v4.py).
+ - Versioning should be avoided by using replacements and commits to Github, if possible. Otherwise, the version should not be padded (e.g. orchestrator_v4.py rather than orchestrator_v_4.py).
  - Scripts should not include the execution order. If necessary, an orchestrator should be provided.
  - Config files should have config_ prepended to them.
  - Documentation template: [document_type]_[subject]_[version].[ext]. Here, keeping documentation for older versions is permissible to minimize search time in commits and reflect the evolution of the project. Document types can include the following: model_card (Model Card), data_dict (Data Dictionary), report (Report).
