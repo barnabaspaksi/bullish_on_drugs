@@ -1,0 +1,42 @@
+{
+  "@context": {
+    "sdmx-d": "http://purl.org/linked-data/sdmx/2009/dimension#",
+    "sdmx-m": "http://purl.org/linked-data/sdmx/2009/measure#",
+    "ncit": "http://purl.obolibrary.org/obo/NCIT_",
+    "dwc": "http://rs.tdwg.org/dwc/terms/",
+    "chebi": "http://purl.obolibrary.org/obo/CHEBI_",
+    "allotrope":"http://purl.allotrope.org/ontologies/process#AFP_"
+  },
+  "columns": [
+    {
+      "name": "nuts_code",
+      "mappedTo": "sdmx-d:refArea",
+      "ontology": "SDMX"
+    },
+    {
+      "name": "city_name",
+      "mappedTo": "ncit:C95378",
+      "ontology": "NCIt"
+    },
+    {
+      "name": "ref_year",
+      "mappedTo": "dwc:year",
+      "ontology": "Darwin Core"
+    },
+    {
+      "name": "gdp_per_cap",
+      "mappedTo": "sdmx-m:obsValue",
+      "ontology": "SDMX"
+    },
+    {
+      "name": "metabolite_name",
+      "mappedTo": "chebi:23367",
+      "ontology": "ChEBI"
+    },
+    {
+      "name": "daily_mean",
+      "mappedTo": "allotrope:0002800",
+      "ontology": "Allotrope Foundation Ontologies"
+    }
+  ]
+}
