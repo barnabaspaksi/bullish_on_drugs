@@ -94,19 +94,21 @@ def generate_use_case_rocrate():
     # Formally hook derivation attributes
     output_dataset["isDerivedFrom"] = [eurostat_gdp, euda_wastewater]
 
-    # Model evaluation metrics file
-    metrics_csv = crate.add_file("model_metrics_comparison.csv", properties={
-        "name": "Model Performance Metrics Evaluation Matrix",
-        "encodingFormat": "text/csv",
-        "description": "Contains comparative MAE, RMSE and R-Squared values for Random Forest, Simple Linear, and Nested Linear models."
-    })
-
     # placeholder for trained model datasets on TUWRD
     trained_models_doi = "https://doi.org/10.5072/tuwrd.placeholder.models"
     models_dataset = crate.add(ContextEntity(crate, trained_models_doi, {
         "@type": "Dataset",
         "name": "Trained Predictive GDP Model Binaries (Random Forest & Nested LMM)",
         "description": "Serialized model weights and architecture binaries generated from the wastewater epidemiology training run.",
+        "identifier": "10.5072/tuwrd.placeholder.models"
+    }))
+
+    # placeholder for outputs on TUWRD
+    trained_models_doi = "https://doi.org/10.5072/tuwrd.placeholder.outputs"
+    models_dataset = crate.add(ContextEntity(crate, trained_models_doi, {
+        "@type": "Dataset",
+        "name": "Outputs from Experiment: PLACEHOLDER! Describe which exactly still",
+        "description": "Outputs from the wastewater epidemiology experiment.",
         "identifier": "10.5072/tuwrd.placeholder.models"
     }))
 
