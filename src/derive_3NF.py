@@ -32,5 +32,20 @@ def parse_gdp_dataset(raw_data_path):
 
     return gdp_df
 
+def parse_wastewater_dataset(raw_data_path):
+    """
+    Get the data from the original file and change encoding to utf-8.
+    Write the output to a more conveniently usable CSV.
+    """
+    wwater_file = os.path.join(raw_data_path, 'ww2026-all-data_en.csv')
+    ww = pd.read_csv(wwater_file, encoding ="latin1")
+    parsed_raw_ww_filepath = os.path.join("../data/processed/", "wastewater_2011_2025.csv")
+    ww.to_csv(parsed_raw_ww_filepath, encoding = "utf-8")
+
+    return ww
+
 if __name__ == "__main__":
-    gdp_df = parse_gdp_dataset(raw_data_path)
+
+    ww_df = parse_wastewater_dataset(raw_data_path)
+    
+    #gdp_df = parse_gdp_dataset(raw_data_path)
