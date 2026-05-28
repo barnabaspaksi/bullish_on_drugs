@@ -85,8 +85,8 @@ def align_countries():
 
 if __name__ == "__main__":
 
-    # ww_df = parse_wastewater_dataset(raw_data_path)    
-    # gdp_df = parse_gdp_dataset(raw_data_path)
+    ww_df = parse_wastewater_dataset(raw_data_path)    
+    gdp_df = parse_gdp_dataset(raw_data_path)
 
     align_countries()
     
