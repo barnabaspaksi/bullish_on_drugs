@@ -1,10 +1,17 @@
 import os 
 import pandas as pd
+import json 
 
 raw_data_path = "../data/raw/"
 raw_files = os.listdir(raw_data_path)
 
 orig_filenames = ['nama_10r_3gdp__custom_20659344_spreadsheet.csv', 'ww2026-all-data_en.csv']
+
+fix_mismatches_cc = {
+                "H" : "HU",
+                "GR" : "EL",
+                'GB' : "UK"
+            }
 
 def parse_gdp_dataset(raw_data_path):
     """
@@ -27,7 +34,7 @@ def parse_gdp_dataset(raw_data_path):
     gdp_df = gdp_df.iloc[1:].reset_index(drop=True)
     gdp_df = gdp_df.loc[:1343,:] # last rows are also metadata which must be manually removed...
 
-    parsed_raw_gdp_df_filepath = os.path.join("../data/processed/", "gdp_by_region_2011_2024.csv")
+    parsed_raw_gdp_df_filepath = os.path.join("../data/processed/", "eurostat_gdp_by_region_2011_2024.csv")
     gdp_df.to_csv(parsed_raw_gdp_df_filepath, encoding = "utf-8")
 
     return gdp_df
@@ -39,13 +46,49 @@ def parse_wastewater_dataset(raw_data_path):
     """
     wwater_file = os.path.join(raw_data_path, 'ww2026-all-data_en.csv')
     ww = pd.read_csv(wwater_file, encoding ="latin1")
-    parsed_raw_ww_filepath = os.path.join("../data/processed/", "wastewater_2011_2025.csv")
+    parsed_raw_ww_filepath = os.path.join("../data/processed/", "euda_wastewater_2011_2025.csv")
     ww.to_csv(parsed_raw_ww_filepath, encoding = "utf-8")
 
     return ww
 
+def improve_ww_country(country_code):        
+    """Reassign country codes based on usage in the """
+    if country_code in fix_mismatches_cc:
+        return fix_mismatches_cc[country_code]
+    else:
+        return country_code
+
+def align_countries():
+    """
+    Ensure that countries which appear in both data sources are not missed.
+    Write the results to new CSV files with a new Country field.
+    """
+    ww_path = os.path.join("../data/processed/", "euda_wastewater_2011_2025.csv")
+    gdp_path = os.path.join("../data/processed/", "eurostat_gdp_by_region_2011_2024.csv")
+        
+    ww = pd.read_csv(ww_path, encoding = "utf-8")
+    gdp = pd.read_csv(gdp_path, encoding = "utf-8")
+
+    gdp_countries = gdp['GEO (Codes)'].map(lambda x: str(x)[:2])
+    gdp["Country"] = gdp_countries
+    ww_countries = ww["Country"].unique()    
+    ww_countries_without_gdp = list(set(ww_countries).difference(set(gdp_countries)))        
+    
+    unused = {"CL", 'US', "KR", "CA", "NZ", 'AU', 'BR'}
+    gdp_unavailable = {"IS", "BA", "UK", "GB"} # Europe but not EU -> no GDP data 
+    print(set(ww_countries_without_gdp).difference(set(fix_mismatches_cc.keys()).union(unused).union(gdp_unavailable)))        
+    
+    ww["Country"] = ww["Country"].map(improve_ww_country)
+
+    ww.to_csv(os.path.join("../data/processed/", "euda_wastewater_2011_2025_v2.csv"))
+    gdp.to_csv(os.path.join("../data/processed/", "eurostat_gdp_by_region_2011_2024_v2.csv"))
+
 if __name__ == "__main__":
 
-    ww_df = parse_wastewater_dataset(raw_data_path)
+    # ww_df = parse_wastewater_dataset(raw_data_path)    
+    # gdp_df = parse_gdp_dataset(raw_data_path)
+
+    align_countries()
     
-    #gdp_df = parse_gdp_dataset(raw_data_path)
+    
+
