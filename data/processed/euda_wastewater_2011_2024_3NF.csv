@@ -1,0 +1,3211 @@
+,city_name,ref_year,metabolite_name,daily_mean_concentration
+798,Graz,2024,MDMA,15.53
+800,Innsbruck,2024,MDMA,22.71
+801,Kapfenberg,2024,MDMA,7.79
+802,Klagenfurt,2024,MDMA,9.5
+804,Kufstein,2024,MDMA,8.8
+805,Purgstall,2024,MDMA,23.64
+806,Region Millstättersee,2024,MDMA,5.89
+807,Ried im Innkreis,2024,MDMA,6.3
+808,Salzburg,2024,MDMA,8.85
+809,Steyr,2024,MDMA,12.16
+811,Wasserverband Hofsteig,2024,MDMA,9.59
+812,Wien,2024,MDMA,21.05
+813,Wiener Neustadt,2024,MDMA,11.86
+814,Wildon,2024,MDMA,6.02
+815,Antwerp Zuid,2024,MDMA,140.31
+816,Brussels,2024,MDMA,76.97
+817,Basel,2024,MDMA,14.81
+818,Berne,2024,MDMA,25.98
+819,Geneva,2024,MDMA,38.59
+820,Zurich,2024,MDMA,46.76
+824,Nicosia (2),2024,MDMA,1.62
+826,Brno,2024,MDMA,16.12
+828,Karlovy Vary,2024,MDMA,14.32
+829,Ostrava,2024,MDMA,26.41
+830,Plzen,2024,MDMA,23.2
+831,Prague (2),2024,MDMA,54.74
+833,Chemnitz,2024,MDMA,11.71
+834,Dortmund,2024,MDMA,37.07
+835,Dresden,2024,MDMA,17.11
+836,Erfurt,2024,MDMA,28.6
+837,Hannover (2),2024,MDMA,26.07
+838,Magdeburg,2024,MDMA,21.33
+839,Munich G,2024,MDMA,39.37
+840,Nuremberg,2024,MDMA,15.44
+842,Stuttgart,2024,MDMA,22.84
+843,Aalborg,2024,MDMA,18.38
+844,Aarhus,2024,MDMA,12.33
+845,Copenhagen,2024,MDMA,37.0
+848,Odense,2024,MDMA,10.03
+849,Barcelona,2024,MDMA,47.17
+850,Castellon,2024,MDMA,51.94
+851,Granada,2024,MDMA,34.34
+852,Lleida,2024,MDMA,42.47
+853,Santiago,2024,MDMA,16.84
+854,Tarragona,2024,MDMA,32.14
+856,Helsinki,2024,MDMA,35.19
+859,Joensuu,2024,MDMA,29.42
+861,Kajaani,2024,MDMA,6.03
+862,Kemi,2024,MDMA,10.3
+863,Kokkola,2024,MDMA,8.86
+865,Kouvola,2024,MDMA,10.83
+866,Kuopio,2024,MDMA,15.71
+867,Lahti,2024,MDMA,16.1
+868,Lappeenranta,2024,MDMA,12.06
+869,Mariehamn,2024,MDMA,5.52
+870,Mikkeli,2024,MDMA,5.38
+871,Oulu,2024,MDMA,25.74
+873,Pori,2024,MDMA,16.28
+876,Rovaniemi,2024,MDMA,21.25
+879,Tampere,2024,MDMA,28.54
+880,Turku,2024,MDMA,34.57
+881,Vaasa,2024,MDMA,22.01
+883,Paris Seine Centre,2024,MDMA,50.57
+884,Athens,2024,MDMA,7.77
+885,Split,2024,MDMA,35.49
+886,Zagreb,2024,MDMA,20.71
+887,Dublin,2024,MDMA,41.72
+888,Bologna,2024,MDMA,12.92
+889,Bozen,2024,MDMA,7.68
+890,Milan,2024,MDMA,14.44
+891,Rome,2024,MDMA,5.55
+892,Kaunas,2024,MDMA,12.42
+893,Klaipeda,2024,MDMA,14.9
+894,Vilnius,2024,MDMA,19.75
+895,Luxembourg,2024,MDMA,22.21
+896,Riga,2024,MDMA,16.19
+897,Amsterdam,2024,MDMA,282.51
+898,Groningen,2024,MDMA,106.17
+899,Rotterdam (2),2024,MDMA,111.9
+900,Utrecht,2024,MDMA,110.47
+901,Zwolle,2024,MDMA,49.98
+902,Bergen (2),2024,MDMA,36.65
+903,Oslo (2),2024,MDMA,37.79
+904,Trondheim (2),2024,MDMA,21.17
+905,Krakow P,2024,MDMA,42.26
+907,Lisbon,2024,MDMA,81.77
+908,Porto,2024,MDMA,21.99
+909,Bucharest,2024,MDMA,11.01
+911,Karlstad,2024,MDMA,6.55
+912,Stockholm (2),2024,MDMA,23.35
+916,Koper,2024,MDMA,18.97
+917,Kranj,2024,MDMA,11.42
+918,Ljubljana,2024,MDMA,32.21
+919,Maribor,2024,MDMA,17.84
+920,Novo mesto,2024,MDMA,1.13
+921,Velenje,2024,MDMA,1.95
+922,Bratislava C,2024,MDMA,18.07
+923,Piestany,2024,MDMA,8.58
+924,Ankara,2024,MDMA,11.44
+925,Istanbul (II-VII),2024,MDMA,14.02
+926,Graz,2024,amphetamine,49.64
+928,Innsbruck,2024,amphetamine,16.36
+929,Kapfenberg,2024,amphetamine,62.69
+930,Klagenfurt,2024,amphetamine,7.15
+932,Kufstein,2024,amphetamine,15.91
+933,Purgstall,2024,amphetamine,15.69
+934,Region Millstättersee,2024,amphetamine,6.19
+935,Ried im Innkreis,2024,amphetamine,101.68
+936,Salzburg,2024,amphetamine,24.3
+937,Steyr,2024,amphetamine,37.45
+939,Wasserverband Hofsteig,2024,amphetamine,36.0
+940,Wien,2024,amphetamine,42.3
+941,Wiener Neustadt,2024,amphetamine,26.28
+942,Wildon,2024,amphetamine,39.59
+943,Antwerp Zuid,2024,amphetamine,376.09
+944,Brussels,2024,amphetamine,85.56
+945,Basel,2024,amphetamine,22.53
+946,Berne,2024,amphetamine,62.87
+947,Geneva,2024,amphetamine,13.69
+948,Zurich,2024,amphetamine,59.59
+952,Nicosia (2),2024,amphetamine,5.77
+954,Brno,2024,amphetamine,26.51
+956,Karlovy Vary,2024,amphetamine,32.85
+957,Ostrava,2024,amphetamine,56.62
+958,Plzen,2024,amphetamine,57.48
+959,Prague (2),2024,amphetamine,53.78
+961,Chemnitz,2024,amphetamine,27.43
+962,Dortmund,2024,amphetamine,262.2
+963,Dresden,2024,amphetamine,50.58
+964,Erfurt,2024,amphetamine,64.62
+965,Hannover (2),2024,amphetamine,97.34
+966,Magdeburg,2024,amphetamine,131.37
+967,Munich G,2024,amphetamine,37.87
+968,Nuremberg,2024,amphetamine,53.19
+970,Stuttgart,2024,amphetamine,111.13
+971,Aalborg,2024,amphetamine,112.76
+972,Aarhus,2024,amphetamine,74.1
+973,Copenhagen,2024,amphetamine,95.78
+976,Odense,2024,amphetamine,121.81
+977,Barcelona,2024,amphetamine,41.91
+978,Granada,2024,amphetamine,21.05
+979,Lleida,2024,amphetamine,42.25
+980,Santiago,2024,amphetamine,10.93
+981,Tarragona,2024,amphetamine,54.73
+983,Helsinki,2024,amphetamine,186.03
+986,Joensuu,2024,amphetamine,101.27
+988,Kajaani,2024,amphetamine,159.91
+989,Kemi,2024,amphetamine,84.98
+990,Kokkola,2024,amphetamine,88.64
+992,Kouvola,2024,amphetamine,146.96
+993,Kuopio,2024,amphetamine,205.7
+994,Lahti,2024,amphetamine,216.24
+995,Lappeenranta,2024,amphetamine,174.2
+996,Mariehamn,2024,amphetamine,86.8
+997,Mikkeli,2024,amphetamine,91.4
+998,Oulu,2024,amphetamine,140.06
+1000,Pori,2024,amphetamine,61.32
+1003,Rovaniemi,2024,amphetamine,188.72
+1006,Tampere,2024,amphetamine,159.96
+1007,Turku,2024,amphetamine,167.53
+1008,Vaasa,2024,amphetamine,73.9
+1010,Paris Seine Centre,2024,amphetamine,5.85
+1011,Athens,2024,amphetamine,12.98
+1012,Split,2024,amphetamine,79.93
+1013,Zagreb,2024,amphetamine,82.75
+1014,Budapest,2024,amphetamine,203.79
+1015,Dublin,2024,amphetamine,23.61
+1016,Bologna,2024,amphetamine,2.9
+1017,Bozen,2024,amphetamine,2.75
+1018,Milan,2024,amphetamine,4.05
+1019,Rome,2024,amphetamine,0.0
+1020,Klaipeda,2024,amphetamine,21.86
+1021,Vilnius,2024,amphetamine,57.16
+1022,Luxembourg,2024,amphetamine,8.05
+1023,Riga,2024,amphetamine,139.03
+1024,Amsterdam,2024,amphetamine,172.25
+1025,Eindhoven,2024,amphetamine,311.26
+1026,Groningen,2024,amphetamine,247.35
+1027,Rotterdam (2),2024,amphetamine,173.2
+1028,Utrecht,2024,amphetamine,304.26
+1029,Zwolle,2024,amphetamine,272.17
+1030,Bergen (2),2024,amphetamine,430.06
+1031,Oslo (2),2024,amphetamine,296.7
+1032,Trondheim (2),2024,amphetamine,394.43
+1033,Krakow P,2024,amphetamine,79.72
+1035,Lisbon,2024,amphetamine,18.36
+1036,Porto,2024,amphetamine,10.97
+1037,Bucharest,2024,amphetamine,4.97
+1039,Karlstad,2024,amphetamine,366.66
+1040,Stockholm (2),2024,amphetamine,362.4
+1044,Koper,2024,amphetamine,13.68
+1045,Kranj,2024,amphetamine,20.6
+1046,Ljubljana,2024,amphetamine,25.51
+1047,Maribor,2024,amphetamine,32.51
+1048,Novo mesto,2024,amphetamine,9.82
+1049,Velenje,2024,amphetamine,58.28
+1050,Bratislava C,2024,amphetamine,12.47
+1051,Piestany,2024,amphetamine,7.62
+1052,Ankara,2024,amphetamine,6.73
+1053,Istanbul (II-VII),2024,amphetamine,5.9
+1054,Graz,2024,cannabis,66.17
+1056,Innsbruck,2024,cannabis,79.05
+1057,Kapfenberg,2024,cannabis,53.46
+1058,Klagenfurt,2024,cannabis,42.84
+1060,Kufstein,2024,cannabis,74.09
+1061,Purgstall,2024,cannabis,38.52
+1062,Region Millstättersee,2024,cannabis,25.8
+1063,Ried im Innkreis,2024,cannabis,58.15
+1064,Salzburg,2024,cannabis,50.76
+1065,Steyr,2024,cannabis,61.54
+1067,Wasserverband Hofsteig,2024,cannabis,55.86
+1068,Wien,2024,cannabis,87.34
+1069,Wiener Neustadt,2024,cannabis,55.94
+1070,Wildon,2024,cannabis,31.32
+1071,Basel,2024,cannabis,30.7
+1072,Berne,2024,cannabis,47.01
+1073,Geneva,2024,cannabis,145.37
+1074,Zurich,2024,cannabis,87.59
+1075,Brno,2024,cannabis,72.31
+1077,Karlovy Vary,2024,cannabis,71.97
+1078,Ostrava,2024,cannabis,61.53
+1079,Plzen,2024,cannabis,105.41
+1080,Prague (2),2024,cannabis,80.35
+1082,Aalborg,2024,cannabis,90.62
+1083,Aarhus,2024,cannabis,65.53
+1084,Copenhagen,2024,cannabis,123.35
+1087,Odense,2024,cannabis,78.41
+1088,Barcelona,2024,cannabis,220.68
+1089,Castellon,2024,cannabis,65.04
+1090,Lleida,2024,cannabis,121.31
+1091,Santiago,2024,cannabis,54.32
+1092,Tarragona,2024,cannabis,228.9
+1093,Paris Seine Centre,2024,cannabis,53.88
+1094,Athens,2024,cannabis,36.9
+1095,Split,2024,cannabis,4.93
+1096,Zagreb,2024,cannabis,88.8
+1097,Budapest,2024,cannabis,56.78
+1098,Dublin,2024,cannabis,98.1
+1099,Bologna,2024,cannabis,82.04
+1100,Bozen,2024,cannabis,52.72
+1101,Milan,2024,cannabis,52.28
+1102,Rome,2024,cannabis,78.77
+1103,Luxembourg,2024,cannabis,140.4
+1104,Amsterdam,2024,cannabis,319.46
+1105,Eindhoven,2024,cannabis,124.64
+1106,Groningen,2024,cannabis,258.08
+1107,Rotterdam (2),2024,cannabis,147.99
+1108,Utrecht,2024,cannabis,122.44
+1109,Zwolle,2024,cannabis,98.16
+1110,Bergen (2),2024,cannabis,132.72
+1111,Oslo (2),2024,cannabis,163.11
+1112,Trondheim (2),2024,cannabis,110.78
+1113,Krakow P,2024,cannabis,41.68
+1115,Lisbon,2024,cannabis,150.83
+1116,Porto,2024,cannabis,53.74
+1118,Karlstad,2024,cannabis,36.84
+1119,Stockholm (2),2024,cannabis,57.61
+1123,Koper,2024,cannabis,81.88
+1124,Kranj,2024,cannabis,45.65
+1125,Ljubljana,2024,cannabis,90.21
+1126,Maribor,2024,cannabis,64.97
+1127,Novo mesto,2024,cannabis,36.84
+1128,Velenje,2024,cannabis,68.18
+1129,Bratislava C,2024,cannabis,58.46
+1130,Piestany,2024,cannabis,52.34
+1131,Ankara,2024,cannabis,16.86
+1132,Istanbul (II-VII),2024,cannabis,16.52
+1133,Graz,2024,cocaine,332.85
+1135,Innsbruck,2024,cocaine,522.76
+1136,Kapfenberg,2024,cocaine,166.56
+1137,Klagenfurt,2024,cocaine,311.32
+1139,Kufstein,2024,cocaine,641.52
+1140,Purgstall,2024,cocaine,66.4
+1141,Region Millstättersee,2024,cocaine,172.0
+1142,Ried im Innkreis,2024,cocaine,95.96
+1143,Salzburg,2024,cocaine,279.9
+1144,Steyr,2024,cocaine,149.75
+1146,Wasserverband Hofsteig,2024,cocaine,342.0
+1147,Wien,2024,cocaine,443.95
+1148,Wiener Neustadt,2024,cocaine,277.24
+1149,Wildon,2024,cocaine,165.58
+1150,Antwerp Zuid,2024,cocaine,1996.98
+1151,Brussels,2024,cocaine,1186.34
+1152,Basel,2024,cocaine,569.48
+1153,Berne,2024,cocaine,660.77
+1154,Geneva,2024,cocaine,917.84
+1155,Zurich,2024,cocaine,1086.39
+1159,Nicosia (2),2024,cocaine,43.54
+1161,Brno,2024,cocaine,193.39
+1163,Karlovy Vary,2024,cocaine,103.2
+1164,Ostrava,2024,cocaine,119.23
+1165,Plzen,2024,cocaine,200.1
+1166,Prague (2),2024,cocaine,501.72
+1168,Chemnitz,2024,cocaine,57.48
+1169,Dortmund,2024,cocaine,480.76
+1170,Dresden,2024,cocaine,101.92
+1171,Erfurt,2024,cocaine,118.62
+1172,Hannover (2),2024,cocaine,421.51
+1173,Magdeburg,2024,cocaine,226.4
+1174,Munich G,2024,cocaine,407.64
+1175,Nuremberg,2024,cocaine,91.62
+1177,Stuttgart,2024,cocaine,436.81
+1178,Aalborg,2024,cocaine,488.12
+1179,Aarhus,2024,cocaine,287.21
+1180,Copenhagen,2024,cocaine,548.44
+1183,Odense,2024,cocaine,406.63
+1184,Barcelona,2024,cocaine,349.44
+1185,Castellon,2024,cocaine,752.07
+1186,Lleida,2024,cocaine,623.86
+1187,Santiago,2024,cocaine,609.79
+1188,Tarragona,2024,cocaine,1482.91
+1190,Helsinki,2024,cocaine,224.53
+1193,Joensuu,2024,cocaine,23.45
+1195,Kajaani,2024,cocaine,17.55
+1196,Kemi,2024,cocaine,8.15
+1197,Kokkola,2024,cocaine,3.05
+1199,Kouvola,2024,cocaine,32.39
+1200,Kuopio,2024,cocaine,27.42
+1201,Lahti,2024,cocaine,111.14
+1202,Lappeenranta,2024,cocaine,9.0
+1203,Mariehamn,2024,cocaine,17.41
+1204,Mikkeli,2024,cocaine,21.82
+1205,Oulu,2024,cocaine,29.47
+1207,Pori,2024,cocaine,21.11
+1210,Rovaniemi,2024,cocaine,15.61
+1213,Tampere,2024,cocaine,73.78
+1214,Turku,2024,cocaine,91.21
+1215,Vaasa,2024,cocaine,23.04
+1217,Athens,2024,cocaine,181.21
+1218,Split,2024,cocaine,232.99
+1219,Zagreb,2024,cocaine,677.38
+1220,Budapest,2024,cocaine,311.72
+1221,Dublin,2024,cocaine,875.54
+1222,Bologna,2024,cocaine,531.55
+1223,Bozen,2024,cocaine,415.08
+1224,Milan,2024,cocaine,402.39
+1225,Rome,2024,cocaine,478.61
+1226,Kaunas,2024,cocaine,254.31
+1227,Klaipeda,2024,cocaine,164.15
+1228,Vilnius,2024,cocaine,169.07
+1229,Luxembourg,2024,cocaine,499.33
+1230,Riga,2024,cocaine,202.67
+1231,Amsterdam,2024,cocaine,1206.28
+1232,Eindhoven,2024,cocaine,809.89
+1233,Groningen,2024,cocaine,932.69
+1234,Rotterdam (2),2024,cocaine,972.92
+1235,Utrecht,2024,cocaine,688.55
+1236,Zwolle,2024,cocaine,492.68
+1237,Bergen (2),2024,cocaine,515.61
+1238,Oslo (2),2024,cocaine,672.16
+1239,Trondheim (2),2024,cocaine,264.37
+1240,Krakow P,2024,cocaine,92.56
+1242,Lisbon,2024,cocaine,625.08
+1243,Porto,2024,cocaine,415.58
+1244,Bucharest,2024,cocaine,200.11
+1246,Karlstad,2024,cocaine,108.62
+1247,Stockholm (2),2024,cocaine,374.23
+1251,Koper,2024,cocaine,654.84
+1252,Kranj,2024,cocaine,441.84
+1253,Ljubljana,2024,cocaine,692.72
+1254,Maribor,2024,cocaine,447.91
+1255,Novo mesto,2024,cocaine,318.89
+1256,Velenje,2024,cocaine,258.7
+1257,Bratislava C,2024,cocaine,316.79
+1258,Piestany,2024,cocaine,60.27
+1259,Ankara,2024,cocaine,14.38
+1260,Istanbul (II-VII),2024,cocaine,42.05
+1261,Antwerp Zuid,2024,ketamine,71.46
+1262,Brussels,2024,ketamine,43.38
+1263,Basel,2024,ketamine,15.99
+1264,Berne,2024,ketamine,11.33
+1265,Geneva,2024,ketamine,41.11
+1266,Zurich,2024,ketamine,54.3
+1270,Nicosia (2),2024,ketamine,0.0
+1272,Brno,2024,ketamine,3.82
+1274,Karlovy Vary,2024,ketamine,0.0
+1275,Ostrava,2024,ketamine,1.55
+1276,Plzen,2024,ketamine,2.41
+1277,Prague (2),2024,ketamine,13.59
+1279,Chemnitz,2024,ketamine,0.0
+1280,Dortmund,2024,ketamine,11.54
+1281,Dresden,2024,ketamine,21.59
+1282,Erfurt,2024,ketamine,13.28
+1283,Hannover (2),2024,ketamine,19.13
+1284,Magdeburg,2024,ketamine,12.77
+1285,Munich G,2024,ketamine,14.51
+1286,Nuremberg,2024,ketamine,11.96
+1288,Stuttgart,2024,ketamine,14.74
+1289,Aalborg,2024,ketamine,30.39
+1290,Aarhus,2024,ketamine,3.4
+1291,Copenhagen,2024,ketamine,33.44
+1294,Odense,2024,ketamine,7.22
+1295,Barcelona,2024,ketamine,55.96
+1296,Castellon,2024,ketamine,8.53
+1297,Lleida,2024,ketamine,10.61
+1298,Santiago,2024,ketamine,3.97
+1299,Tarragona,2024,ketamine,30.77
+1301,Helsinki,2024,ketamine,10.28
+1302,Tampere,2024,ketamine,10.89
+1303,Turku,2024,ketamine,5.4
+1304,Paris Seine Centre,2024,ketamine,15.75
+1305,Athens,2024,ketamine,0.0
+1306,Split,2024,ketamine,12.59
+1307,Budapest,2024,ketamine,79.5
+1308,Dublin,2024,ketamine,43.49
+1309,Bologna,2024,ketamine,31.81
+1310,Milan,2024,ketamine,24.92
+1311,Rome,2024,ketamine,8.95
+1312,Kaunas,2024,ketamine,0.0
+1313,Klaipeda,2024,ketamine,0.0
+1314,Vilnius,2024,ketamine,4.48
+1315,Luxembourg,2024,ketamine,12.4
+1316,Riga,2024,ketamine,0.0
+1317,Amsterdam,2024,ketamine,132.21
+1318,Eindhoven,2024,ketamine,90.77
+1319,Groningen,2024,ketamine,41.28
+1320,Rotterdam (2),2024,ketamine,61.44
+1321,Utrecht,2024,ketamine,44.25
+1322,Zwolle,2024,ketamine,29.59
+1323,Bergen (2),2024,ketamine,37.9
+1324,Oslo (2),2024,ketamine,65.51
+1325,Trondheim (2),2024,ketamine,9.59
+1326,Krakow P,2024,ketamine,4.05
+1328,Lisbon,2024,ketamine,14.28
+1329,Porto,2024,ketamine,0.94
+1330,Bucharest,2024,ketamine,11.17
+1332,Karlstad,2024,ketamine,4.0
+1333,Stockholm (2),2024,ketamine,14.96
+1337,Koper,2024,ketamine,0.0
+1338,Kranj,2024,ketamine,1.48
+1339,Ljubljana,2024,ketamine,8.09
+1340,Maribor,2024,ketamine,1.36
+1341,Novo mesto,2024,ketamine,2.01
+1342,Velenje,2024,ketamine,0.0
+1343,Bratislava C,2024,ketamine,5.3
+1344,Piestany,2024,ketamine,2.61
+1345,Graz,2024,methamphetamine,6.38
+1347,Innsbruck,2024,methamphetamine,9.09
+1348,Kapfenberg,2024,methamphetamine,1.13
+1349,Klagenfurt,2024,methamphetamine,0.81
+1351,Kufstein,2024,methamphetamine,0.68
+1352,Purgstall,2024,methamphetamine,11.23
+1353,Region Millstättersee,2024,methamphetamine,0.84
+1354,Ried im Innkreis,2024,methamphetamine,9.01
+1355,Salzburg,2024,methamphetamine,4.78
+1356,Steyr,2024,methamphetamine,16.98
+1358,Wasserverband Hofsteig,2024,methamphetamine,2.36
+1359,Wien,2024,methamphetamine,28.98
+1360,Wiener Neustadt,2024,methamphetamine,22.05
+1361,Wildon,2024,methamphetamine,4.16
+1362,Antwerp Zuid,2024,methamphetamine,93.94
+1363,Brussels,2024,methamphetamine,40.26
+1364,Basel,2024,methamphetamine,14.59
+1365,Berne,2024,methamphetamine,24.34
+1366,Geneva,2024,methamphetamine,18.95
+1367,Zurich,2024,methamphetamine,59.76
+1371,Nicosia (2),2024,methamphetamine,10.82
+1373,Brno,2024,methamphetamine,417.53
+1375,Karlovy Vary,2024,methamphetamine,371.95
+1376,Ostrava,2024,methamphetamine,577.04
+1377,Plzen,2024,methamphetamine,484.72
+1378,Prague (2),2024,methamphetamine,408.54
+1380,Chemnitz,2024,methamphetamine,362.0
+1381,Dortmund,2024,methamphetamine,0.0
+1382,Dresden,2024,methamphetamine,399.64
+1383,Erfurt,2024,methamphetamine,334.94
+1384,Hannover (2),2024,methamphetamine,5.42
+1385,Magdeburg,2024,methamphetamine,195.41
+1386,Munich G,2024,methamphetamine,18.86
+1387,Nuremberg,2024,methamphetamine,175.17
+1389,Stuttgart,2024,methamphetamine,14.21
+1390,Aalborg,2024,methamphetamine,4.26
+1391,Aarhus,2024,methamphetamine,6.72
+1392,Copenhagen,2024,methamphetamine,25.38
+1395,Odense,2024,methamphetamine,1.5
+1396,Barcelona,2024,methamphetamine,52.36
+1397,Lleida,2024,methamphetamine,0.0
+1398,Santiago,2024,methamphetamine,0.0
+1400,Helsinki,2024,methamphetamine,22.89
+1403,Joensuu,2024,methamphetamine,14.53
+1405,Kajaani,2024,methamphetamine,2.51
+1406,Kemi,2024,methamphetamine,2.21
+1407,Kokkola,2024,methamphetamine,1.9
+1409,Kouvola,2024,methamphetamine,3.47
+1410,Kuopio,2024,methamphetamine,1.24
+1411,Lahti,2024,methamphetamine,2.54
+1412,Lappeenranta,2024,methamphetamine,4.08
+1413,Mariehamn,2024,methamphetamine,2.46
+1414,Mikkeli,2024,methamphetamine,2.61
+1415,Oulu,2024,methamphetamine,2.87
+1417,Pori,2024,methamphetamine,2.11
+1420,Rovaniemi,2024,methamphetamine,2.53
+1423,Tampere,2024,methamphetamine,3.02
+1424,Turku,2024,methamphetamine,9.87
+1425,Vaasa,2024,methamphetamine,1.79
+1427,Paris Seine Centre,2024,methamphetamine,12.25
+1428,Athens,2024,methamphetamine,20.35
+1429,Split,2024,methamphetamine,1.84
+1430,Zagreb,2024,methamphetamine,45.47
+1431,Budapest,2024,methamphetamine,11.01
+1432,Dublin,2024,methamphetamine,21.56
+1433,Bologna,2024,methamphetamine,23.46
+1434,Bozen,2024,methamphetamine,1.06
+1435,Milan,2024,methamphetamine,11.14
+1436,Rome,2024,methamphetamine,13.27
+1437,Klaipeda,2024,methamphetamine,1.49
+1438,Vilnius,2024,methamphetamine,5.63
+1439,Luxembourg,2024,methamphetamine,2.36
+1440,Riga,2024,methamphetamine,22.36
+1441,Amsterdam,2024,methamphetamine,64.4
+1442,Groningen,2024,methamphetamine,3.44
+1443,Rotterdam (2),2024,methamphetamine,9.8
+1444,Utrecht,2024,methamphetamine,8.64
+1445,Zwolle,2024,methamphetamine,1.14
+1446,Bergen (2),2024,methamphetamine,0.0
+1447,Oslo (2),2024,methamphetamine,29.35
+1448,Trondheim (2),2024,methamphetamine,5.74
+1449,Krakow P,2024,methamphetamine,3.57
+1451,Lisbon,2024,methamphetamine,10.78
+1452,Porto,2024,methamphetamine,1.49
+1453,Bucharest,2024,methamphetamine,3.03
+1455,Karlstad,2024,methamphetamine,1.39
+1456,Stockholm (2),2024,methamphetamine,16.78
+1460,Koper,2024,methamphetamine,0.0
+1461,Kranj,2024,methamphetamine,0.73
+1462,Ljubljana,2024,methamphetamine,4.67
+1463,Maribor,2024,methamphetamine,0.0
+1464,Novo mesto,2024,methamphetamine,0.0
+1465,Velenje,2024,methamphetamine,0.0
+1466,Bratislava C,2024,methamphetamine,295.37
+1467,Piestany,2024,methamphetamine,223.78
+1468,Istanbul (II-VII),2024,methamphetamine,72.13
+1469,Graz,2023,MDMA,23.73
+1471,Innsbruck,2023,MDMA,19.57
+1472,Kapfenberg,2023,MDMA,5.77
+1473,Klagenfurt,2023,MDMA,7.09
+1475,Kufstein,2023,MDMA,8.59
+1476,Purgstall,2023,MDMA,13.22
+1477,Region Millstättersee,2023,MDMA,3.55
+1478,Salzburg,2023,MDMA,6.9
+1479,Steyr,2023,MDMA,15.78
+1481,Wasserverband Hofsteig,2023,MDMA,5.6
+1482,Wien,2023,MDMA,18.67
+1483,Wiener Neustadt,2023,MDMA,10.63
+1484,Wildon,2023,MDMA,10.53
+1485,Antwerp Zuid,2023,MDMA,318.23
+1486,Brussels,2023,MDMA,30.02
+1487,Basel,2023,MDMA,16.26
+1488,Berne,2023,MDMA,17.18
+1489,Geneva,2023,MDMA,33.29
+1490,Zurich,2023,MDMA,47.12
+1494,Nicosia (2),2023,MDMA,2.99
+1496,Brno,2023,MDMA,15.51
+1498,Karlovy Vary,2023,MDMA,12.8
+1499,Ostrava,2023,MDMA,9.71
+1500,Plzen,2023,MDMA,18.69
+1501,Chemnitz,2023,MDMA,12.84
+1502,Dortmund,2023,MDMA,77.18
+1503,Dresden,2023,MDMA,12.43
+1504,Erfurt,2023,MDMA,15.24
+1505,Magdeburg,2023,MDMA,20.04
+1506,Munich G,2023,MDMA,16.1
+1507,Nuremberg,2023,MDMA,25.87
+1509,Aarhus,2023,MDMA,17.7
+1510,Tallinn,2023,MDMA,27.55
+1511,Tartu,2023,MDMA,24.75
+1512,Barcelona,2023,MDMA,54.82
+1513,Castellon,2023,MDMA,8.13
+1514,Granada,2023,MDMA,78.91
+1515,Lleida,2023,MDMA,11.2
+1516,Santiago,2023,MDMA,16.75
+1519,Helsinki,2023,MDMA,31.39
+1520,Tampere,2023,MDMA,20.88
+1521,Turku,2023,MDMA,22.3
+1522,Paris Seine Centre,2023,MDMA,83.04
+1523,Athens,2023,MDMA,3.97
+1524,Debrecen,2023,MDMA,11.66
+1525,Zagreb,2023,MDMA,27.27
+1526,Bozen,2023,MDMA,5.61
+1527,Milan,2023,MDMA,9.84
+1528,Kaunas,2023,MDMA,14.86
+1529,Klaipeda,2023,MDMA,8.27
+1530,Vilnius,2023,MDMA,51.13
+1534,Riga,2023,MDMA,28.64
+1535,Amsterdam,2023,MDMA,194.56
+1536,Leeuwarden,2023,MDMA,76.36
+1537,Rotterdam (2),2023,MDMA,236.71
+1538,Utrecht,2023,MDMA,116.73
+1539,Krakow P,2023,MDMA,24.16
+1541,Lisbon,2023,MDMA,33.08
+1542,Porto,2023,MDMA,18.56
+1543,Bucharest,2023,MDMA,15.16
+1547,Koper,2023,MDMA,7.07
+1548,Kranj,2023,MDMA,12.51
+1549,Ljubljana,2023,MDMA,24.06
+1550,Maribor,2023,MDMA,17.56
+1551,Novo mesto,2023,MDMA,3.86
+1552,Velenje,2023,MDMA,5.11
+1553,Bratislava C,2023,MDMA,13.9
+1554,Piestany,2023,MDMA,5.99
+1555,Ankara,2023,MDMA,8.81
+1556,Istanbul (II-VII),2023,MDMA,23.31
+1557,Graz,2023,amphetamine,45.39
+1559,Innsbruck,2023,amphetamine,15.6
+1560,Kapfenberg,2023,amphetamine,33.43
+1561,Klagenfurt,2023,amphetamine,6.41
+1563,Kufstein,2023,amphetamine,20.67
+1564,Purgstall,2023,amphetamine,14.31
+1565,Region Millstättersee,2023,amphetamine,2.02
+1566,Salzburg,2023,amphetamine,17.58
+1567,Steyr,2023,amphetamine,35.52
+1569,Wasserverband Hofsteig,2023,amphetamine,16.83
+1570,Wien,2023,amphetamine,39.66
+1571,Wiener Neustadt,2023,amphetamine,26.65
+1572,Wildon,2023,amphetamine,36.21
+1573,Antwerp Zuid,2023,amphetamine,391.42
+1574,Brussels,2023,amphetamine,50.82
+1575,Basel,2023,amphetamine,20.01
+1576,Berne,2023,amphetamine,51.93
+1577,Geneva,2023,amphetamine,12.55
+1578,Zurich,2023,amphetamine,51.97
+1582,Nicosia (2),2023,amphetamine,6.28
+1584,Karlovy Vary,2023,amphetamine,50.44
+1585,Ostrava,2023,amphetamine,59.32
+1586,Plzen,2023,amphetamine,46.01
+1587,Chemnitz,2023,amphetamine,26.68
+1588,Dortmund,2023,amphetamine,234.66
+1589,Dresden,2023,amphetamine,46.38
+1590,Erfurt,2023,amphetamine,62.49
+1591,Magdeburg,2023,amphetamine,122.97
+1592,Munich G,2023,amphetamine,30.93
+1593,Nuremberg,2023,amphetamine,46.96
+1595,Aarhus,2023,amphetamine,83.32
+1596,Tallinn,2023,amphetamine,107.59
+1597,Tartu,2023,amphetamine,102.66
+1598,Barcelona,2023,amphetamine,36.63
+1599,Granada,2023,amphetamine,51.81
+1600,Lleida,2023,amphetamine,44.23
+1601,Santiago,2023,amphetamine,0.0
+1602,Tarragona,2023,amphetamine,51.51
+1605,Helsinki,2023,amphetamine,184.74
+1606,Tampere,2023,amphetamine,137.59
+1607,Turku,2023,amphetamine,117.26
+1608,Paris Seine Centre,2023,amphetamine,0.0
+1609,Debrecen,2023,amphetamine,35.23
+1610,Zagreb,2023,amphetamine,98.29
+1611,Bozen,2023,amphetamine,2.56
+1612,Milan,2023,amphetamine,6.6
+1613,Kaunas,2023,amphetamine,67.11
+1614,Klaipeda,2023,amphetamine,19.12
+1615,Vilnius,2023,amphetamine,66.07
+1619,Riga,2023,amphetamine,160.07
+1620,Amsterdam,2023,amphetamine,122.02
+1621,Leeuwarden,2023,amphetamine,330.66
+1622,Rotterdam (2),2023,amphetamine,237.16
+1623,Krakow P,2023,amphetamine,66.89
+1625,Lisbon,2023,amphetamine,4.9
+1626,Porto,2023,amphetamine,0.0
+1627,Bucharest,2023,amphetamine,3.73
+1629,Uppsala,2023,amphetamine,173.57
+1632,Koper,2023,amphetamine,0.0
+1633,Kranj,2023,amphetamine,0.0
+1634,Ljubljana,2023,amphetamine,16.76
+1635,Maribor,2023,amphetamine,30.25
+1636,Novo mesto,2023,amphetamine,4.03
+1637,Velenje,2023,amphetamine,135.08
+1638,Ankara,2023,amphetamine,8.69
+1639,Graz,2023,cannabis,64.2
+1641,Innsbruck,2023,cannabis,84.29
+1642,Kapfenberg,2023,cannabis,67.42
+1643,Klagenfurt,2023,cannabis,41.55
+1645,Kufstein,2023,cannabis,90.77
+1646,Purgstall,2023,cannabis,42.96
+1647,Region Millstättersee,2023,cannabis,49.5
+1648,Salzburg,2023,cannabis,55.15
+1649,Steyr,2023,cannabis,86.59
+1651,Wasserverband Hofsteig,2023,cannabis,49.14
+1652,Wien,2023,cannabis,80.09
+1653,Wiener Neustadt,2023,cannabis,60.51
+1654,Wildon,2023,cannabis,45.96
+1655,Basel,2023,cannabis,56.09
+1656,Berne,2023,cannabis,85.71
+1657,Geneva,2023,cannabis,150.01
+1658,Zurich,2023,cannabis,121.1
+1659,Brno,2023,cannabis,45.5
+1661,Karlovy Vary,2023,cannabis,109.13
+1662,Ostrava,2023,cannabis,54.13
+1663,Plzen,2023,cannabis,114.72
+1664,Tallinn,2023,cannabis,65.23
+1665,Tartu,2023,cannabis,36.13
+1666,Barcelona,2023,cannabis,220.63
+1667,Castellon,2023,cannabis,75.27
+1668,Lleida,2023,cannabis,172.82
+1669,Santiago,2023,cannabis,71.9
+1670,Tarragona,2023,cannabis,192.64
+1672,Paris Seine Centre,2023,cannabis,119.1
+1673,Debrecen,2023,cannabis,13.12
+1674,Zagreb,2023,cannabis,85.68
+1675,Bozen,2023,cannabis,57.71
+1676,Milan,2023,cannabis,54.22
+1680,Amsterdam,2023,cannabis,195.74
+1681,Eindhoven,2023,cannabis,147.64
+1682,Leeuwarden,2023,cannabis,199.84
+1683,Rotterdam (2),2023,cannabis,225.36
+1684,Utrecht,2023,cannabis,146.61
+1685,Krakow P,2023,cannabis,37.54
+1687,Lisbon,2023,cannabis,113.19
+1688,Porto,2023,cannabis,98.29
+1692,Koper,2023,cannabis,167.48
+1693,Kranj,2023,cannabis,56.59
+1694,Ljubljana,2023,cannabis,137.36
+1695,Maribor,2023,cannabis,88.6
+1696,Novo mesto,2023,cannabis,73.9
+1697,Velenje,2023,cannabis,78.17
+1698,Bratislava C,2023,cannabis,34.3
+1699,Piestany,2023,cannabis,23.42
+1700,Ankara,2023,cannabis,24.4
+1701,Istanbul (II-VII),2023,cannabis,14.16
+1702,Graz,2023,cocaine,278.41
+1704,Innsbruck,2023,cocaine,423.39
+1705,Kapfenberg,2023,cocaine,151.36
+1706,Klagenfurt,2023,cocaine,189.29
+1708,Kufstein,2023,cocaine,589.11
+1709,Purgstall,2023,cocaine,24.89
+1710,Region Millstättersee,2023,cocaine,216.28
+1711,Salzburg,2023,cocaine,253.83
+1712,Steyr,2023,cocaine,132.04
+1714,Wasserverband Hofsteig,2023,cocaine,271.05
+1715,Wien,2023,cocaine,442.74
+1716,Wiener Neustadt,2023,cocaine,268.27
+1717,Wildon,2023,cocaine,188.89
+1718,Antwerp Zuid,2023,cocaine,1721.58
+1719,Brussels,2023,cocaine,598.22
+1720,Basel,2023,cocaine,559.98
+1721,Berne,2023,cocaine,631.37
+1722,Geneva,2023,cocaine,812.89
+1723,Zurich,2023,cocaine,1022.61
+1727,Nicosia (2),2023,cocaine,65.27
+1729,Brno,2023,cocaine,115.61
+1731,Karlovy Vary,2023,cocaine,130.93
+1732,Ostrava,2023,cocaine,99.11
+1733,Plzen,2023,cocaine,162.31
+1734,Chemnitz,2023,cocaine,57.76
+1735,Dortmund,2023,cocaine,547.65
+1736,Dresden,2023,cocaine,85.33
+1737,Erfurt,2023,cocaine,120.04
+1738,Magdeburg,2023,cocaine,233.94
+1739,Munich G,2023,cocaine,301.46
+1740,Nuremberg,2023,cocaine,103.7
+1742,Tallinn,2023,cocaine,282.82
+1743,Tartu,2023,cocaine,178.32
+1744,Barcelona,2023,cocaine,619.47
+1745,Castellon,2023,cocaine,445.24
+1746,Granada,2023,cocaine,1031.3
+1747,Lleida,2023,cocaine,879.41
+1748,Santiago,2023,cocaine,627.43
+1749,Tarragona,2023,cocaine,1463.91
+1752,Helsinki,2023,cocaine,250.72
+1753,Tampere,2023,cocaine,47.43
+1754,Turku,2023,cocaine,59.46
+1755,Paris Seine Centre,2023,cocaine,616.48
+1756,Athens,2023,cocaine,133.39
+1757,Debrecen,2023,cocaine,24.61
+1758,Zagreb,2023,cocaine,567.95
+1759,Bozen,2023,cocaine,447.22
+1760,Milan,2023,cocaine,369.18
+1761,Kaunas,2023,cocaine,199.4
+1762,Klaipeda,2023,cocaine,92.15
+1763,Vilnius,2023,cocaine,124.03
+1767,Riga,2023,cocaine,231.72
+1768,Amsterdam,2023,cocaine,1209.96
+1769,Eindhoven,2023,cocaine,766.11
+1770,Leeuwarden,2023,cocaine,1191.51
+1771,Rotterdam (2),2023,cocaine,1088.44
+1772,Utrecht,2023,cocaine,734.55
+1773,Krakow P,2023,cocaine,70.35
+1774,Porto,2023,cocaine,512.53
+1775,Bucharest,2023,cocaine,175.53
+1777,Uppsala,2023,cocaine,68.55
+1780,Koper,2023,cocaine,496.63
+1781,Kranj,2023,cocaine,319.68
+1782,Ljubljana,2023,cocaine,554.73
+1783,Maribor,2023,cocaine,394.89
+1784,Novo mesto,2023,cocaine,303.06
+1785,Velenje,2023,cocaine,376.11
+1786,Bratislava C,2023,cocaine,194.71
+1787,Piestany,2023,cocaine,35.77
+1788,Ankara,2023,cocaine,10.61
+1789,Antwerp Zuid,2023,ketamine,88.47
+1790,Brussels,2023,ketamine,25.06
+1791,Basel,2023,ketamine,14.05
+1792,Berne,2023,ketamine,11.17
+1793,Geneva,2023,ketamine,22.8
+1794,Zurich,2023,ketamine,45.72
+1798,Nicosia (2),2023,ketamine,0.0
+1800,Brno,2023,ketamine,2.01
+1802,Ostrava,2023,ketamine,1.67
+1803,Dortmund,2023,ketamine,11.03
+1804,Dresden,2023,ketamine,27.05
+1805,Erfurt,2023,ketamine,4.1
+1806,Magdeburg,2023,ketamine,29.6
+1807,Munich G,2023,ketamine,19.29
+1808,Nuremberg,2023,ketamine,24.03
+1810,Aarhus,2023,ketamine,4.92
+1811,Barcelona,2023,ketamine,52.18
+1812,Castellon,2023,ketamine,3.0
+1813,Granada,2023,ketamine,22.93
+1814,Lleida,2023,ketamine,8.87
+1815,Paris Seine Centre,2023,ketamine,31.81
+1816,Athens,2023,ketamine,0.0
+1817,Debrecen,2023,ketamine,0.6
+1818,Zagreb,2023,ketamine,0.0
+1819,Milan,2023,ketamine,22.98
+1820,Kaunas,2023,ketamine,0.0
+1821,Klaipeda,2023,ketamine,0.0
+1822,Vilnius,2023,ketamine,10.68
+1826,Riga,2023,ketamine,0.0
+1827,Leeuwarden,2023,ketamine,25.75
+1828,Rotterdam (2),2023,ketamine,76.69
+1829,Krakow P,2023,ketamine,4.23
+1830,Bucharest,2023,ketamine,9.23
+1832,Uppsala,2023,ketamine,12.78
+1835,Koper,2023,ketamine,0.0
+1836,Kranj,2023,ketamine,1.33
+1837,Ljubljana,2023,ketamine,16.65
+1838,Maribor,2023,ketamine,0.0
+1839,Novo mesto,2023,ketamine,0.0
+1840,Velenje,2023,ketamine,0.0
+1841,Bratislava C,2023,ketamine,3.71
+1842,Piestany,2023,ketamine,0.75
+1843,Graz,2023,methamphetamine,11.55
+1845,Innsbruck,2023,methamphetamine,11.83
+1846,Kapfenberg,2023,methamphetamine,2.32
+1847,Klagenfurt,2023,methamphetamine,0.0
+1849,Kufstein,2023,methamphetamine,1.61
+1850,Purgstall,2023,methamphetamine,6.39
+1851,Region Millstättersee,2023,methamphetamine,0.0
+1852,Salzburg,2023,methamphetamine,3.1
+1853,Steyr,2023,methamphetamine,19.66
+1855,Wasserverband Hofsteig,2023,methamphetamine,1.0
+1856,Wien,2023,methamphetamine,20.81
+1857,Wiener Neustadt,2023,methamphetamine,31.58
+1858,Wildon,2023,methamphetamine,8.29
+1859,Antwerp Zuid,2023,methamphetamine,44.4
+1860,Brussels,2023,methamphetamine,16.45
+1861,Basel,2023,methamphetamine,18.22
+1862,Berne,2023,methamphetamine,22.53
+1863,Geneva,2023,methamphetamine,12.67
+1864,Zurich,2023,methamphetamine,61.92
+1868,Nicosia (2),2023,methamphetamine,9.17
+1870,Brno,2023,methamphetamine,307.73
+1872,Karlovy Vary,2023,methamphetamine,306.2
+1873,Ostrava,2023,methamphetamine,614.44
+1874,Plzen,2023,methamphetamine,317.82
+1875,Chemnitz,2023,methamphetamine,346.34
+1876,Dortmund,2023,methamphetamine,0.0
+1877,Dresden,2023,methamphetamine,316.83
+1878,Erfurt,2023,methamphetamine,334.42
+1879,Magdeburg,2023,methamphetamine,163.31
+1880,Munich G,2023,methamphetamine,14.36
+1881,Nuremberg,2023,methamphetamine,167.89
+1883,Aarhus,2023,methamphetamine,1.81
+1884,Tallinn,2023,methamphetamine,1.63
+1885,Tartu,2023,methamphetamine,10.27
+1886,Barcelona,2023,methamphetamine,59.9
+1887,Castellon,2023,methamphetamine,0.0
+1888,Granada,2023,methamphetamine,0.73
+1889,Lleida,2023,methamphetamine,2.61
+1890,Santiago,2023,methamphetamine,0.0
+1893,Helsinki,2023,methamphetamine,31.66
+1894,Tampere,2023,methamphetamine,7.35
+1895,Turku,2023,methamphetamine,5.68
+1896,Paris Seine Centre,2023,methamphetamine,34.37
+1897,Debrecen,2023,methamphetamine,0.42
+1898,Zagreb,2023,methamphetamine,0.0
+1899,Bozen,2023,methamphetamine,0.0
+1900,Milan,2023,methamphetamine,16.18
+1901,Kaunas,2023,methamphetamine,13.28
+1902,Klaipeda,2023,methamphetamine,0.82
+1903,Vilnius,2023,methamphetamine,4.28
+1907,Riga,2023,methamphetamine,21.39
+1908,Amsterdam,2023,methamphetamine,40.62
+1909,Eindhoven,2023,methamphetamine,29.95
+1910,Leeuwarden,2023,methamphetamine,25.69
+1911,Rotterdam (2),2023,methamphetamine,12.37
+1912,Utrecht,2023,methamphetamine,4.92
+1913,Krakow P,2023,methamphetamine,5.16
+1915,Lisbon,2023,methamphetamine,6.1
+1916,Porto,2023,methamphetamine,0.0
+1917,Bucharest,2023,methamphetamine,0.0
+1919,Uppsala,2023,methamphetamine,0.89
+1922,Koper,2023,methamphetamine,0.78
+1923,Kranj,2023,methamphetamine,1.26
+1924,Ljubljana,2023,methamphetamine,9.68
+1925,Maribor,2023,methamphetamine,0.4
+1926,Novo mesto,2023,methamphetamine,1.72
+1927,Velenje,2023,methamphetamine,0.0
+1928,Bratislava C,2023,methamphetamine,240.97
+1929,Piestany,2023,methamphetamine,227.95
+1930,Ankara,2023,methamphetamine,15.13
+1931,Istanbul (II-VII),2023,methamphetamine,94.13
+1932,Graz,2022,MDMA,12.43
+1934,Innsbruck,2022,MDMA,15.59
+1935,Kapfenberg,2022,MDMA,5.58
+1936,Klagenfurt,2022,MDMA,9.89
+1939,Kufstein,2022,MDMA,16.65
+1940,Purgstall,2022,MDMA,5.91
+1941,Region Millstättersee,2022,MDMA,4.46
+1942,Salzburg,2022,MDMA,6.85
+1943,Steyr,2022,MDMA,7.15
+1945,Wasserverband Hofsteig,2022,MDMA,6.58
+1946,Wien,2022,MDMA,18.19
+1947,Wiener Neustadt,2022,MDMA,8.54
+1948,Wildon,2022,MDMA,7.11
+1949,Antwerp Zuid,2022,MDMA,134.12
+1950,Brussels,2022,MDMA,53.7
+1951,Basel,2022,MDMA,21.68
+1952,Berne,2022,MDMA,21.0
+1953,Geneva,2022,MDMA,30.56
+1954,Zurich,2022,MDMA,42.12
+1958,Nicosia (2),2022,MDMA,1.04
+1960,Brno,2022,MDMA,16.58
+1962,Karlovy Vary,2022,MDMA,10.06
+1963,Prague (2),2022,MDMA,51.44
+1965,Chemnitz,2022,MDMA,7.34
+1966,Dortmund,2022,MDMA,11.62
+1967,Dresden,2022,MDMA,8.18
+1969,Erfurt,2022,MDMA,13.45
+1970,Magdeburg,2022,MDMA,13.04
+1971,Munich G,2022,MDMA,11.74
+1972,Nuremberg,2022,MDMA,6.15
+1974,Copenhagen,2022,MDMA,29.25
+1976,Tallinn,2022,MDMA,23.94
+1977,Barcelona,2022,MDMA,45.53
+1978,Castellon,2022,MDMA,23.32
+1979,Lleida,2022,MDMA,17.38
+1980,Santiago,2022,MDMA,30.41
+1982,Helsinki,2022,MDMA,17.66
+1984,Joensuu,2022,MDMA,3.28
+1986,Kajaani,2022,MDMA,0.96
+1987,Kemi,2022,MDMA,8.69
+1988,Kokkola,2022,MDMA,2.57
+1990,Kouvola,2022,MDMA,4.14
+1991,Kuopio,2022,MDMA,3.52
+1992,Lahti,2022,MDMA,6.19
+1993,Lappeenranta,2022,MDMA,12.03
+1994,Mariehamn,2022,MDMA,3.13
+1995,Mikkeli,2022,MDMA,2.56
+1996,Oulu,2022,MDMA,10.05
+1998,Pori,2022,MDMA,3.62
+2000,Rovaniemi,2022,MDMA,5.33
+2004,Tampere,2022,MDMA,9.64
+2005,Turku,2022,MDMA,9.67
+2006,Vaasa,2022,MDMA,4.95
+2008,Athens,2022,MDMA,2.39
+2009,Zagreb,2022,MDMA,26.86
+2010,Bozen,2022,MDMA,3.39
+2011,Kaunas,2022,MDMA,15.04
+2012,Klaipeda,2022,MDMA,7.61
+2013,Vilnius,2022,MDMA,30.58
+2014,Riga,2022,MDMA,33.84
+2015,Amsterdam,2022,MDMA,182.32
+2016,Eindhoven,2022,MDMA,81.01
+2017,Utrecht,2022,MDMA,111.62
+2019,Lisbon,2022,MDMA,121.79
+2020,Porto,2022,MDMA,16.56
+2025,Koper,2022,MDMA,4.71
+2026,Kranj,2022,MDMA,11.06
+2027,Ljubljana,2022,MDMA,18.12
+2028,Maribor,2022,MDMA,13.79
+2029,Novo mesto,2022,MDMA,2.95
+2030,Velenje,2022,MDMA,9.02
+2031,Bratislava C,2022,MDMA,12.21
+2032,Piestany,2022,MDMA,2.49
+2033,Adana,2022,MDMA,8.48
+2034,Istanbul (II-VII),2022,MDMA,6.49
+2035,Graz,2022,amphetamine,24.46
+2037,Innsbruck,2022,amphetamine,13.62
+2038,Kapfenberg,2022,amphetamine,24.41
+2039,Klagenfurt,2022,amphetamine,8.87
+2042,Kufstein,2022,amphetamine,11.78
+2043,Purgstall,2022,amphetamine,30.06
+2044,Region Millstättersee,2022,amphetamine,1.74
+2045,Salzburg,2022,amphetamine,22.84
+2046,Steyr,2022,amphetamine,31.56
+2048,Wasserverband Hofsteig,2022,amphetamine,15.41
+2049,Wien,2022,amphetamine,39.09
+2050,Wiener Neustadt,2022,amphetamine,28.1
+2051,Wildon,2022,amphetamine,16.27
+2052,Antwerp Zuid,2022,amphetamine,524.99
+2053,Brussels,2022,amphetamine,123.98
+2054,Basel,2022,amphetamine,45.85
+2055,Berne,2022,amphetamine,62.44
+2056,Geneva,2022,amphetamine,16.99
+2057,Zurich,2022,amphetamine,52.98
+2061,Nicosia (2),2022,amphetamine,3.19
+2063,Brno,2022,amphetamine,33.49
+2065,Karlovy Vary,2022,amphetamine,46.64
+2066,Ostrava,2022,amphetamine,94.74
+2067,Prague (2),2022,amphetamine,74.54
+2069,Chemnitz,2022,amphetamine,28.38
+2070,Dortmund,2022,amphetamine,191.79
+2071,Dresden,2022,amphetamine,39.57
+2073,Erfurt,2022,amphetamine,56.87
+2074,Magdeburg,2022,amphetamine,146.8
+2075,Munich G,2022,amphetamine,31.67
+2076,Nuremberg,2022,amphetamine,61.04
+2078,Copenhagen,2022,amphetamine,70.59
+2080,Tallinn,2022,amphetamine,103.8
+2081,Barcelona,2022,amphetamine,24.8
+2082,Castellon,2022,amphetamine,0.0
+2083,Lleida,2022,amphetamine,25.55
+2084,Santiago,2022,amphetamine,8.35
+2085,Tarragona,2022,amphetamine,57.8
+2087,Helsinki,2022,amphetamine,149.1
+2089,Joensuu,2022,amphetamine,67.3
+2091,Kajaani,2022,amphetamine,77.91
+2092,Kemi,2022,amphetamine,108.16
+2093,Kokkola,2022,amphetamine,61.06
+2095,Kouvola,2022,amphetamine,179.64
+2096,Kuopio,2022,amphetamine,97.65
+2097,Lahti,2022,amphetamine,159.41
+2098,Lappeenranta,2022,amphetamine,131.77
+2099,Mariehamn,2022,amphetamine,66.98
+2100,Mikkeli,2022,amphetamine,67.84
+2101,Oulu,2022,amphetamine,49.98
+2103,Pori,2022,amphetamine,60.99
+2105,Rovaniemi,2022,amphetamine,78.88
+2109,Tampere,2022,amphetamine,77.69
+2110,Turku,2022,amphetamine,68.39
+2111,Vaasa,2022,amphetamine,57.18
+2113,Athens,2022,amphetamine,4.93
+2114,Zagreb,2022,amphetamine,99.81
+2115,Bozen,2022,amphetamine,0.0
+2116,Milan,2022,amphetamine,0.0
+2117,Kaunas,2022,amphetamine,172.49
+2118,Klaipeda,2022,amphetamine,11.28
+2119,Vilnius,2022,amphetamine,80.7
+2120,Riga,2022,amphetamine,106.47
+2121,Amsterdam,2022,amphetamine,148.8
+2122,Utrecht,2022,amphetamine,221.78
+2123,Krakow P,2022,amphetamine,36.97
+2125,Lisbon,2022,amphetamine,14.82
+2126,Porto,2022,amphetamine,7.26
+2131,Koper,2022,amphetamine,0.0
+2132,Kranj,2022,amphetamine,6.15
+2133,Ljubljana,2022,amphetamine,19.52
+2134,Maribor,2022,amphetamine,20.24
+2135,Novo mesto,2022,amphetamine,5.35
+2136,Velenje,2022,amphetamine,65.2
+2137,Bratislava C,2022,amphetamine,21.64
+2138,Piestany,2022,amphetamine,7.88
+2139,Istanbul (II-VII),2022,amphetamine,13.37
+2140,Graz,2022,cannabis,60.24
+2142,Innsbruck,2022,cannabis,83.61
+2143,Kapfenberg,2022,cannabis,21.4
+2144,Klagenfurt,2022,cannabis,55.92
+2147,Kufstein,2022,cannabis,104.54
+2148,Purgstall,2022,cannabis,30.04
+2149,Region Millstättersee,2022,cannabis,47.17
+2150,Salzburg,2022,cannabis,58.2
+2151,Steyr,2022,cannabis,71.15
+2153,Wasserverband Hofsteig,2022,cannabis,50.56
+2154,Wien,2022,cannabis,83.12
+2155,Wiener Neustadt,2022,cannabis,66.82
+2156,Wildon,2022,cannabis,47.94
+2157,Basel,2022,cannabis,132.45
+2158,Berne,2022,cannabis,110.16
+2159,Geneva,2022,cannabis,180.81
+2160,Zurich,2022,cannabis,132.53
+2161,Brno,2022,cannabis,49.7
+2163,Karlovy Vary,2022,cannabis,121.41
+2164,Ostrava,2022,cannabis,76.25
+2165,Prague (2),2022,cannabis,112.38
+2167,Tallinn,2022,cannabis,56.84
+2168,Barcelona,2022,cannabis,151.1
+2169,Castellon,2022,cannabis,54.53
+2170,Lleida,2022,cannabis,89.24
+2171,Santiago,2022,cannabis,92.81
+2172,Tarragona,2022,cannabis,87.71
+2174,Zagreb,2022,cannabis,96.34
+2175,Bozen,2022,cannabis,43.44
+2176,Milan,2022,cannabis,53.33
+2177,Amsterdam,2022,cannabis,169.39
+2178,Eindhoven,2022,cannabis,98.31
+2179,Utrecht,2022,cannabis,99.56
+2180,Krakow P,2022,cannabis,46.03
+2182,Lisbon,2022,cannabis,129.91
+2183,Porto,2022,cannabis,64.12
+2188,Koper,2022,cannabis,82.0
+2189,Kranj,2022,cannabis,38.01
+2190,Ljubljana,2022,cannabis,79.95
+2191,Maribor,2022,cannabis,61.62
+2192,Novo mesto,2022,cannabis,57.46
+2193,Velenje,2022,cannabis,72.36
+2194,Bratislava C,2022,cannabis,41.64
+2195,Piestany,2022,cannabis,26.72
+2196,Istanbul (II-VII),2022,cannabis,22.91
+2197,Graz,2022,cocaine,180.62
+2199,Innsbruck,2022,cocaine,358.91
+2200,Kapfenberg,2022,cocaine,97.41
+2201,Klagenfurt,2022,cocaine,184.39
+2204,Kufstein,2022,cocaine,536.65
+2205,Purgstall,2022,cocaine,38.8
+2206,Region Millstättersee,2022,cocaine,110.57
+2207,Salzburg,2022,cocaine,192.23
+2208,Steyr,2022,cocaine,81.8
+2210,Wasserverband Hofsteig,2022,cocaine,320.13
+2211,Wien,2022,cocaine,370.58
+2212,Wiener Neustadt,2022,cocaine,175.45
+2213,Wildon,2022,cocaine,167.42
+2214,Antwerp Zuid,2022,cocaine,2381.39
+2215,Brussels,2022,cocaine,984.8
+2216,Basel,2022,cocaine,837.83
+2217,Berne,2022,cocaine,535.64
+2218,Geneva,2022,cocaine,769.69
+2219,Zurich,2022,cocaine,931.09
+2223,Nicosia (2),2022,cocaine,46.12
+2225,Brno,2022,cocaine,91.31
+2227,Karlovy Vary,2022,cocaine,118.14
+2228,Ostrava,2022,cocaine,71.68
+2229,Prague (2),2022,cocaine,513.4
+2231,Chemnitz,2022,cocaine,27.13
+2232,Dortmund,2022,cocaine,349.67
+2233,Dresden,2022,cocaine,48.73
+2235,Erfurt,2022,cocaine,78.31
+2236,Magdeburg,2022,cocaine,203.17
+2237,Munich G,2022,cocaine,236.41
+2238,Nuremberg,2022,cocaine,61.86
+2240,Copenhagen,2022,cocaine,647.35
+2242,Tallinn,2022,cocaine,201.83
+2243,Barcelona,2022,cocaine,622.26
+2244,Castellon,2022,cocaine,554.3
+2245,Lleida,2022,cocaine,759.54
+2246,Santiago,2022,cocaine,505.1
+2247,Tarragona,2022,cocaine,1610.55
+2250,Helsinki,2022,cocaine,118.93
+2252,Joensuu,2022,cocaine,5.84
+2254,Kajaani,2022,cocaine,0.6
+2255,Kemi,2022,cocaine,0.12
+2256,Kokkola,2022,cocaine,0.81
+2258,Kouvola,2022,cocaine,8.19
+2259,Kuopio,2022,cocaine,20.39
+2260,Lahti,2022,cocaine,60.67
+2261,Lappeenranta,2022,cocaine,11.21
+2262,Mariehamn,2022,cocaine,22.54
+2263,Mikkeli,2022,cocaine,1.57
+2264,Oulu,2022,cocaine,7.21
+2266,Pori,2022,cocaine,6.63
+2268,Rovaniemi,2022,cocaine,3.47
+2272,Tampere,2022,cocaine,13.21
+2273,Turku,2022,cocaine,18.29
+2274,Vaasa,2022,cocaine,1.81
+2276,Athens,2022,cocaine,103.99
+2277,Zagreb,2022,cocaine,401.19
+2278,Bozen,2022,cocaine,366.87
+2279,Milan,2022,cocaine,390.11
+2280,Kaunas,2022,cocaine,146.44
+2281,Klaipeda,2022,cocaine,71.53
+2282,Vilnius,2022,cocaine,123.73
+2283,Riga,2022,cocaine,201.61
+2284,Amsterdam,2022,cocaine,1142.43
+2285,Eindhoven,2022,cocaine,713.67
+2286,Utrecht,2022,cocaine,651.63
+2287,Krakow P,2022,cocaine,82.14
+2289,Lisbon,2022,cocaine,731.95
+2290,Porto,2022,cocaine,265.85
+2295,Koper,2022,cocaine,347.79
+2296,Kranj,2022,cocaine,188.0
+2297,Ljubljana,2022,cocaine,466.59
+2298,Maribor,2022,cocaine,240.47
+2299,Novo mesto,2022,cocaine,261.13
+2300,Velenje,2022,cocaine,201.05
+2301,Bratislava C,2022,cocaine,226.52
+2302,Piestany,2022,cocaine,41.33
+2303,Adana,2022,cocaine,9.09
+2304,Istanbul (II-VII),2022,cocaine,59.09
+2308,Nicosia (2),2022,ketamine,0.0
+2310,Brno,2022,ketamine,1.28
+2312,Copenhagen,2022,ketamine,16.82
+2313,Barcelona,2022,ketamine,29.45
+2314,Castellon,2022,ketamine,0.0
+2315,Lleida,2022,ketamine,4.22
+2316,Athens,2022,ketamine,0.0
+2317,Milan,2022,ketamine,13.83
+2318,Krakow P,2022,ketamine,1.66
+2320,Lisbon,2022,ketamine,19.12
+2325,Koper,2022,ketamine,0.0
+2326,Kranj,2022,ketamine,0.0
+2327,Ljubljana,2022,ketamine,6.69
+2328,Maribor,2022,ketamine,0.0
+2329,Novo mesto,2022,ketamine,0.0
+2330,Velenje,2022,ketamine,0.0
+2331,Istanbul (II-VII),2022,ketamine,3.3
+2332,Graz,2022,methamphetamine,7.52
+2334,Innsbruck,2022,methamphetamine,13.68
+2335,Kapfenberg,2022,methamphetamine,2.58
+2336,Klagenfurt,2022,methamphetamine,1.63
+2339,Kufstein,2022,methamphetamine,2.06
+2340,Purgstall,2022,methamphetamine,3.35
+2341,Region Millstättersee,2022,methamphetamine,0.0
+2342,Salzburg,2022,methamphetamine,2.22
+2343,Steyr,2022,methamphetamine,24.68
+2345,Wasserverband Hofsteig,2022,methamphetamine,3.38
+2346,Wien,2022,methamphetamine,28.05
+2347,Wiener Neustadt,2022,methamphetamine,31.03
+2348,Wildon,2022,methamphetamine,6.69
+2349,Antwerp Zuid,2022,methamphetamine,51.87
+2350,Brussels,2022,methamphetamine,27.73
+2351,Basel,2022,methamphetamine,34.5
+2352,Berne,2022,methamphetamine,28.58
+2353,Geneva,2022,methamphetamine,10.92
+2354,Zurich,2022,methamphetamine,71.49
+2358,Nicosia (2),2022,methamphetamine,20.09
+2360,Karlovy Vary,2022,methamphetamine,459.42
+2361,Ostrava,2022,methamphetamine,922.26
+2362,Prague (2),2022,methamphetamine,628.65
+2364,Chemnitz,2022,methamphetamine,279.49
+2365,Dortmund,2022,methamphetamine,3.22
+2366,Dresden,2022,methamphetamine,266.96
+2368,Erfurt,2022,methamphetamine,226.41
+2369,Magdeburg,2022,methamphetamine,152.23
+2370,Munich G,2022,methamphetamine,14.1
+2371,Nuremberg,2022,methamphetamine,132.41
+2373,Copenhagen,2022,methamphetamine,25.2
+2375,Tallinn,2022,methamphetamine,27.41
+2376,Barcelona,2022,methamphetamine,56.09
+2377,Castellon,2022,methamphetamine,0.0
+2378,Lleida,2022,methamphetamine,0.0
+2379,Santiago,2022,methamphetamine,1.56
+2380,Tarragona,2022,methamphetamine,9.12
+2382,Helsinki,2022,methamphetamine,56.33
+2384,Joensuu,2022,methamphetamine,6.79
+2386,Kajaani,2022,methamphetamine,1.99
+2387,Kemi,2022,methamphetamine,1.69
+2388,Kokkola,2022,methamphetamine,3.8
+2390,Kouvola,2022,methamphetamine,5.79
+2391,Kuopio,2022,methamphetamine,2.51
+2392,Lahti,2022,methamphetamine,4.24
+2393,Lappeenranta,2022,methamphetamine,15.59
+2394,Mariehamn,2022,methamphetamine,0.58
+2395,Mikkeli,2022,methamphetamine,0.45
+2396,Oulu,2022,methamphetamine,4.19
+2398,Pori,2022,methamphetamine,3.91
+2400,Rovaniemi,2022,methamphetamine,1.55
+2404,Tampere,2022,methamphetamine,14.24
+2405,Turku,2022,methamphetamine,21.05
+2406,Vaasa,2022,methamphetamine,1.93
+2408,Zagreb,2022,methamphetamine,0.0
+2409,Bozen,2022,methamphetamine,0.54
+2410,Milan,2022,methamphetamine,9.7
+2411,Kaunas,2022,methamphetamine,27.98
+2412,Klaipeda,2022,methamphetamine,2.59
+2413,Vilnius,2022,methamphetamine,6.95
+2414,Riga,2022,methamphetamine,167.97
+2415,Amsterdam,2022,methamphetamine,39.96
+2416,Utrecht,2022,methamphetamine,6.86
+2417,Krakow P,2022,methamphetamine,3.24
+2419,Lisbon,2022,methamphetamine,9.78
+2420,Porto,2022,methamphetamine,0.0
+2425,Koper,2022,methamphetamine,3.75
+2426,Kranj,2022,methamphetamine,0.69
+2427,Ljubljana,2022,methamphetamine,11.42
+2428,Maribor,2022,methamphetamine,0.67
+2429,Novo mesto,2022,methamphetamine,0.3
+2430,Velenje,2022,methamphetamine,0.0
+2431,Adana,2022,methamphetamine,46.21
+2432,Istanbul (II-VII),2022,methamphetamine,92.12
+2433,Graz,2021,MDMA,9.64
+2435,Innsbruck,2021,MDMA,14.58
+2436,Kapfenberg,2021,MDMA,3.59
+2437,Kufstein,2021,MDMA,3.07
+2438,Purgstall,2021,MDMA,4.11
+2439,Region Millstättersee,2021,MDMA,0.0
+2441,Wasserverband Hofsteig,2021,MDMA,9.28
+2442,Antwerp Zuid,2021,MDMA,92.46
+2443,Brussels,2021,MDMA,25.09
+2444,Basel,2021,MDMA,17.65
+2445,Berne,2021,MDMA,19.19
+2446,Geneva,2021,MDMA,14.7
+2447,St. Gallen Hofen,2021,MDMA,27.72
+2448,Zurich,2021,MDMA,27.37
+2452,Nicosia (2),2021,MDMA,3.34
+2454,Brno,2021,MDMA,26.36
+2456,Karlovy Vary,2021,MDMA,0.0
+2457,Ostrava,2021,MDMA,10.31
+2458,Prague (2),2021,MDMA,26.6
+2459,Chemnitz,2021,MDMA,7.79
+2460,Dortmund,2021,MDMA,16.75
+2461,Dresden,2021,MDMA,12.72
+2463,Erfurt,2021,MDMA,17.54
+2464,Magdeburg,2021,MDMA,13.53
+2465,Munich G,2021,MDMA,13.55
+2466,Nuremberg,2021,MDMA,12.14
+2468,Copenhagen,2021,MDMA,34.65
+2469,Odense,2021,MDMA,11.38
+2470,Barcelona,2021,MDMA,25.43
+2471,Castellon,2021,MDMA,5.82
+2472,Santiago,2021,MDMA,17.78
+2473,Tarragona,2021,MDMA,6.3
+2476,Helsinki,2021,MDMA,22.54
+2477,Tampere,2021,MDMA,18.06
+2478,Turku,2021,MDMA,14.5
+2479,Paris Seine Centre,2021,MDMA,56.95
+2480,Athens,2021,MDMA,3.38
+2481,Zagreb,2021,MDMA,28.26
+2482,Bozen,2021,MDMA,1.36
+2483,Milan,2021,MDMA,2.57
+2484,Kaunas,2021,MDMA,17.65
+2485,Klaipeda,2021,MDMA,7.29
+2486,Vilnius,2021,MDMA,19.38
+2487,Riga,2021,MDMA,29.05
+2488,Amsterdam,2021,MDMA,125.0
+2489,Eindhoven,2021,MDMA,82.63
+2490,Utrecht,2021,MDMA,101.0
+2491,Krakow P,2021,MDMA,44.13
+2493,Lisbon,2021,MDMA,48.68
+2494,Porto,2021,MDMA,8.04
+2497,Stockholm (2),2021,MDMA,33.49
+2499,Uppsala,2021,MDMA,9.83
+2501,Koper,2021,MDMA,6.42
+2502,Ljubljana,2021,MDMA,7.49
+2503,Maribor,2021,MDMA,6.86
+2504,Novo mesto,2021,MDMA,4.59
+2505,Velenje,2021,MDMA,7.59
+2506,Bratislava C,2021,MDMA,4.38
+2507,Piestany,2021,MDMA,2.01
+2508,Adana,2021,MDMA,13.68
+2509,Graz,2021,amphetamine,38.57
+2511,Innsbruck,2021,amphetamine,22.02
+2512,Kapfenberg,2021,amphetamine,29.46
+2513,Kufstein,2021,amphetamine,19.8
+2514,Purgstall,2021,amphetamine,23.44
+2515,Region Millstättersee,2021,amphetamine,4.94
+2517,Wasserverband Hofsteig,2021,amphetamine,26.32
+2518,Antwerp Zuid,2021,amphetamine,426.1
+2519,Brussels,2021,amphetamine,75.58
+2520,Basel,2021,amphetamine,39.77
+2521,Berne,2021,amphetamine,58.39
+2522,Geneva,2021,amphetamine,12.25
+2523,St. Gallen Hofen,2021,amphetamine,129.98
+2524,Zurich,2021,amphetamine,54.7
+2528,Nicosia (2),2021,amphetamine,4.14
+2530,Brno,2021,amphetamine,47.06
+2532,Karlovy Vary,2021,amphetamine,33.83
+2533,Ostrava,2021,amphetamine,76.77
+2534,Prague (2),2021,amphetamine,40.07
+2535,Copenhagen,2021,amphetamine,91.51
+2536,Odense,2021,amphetamine,90.74
+2537,Barcelona,2021,amphetamine,29.42
+2538,Santiago,2021,amphetamine,14.46
+2539,Tarragona,2021,amphetamine,31.28
+2541,Helsinki,2021,amphetamine,315.53
+2542,Tampere,2021,amphetamine,155.12
+2543,Turku,2021,amphetamine,195.64
+2544,Paris Seine Centre,2021,amphetamine,0.0
+2545,Athens,2021,amphetamine,12.13
+2546,Zagreb,2021,amphetamine,151.41
+2547,Bozen,2021,amphetamine,5.68
+2548,Milan,2021,amphetamine,0.0
+2549,Kaunas,2021,amphetamine,58.12
+2550,Klaipeda,2021,amphetamine,42.85
+2551,Vilnius,2021,amphetamine,70.02
+2552,Riga,2021,amphetamine,40.96
+2553,Amsterdam,2021,amphetamine,146.77
+2554,Utrecht,2021,amphetamine,236.8
+2555,Krakow P,2021,amphetamine,100.28
+2557,Lisbon,2021,amphetamine,5.66
+2558,Porto,2021,amphetamine,0.0
+2561,Stockholm (2),2021,amphetamine,200.8
+2563,Uppsala,2021,amphetamine,202.17
+2565,Koper,2021,amphetamine,0.0
+2566,Ljubljana,2021,amphetamine,6.78
+2567,Maribor,2021,amphetamine,0.0
+2568,Novo mesto,2021,amphetamine,28.71
+2569,Velenje,2021,amphetamine,84.66
+2570,Bratislava C,2021,amphetamine,12.83
+2571,Piestany,2021,amphetamine,11.45
+2572,Adana,2021,amphetamine,2.64
+2573,Istanbul (II-VII),2021,amphetamine,12.21
+2574,Graz,2021,cannabis,87.17
+2576,Innsbruck,2021,cannabis,97.72
+2577,Kapfenberg,2021,cannabis,76.53
+2578,Kufstein,2021,cannabis,91.24
+2579,Purgstall,2021,cannabis,37.71
+2580,Region Millstättersee,2021,cannabis,24.25
+2582,Wasserverband Hofsteig,2021,cannabis,94.49
+2583,Brno,2021,cannabis,83.8
+2585,Karlovy Vary,2021,cannabis,122.59
+2586,Ostrava,2021,cannabis,82.08
+2587,Prague (2),2021,cannabis,91.03
+2588,Narva,2021,cannabis,37.34
+2589,Tartu,2021,cannabis,25.73
+2590,Castellon,2021,cannabis,66.82
+2591,Santiago,2021,cannabis,82.68
+2592,Tarragona,2021,cannabis,39.64
+2593,Paris Seine Centre,2021,cannabis,117.74
+2594,Athens,2021,cannabis,38.73
+2595,Zagreb,2021,cannabis,132.9
+2596,Bozen,2021,cannabis,38.38
+2597,Milan,2021,cannabis,42.98
+2598,Amsterdam,2021,cannabis,157.64
+2599,Eindhoven,2021,cannabis,112.6
+2600,Utrecht,2021,cannabis,89.53
+2601,Krakow P,2021,cannabis,51.15
+2603,Lisbon,2021,cannabis,101.77
+2604,Porto,2021,cannabis,47.55
+2609,Koper,2021,cannabis,117.31
+2610,Ljubljana,2021,cannabis,143.02
+2611,Maribor,2021,cannabis,100.66
+2612,Novo mesto,2021,cannabis,76.05
+2613,Velenje,2021,cannabis,74.48
+2614,Bratislava C,2021,cannabis,20.84
+2615,Piestany,2021,cannabis,20.92
+2616,Adana,2021,cannabis,37.11
+2617,Istanbul (II-VII),2021,cannabis,24.47
+2618,Graz,2021,cocaine,138.65
+2620,Innsbruck,2021,cocaine,274.18
+2621,Kapfenberg,2021,cocaine,109.24
+2622,Kufstein,2021,cocaine,401.61
+2623,Purgstall,2021,cocaine,28.24
+2624,Region Millstättersee,2021,cocaine,30.44
+2626,Wasserverband Hofsteig,2021,cocaine,351.72
+2627,Antwerp Zuid,2021,cocaine,1581.88
+2628,Brussels,2021,cocaine,768.08
+2629,Basel,2021,cocaine,708.08
+2630,Berne,2021,cocaine,501.37
+2631,Geneva,2021,cocaine,652.8
+2632,St. Gallen Hofen,2021,cocaine,1336.68
+2633,Zurich,2021,cocaine,790.58
+2637,Nicosia (2),2021,cocaine,47.68
+2639,Brno,2021,cocaine,74.87
+2641,Karlovy Vary,2021,cocaine,63.99
+2642,Ostrava,2021,cocaine,45.91
+2643,Prague (2),2021,cocaine,239.83
+2644,Chemnitz,2021,cocaine,20.51
+2645,Dortmund,2021,cocaine,476.76
+2646,Dresden,2021,cocaine,50.65
+2648,Erfurt,2021,cocaine,81.07
+2649,Magdeburg,2021,cocaine,222.21
+2650,Munich G,2021,cocaine,236.17
+2651,Nuremberg,2021,cocaine,72.94
+2653,Copenhagen,2021,cocaine,533.35
+2654,Odense,2021,cocaine,295.15
+2655,Narva,2021,cocaine,35.73
+2656,Tartu,2021,cocaine,67.26
+2657,Barcelona,2021,cocaine,665.38
+2658,Castellon,2021,cocaine,529.38
+2659,Santiago,2021,cocaine,546.97
+2661,Helsinki,2021,cocaine,60.53
+2662,Tampere,2021,cocaine,9.41
+2663,Turku,2021,cocaine,10.45
+2664,Paris Seine Centre,2021,cocaine,427.42
+2665,Athens,2021,cocaine,95.85
+2666,Zagreb,2021,cocaine,548.62
+2667,Bozen,2021,cocaine,367.1
+2668,Milan,2021,cocaine,385.29
+2669,Kaunas,2021,cocaine,84.69
+2670,Klaipeda,2021,cocaine,108.86
+2671,Vilnius,2021,cocaine,119.98
+2672,Riga,2021,cocaine,109.66
+2673,Amsterdam,2021,cocaine,886.83
+2674,Eindhoven,2021,cocaine,623.61
+2675,Utrecht,2021,cocaine,529.55
+2676,Krakow P,2021,cocaine,67.2
+2678,Lisbon,2021,cocaine,500.48
+2679,Porto,2021,cocaine,237.8
+2682,Stockholm (2),2021,cocaine,159.19
+2684,Uppsala,2021,cocaine,77.12
+2686,Koper,2021,cocaine,406.55
+2687,Ljubljana,2021,cocaine,364.79
+2688,Maribor,2021,cocaine,155.83
+2689,Novo mesto,2021,cocaine,192.82
+2690,Velenje,2021,cocaine,220.45
+2691,Bratislava C,2021,cocaine,76.17
+2692,Piestany,2021,cocaine,11.92
+2693,Adana,2021,cocaine,5.71
+2694,Istanbul (II-VII),2021,cocaine,53.88
+2695,Graz,2021,methamphetamine,13.09
+2697,Innsbruck,2021,methamphetamine,5.8
+2698,Kapfenberg,2021,methamphetamine,1.64
+2699,Kufstein,2021,methamphetamine,1.27
+2700,Purgstall,2021,methamphetamine,2.66
+2701,Region Millstättersee,2021,methamphetamine,0.0
+2703,Wasserverband Hofsteig,2021,methamphetamine,0.0
+2704,Antwerp Zuid,2021,methamphetamine,92.49
+2705,Brussels,2021,methamphetamine,17.58
+2706,Basel,2021,methamphetamine,53.6
+2707,Berne,2021,methamphetamine,42.34
+2708,Geneva,2021,methamphetamine,16.24
+2709,St. Gallen Hofen,2021,methamphetamine,23.2
+2710,Zurich,2021,methamphetamine,74.02
+2714,Nicosia (2),2021,methamphetamine,10.44
+2716,Brno,2021,methamphetamine,545.74
+2718,Karlovy Vary,2021,methamphetamine,339.12
+2719,Ostrava,2021,methamphetamine,684.14
+2720,Prague (2),2021,methamphetamine,328.77
+2721,Chemnitz,2021,methamphetamine,82.69
+2722,Dortmund,2021,methamphetamine,1.83
+2723,Dresden,2021,methamphetamine,120.71
+2725,Erfurt,2021,methamphetamine,112.63
+2726,Magdeburg,2021,methamphetamine,48.67
+2727,Munich G,2021,methamphetamine,4.94
+2728,Nuremberg,2021,methamphetamine,57.61
+2730,Copenhagen,2021,methamphetamine,42.91
+2731,Odense,2021,methamphetamine,4.78
+2732,Barcelona,2021,methamphetamine,62.13
+2733,Santiago,2021,methamphetamine,0.0
+2734,Tarragona,2021,methamphetamine,6.78
+2736,Helsinki,2021,methamphetamine,2.94
+2737,Tampere,2021,methamphetamine,1.09
+2738,Turku,2021,methamphetamine,2.45
+2739,Paris Seine Centre,2021,methamphetamine,0.0
+2740,Athens,2021,methamphetamine,10.61
+2741,Zagreb,2021,methamphetamine,0.0
+2742,Bozen,2021,methamphetamine,1.74
+2743,Milan,2021,methamphetamine,12.67
+2744,Kaunas,2021,methamphetamine,43.73
+2745,Klaipeda,2021,methamphetamine,13.97
+2746,Vilnius,2021,methamphetamine,29.25
+2747,Riga,2021,methamphetamine,225.56
+2748,Amsterdam,2021,methamphetamine,38.18
+2749,Utrecht,2021,methamphetamine,5.7
+2750,Krakow P,2021,methamphetamine,3.97
+2752,Lisbon,2021,methamphetamine,7.92
+2753,Porto,2021,methamphetamine,0.0
+2756,Stockholm (2),2021,methamphetamine,7.2
+2758,Uppsala,2021,methamphetamine,2.54
+2760,Koper,2021,methamphetamine,1.14
+2761,Ljubljana,2021,methamphetamine,3.75
+2762,Maribor,2021,methamphetamine,0.0
+2763,Novo mesto,2021,methamphetamine,0.0
+2764,Velenje,2021,methamphetamine,2.5
+2765,Bratislava C,2021,methamphetamine,187.35
+2766,Piestany,2021,methamphetamine,151.15
+2767,Adana,2021,methamphetamine,18.67
+2768,Istanbul (II-VII),2021,methamphetamine,72.49
+2769,Graz,2020,MDMA,14.14
+2771,Innsbruck,2020,MDMA,22.47
+2772,Kapfenberg,2020,MDMA,18.57
+2773,Kufstein,2020,MDMA,34.88
+2774,Purgstall,2020,MDMA,4.64
+2775,Region Millstättersee,2020,MDMA,7.0
+2777,Wasserverband Hofsteig,2020,MDMA,6.52
+2778,Antwerp Zuid,2020,MDMA,79.38
+2780,Brussels,2020,MDMA,22.28
+2781,Berne,2020,MDMA,18.33
+2782,Geneva,2020,MDMA,26.99
+2783,St. Gallen Hofen,2020,MDMA,14.45
+2784,Zurich,2020,MDMA,28.17
+2786,Karlovy Vary,2020,MDMA,10.49
+2787,Ostrava,2020,MDMA,16.77
+2788,Prague (2),2020,MDMA,36.18
+2789,Chemnitz,2020,MDMA,11.66
+2790,Dortmund,2020,MDMA,20.61
+2791,Dresden,2020,MDMA,16.94
+2793,Erfurt,2020,MDMA,13.06
+2794,Hamburg (2),2020,MDMA,19.34
+2795,Magdeburg,2020,MDMA,19.06
+2796,Munich G,2020,MDMA,14.38
+2797,Nuremberg,2020,MDMA,5.64
+2799,Castellon,2020,MDMA,3.34
+2800,Santiago,2020,MDMA,29.64
+2802,Helsinki,2020,MDMA,40.13
+2804,Joensuu,2020,MDMA,11.6
+2806,Kajaani,2020,MDMA,5.91
+2807,Kemi,2020,MDMA,10.34
+2808,Kokkola,2020,MDMA,20.42
+2810,Kouvola,2020,MDMA,25.52
+2811,Kuopio,2020,MDMA,17.47
+2812,Lahti,2020,MDMA,38.8
+2813,Lappeenranta,2020,MDMA,15.07
+2814,Mariehamn,2020,MDMA,0.83
+2815,Mikkeli,2020,MDMA,36.11
+2816,Oulu,2020,MDMA,19.57
+2818,Pori,2020,MDMA,17.44
+2820,Rovaniemi,2020,MDMA,21.99
+2824,Tampere,2020,MDMA,31.54
+2825,Turku,2020,MDMA,36.31
+2826,Vaasa,2020,MDMA,24.56
+2828,Paris Seine Centre,2020,MDMA,32.29
+2829,Zagreb,2020,MDMA,41.38
+2830,Bozen,2020,MDMA,2.03
+2831,Milan,2020,MDMA,2.47
+2832,Kaunas,2020,MDMA,20.7
+2833,Klaipeda,2020,MDMA,14.42
+2834,Vilnius,2020,MDMA,31.83
+2835,Riga,2020,MDMA,42.98
+2836,Amsterdam,2020,MDMA,137.89
+2837,Eindhoven,2020,MDMA,101.21
+2838,Utrecht,2020,MDMA,130.5
+2839,Krakow P,2020,MDMA,30.72
+2841,Lisbon,2020,MDMA,44.68
+2842,Porto,2020,MDMA,21.33
+2843,Novi Sad,2020,MDMA,19.61
+2846,Stockholm (2),2020,MDMA,39.95
+2848,Uppsala,2020,MDMA,20.36
+2850,Koper,2020,MDMA,3.79
+2851,Ljubljana,2020,MDMA,102.52
+2852,Maribor,2020,MDMA,8.73
+2853,Novo mesto,2020,MDMA,2.72
+2854,Velenje,2020,MDMA,6.14
+2855,Adana,2020,MDMA,30.93
+2856,Istanbul (II-VII),2020,MDMA,26.33
+2857,Graz,2020,amphetamine,29.27
+2859,Innsbruck,2020,amphetamine,17.55
+2860,Kapfenberg,2020,amphetamine,26.45
+2861,Kufstein,2020,amphetamine,14.2
+2862,Purgstall,2020,amphetamine,23.77
+2863,Region Millstättersee,2020,amphetamine,6.16
+2865,Wasserverband Hofsteig,2020,amphetamine,24.26
+2866,Antwerp Zuid,2020,amphetamine,346.74
+2868,Brussels,2020,amphetamine,55.99
+2869,Berne,2020,amphetamine,55.78
+2870,Geneva,2020,amphetamine,0.0
+2871,St. Gallen Hofen,2020,amphetamine,76.0
+2872,Zurich,2020,amphetamine,42.09
+2874,Karlovy Vary,2020,amphetamine,31.78
+2875,Ostrava,2020,amphetamine,76.6
+2876,Prague (2),2020,amphetamine,39.08
+2877,Chemnitz,2020,amphetamine,19.73
+2878,Dortmund,2020,amphetamine,143.13
+2879,Dresden,2020,amphetamine,28.32
+2881,Erfurt,2020,amphetamine,44.31
+2882,Hamburg (2),2020,amphetamine,62.51
+2883,Magdeburg,2020,amphetamine,114.45
+2884,Munich G,2020,amphetamine,14.14
+2885,Nuremberg,2020,amphetamine,33.18
+2887,Castellon,2020,amphetamine,0.0
+2888,Santiago,2020,amphetamine,0.0
+2890,Helsinki,2020,amphetamine,261.38
+2892,Joensuu,2020,amphetamine,133.61
+2894,Kajaani,2020,amphetamine,51.8
+2895,Kemi,2020,amphetamine,265.0
+2896,Kokkola,2020,amphetamine,30.65
+2898,Kouvola,2020,amphetamine,238.7
+2899,Kuopio,2020,amphetamine,190.48
+2900,Lahti,2020,amphetamine,342.78
+2901,Lappeenranta,2020,amphetamine,86.31
+2902,Mariehamn,2020,amphetamine,18.4
+2903,Mikkeli,2020,amphetamine,126.83
+2904,Oulu,2020,amphetamine,106.73
+2906,Pori,2020,amphetamine,78.45
+2908,Rovaniemi,2020,amphetamine,170.03
+2912,Tampere,2020,amphetamine,157.13
+2913,Turku,2020,amphetamine,110.4
+2914,Vaasa,2020,amphetamine,178.68
+2916,Paris Seine Centre,2020,amphetamine,0.0
+2917,Zagreb,2020,amphetamine,1013.84
+2918,Bozen,2020,amphetamine,1.99
+2919,Milan,2020,amphetamine,0.0
+2920,Kaunas,2020,amphetamine,52.39
+2921,Klaipeda,2020,amphetamine,23.11
+2922,Vilnius,2020,amphetamine,50.62
+2923,Riga,2020,amphetamine,53.45
+2924,Amsterdam,2020,amphetamine,107.6
+2925,Eindhoven,2020,amphetamine,271.53
+2926,Utrecht,2020,amphetamine,175.65
+2927,Krakow P,2020,amphetamine,71.39
+2929,Lisbon,2020,amphetamine,4.59
+2930,Porto,2020,amphetamine,0.0
+2931,Novi Sad,2020,amphetamine,69.76
+2934,Stockholm (2),2020,amphetamine,329.97
+2936,Uppsala,2020,amphetamine,173.33
+2938,Koper,2020,amphetamine,0.0
+2939,Ljubljana,2020,amphetamine,14.06
+2940,Maribor,2020,amphetamine,4.44
+2941,Novo mesto,2020,amphetamine,2.66
+2942,Velenje,2020,amphetamine,95.79
+2943,Graz,2020,cannabis,50.69
+2945,Innsbruck,2020,cannabis,61.49
+2946,Kapfenberg,2020,cannabis,60.49
+2947,Kufstein,2020,cannabis,59.41
+2948,Purgstall,2020,cannabis,38.96
+2949,Region Millstättersee,2020,cannabis,31.63
+2951,Wasserverband Hofsteig,2020,cannabis,79.34
+2952,Berne,2020,cannabis,11.92
+2953,Geneva,2020,cannabis,188.27
+2954,St. Gallen Hofen,2020,cannabis,10.23
+2955,Zurich,2020,cannabis,114.68
+2956,Karlovy Vary,2020,cannabis,100.54
+2957,Ostrava,2020,cannabis,70.68
+2958,Prague (2),2020,cannabis,90.35
+2959,Castellon,2020,cannabis,69.49
+2960,Santiago,2020,cannabis,92.14
+2961,Paris Seine Centre,2020,cannabis,163.69
+2962,Athens,2020,cannabis,41.56
+2963,Eleusis,2020,cannabis,18.98
+2964,Zagreb,2020,cannabis,228.93
+2965,Bozen,2020,cannabis,33.86
+2966,Milan,2020,cannabis,47.64
+2967,Amsterdam,2020,cannabis,247.53
+2968,Eindhoven,2020,cannabis,135.44
+2969,Utrecht,2020,cannabis,146.02
+2970,Krakow P,2020,cannabis,29.88
+2972,Lisbon,2020,cannabis,91.24
+2973,Porto,2020,cannabis,63.21
+2977,Adana,2020,cannabis,15.89
+2978,Istanbul (II-VII),2020,cannabis,35.81
+2979,Graz,2020,cocaine,138.22
+2981,Innsbruck,2020,cocaine,320.67
+2982,Kapfenberg,2020,cocaine,146.46
+2983,Kufstein,2020,cocaine,404.04
+2984,Purgstall,2020,cocaine,24.39
+2985,Region Millstättersee,2020,cocaine,75.72
+2987,Wasserverband Hofsteig,2020,cocaine,196.67
+2988,Antwerp Zuid,2020,cocaine,1174.88
+2990,Brussels,2020,cocaine,474.2
+2991,Berne,2020,cocaine,567.18
+2992,Geneva,2020,cocaine,501.5
+2993,St. Gallen Hofen,2020,cocaine,691.83
+2994,Zurich,2020,cocaine,874.36
+2996,Karlovy Vary,2020,cocaine,63.51
+2997,Ostrava,2020,cocaine,45.4
+2998,Prague (2),2020,cocaine,267.94
+2999,Chemnitz,2020,cocaine,27.34
+3000,Dortmund,2020,cocaine,305.04
+3001,Dresden,2020,cocaine,42.14
+3003,Erfurt,2020,cocaine,71.02
+3004,Hamburg (2),2020,cocaine,459.17
+3005,Magdeburg,2020,cocaine,180.79
+3006,Munich G,2020,cocaine,191.33
+3007,Nuremberg,2020,cocaine,38.24
+3009,Castellon,2020,cocaine,437.9
+3010,Santiago,2020,cocaine,610.78
+3012,Helsinki,2020,cocaine,81.98
+3014,Joensuu,2020,cocaine,1.74
+3016,Kajaani,2020,cocaine,0.93
+3017,Kemi,2020,cocaine,1.86
+3018,Kokkola,2020,cocaine,0.75
+3020,Kouvola,2020,cocaine,7.55
+3021,Kuopio,2020,cocaine,5.89
+3022,Lahti,2020,cocaine,37.49
+3023,Lappeenranta,2020,cocaine,1.47
+3024,Mariehamn,2020,cocaine,41.53
+3025,Mikkeli,2020,cocaine,2.98
+3026,Oulu,2020,cocaine,3.72
+3028,Pori,2020,cocaine,3.74
+3030,Rovaniemi,2020,cocaine,3.24
+3034,Tampere,2020,cocaine,18.29
+3035,Turku,2020,cocaine,17.52
+3036,Vaasa,2020,cocaine,1.82
+3038,Paris Seine Centre,2020,cocaine,410.58
+3039,Zagreb,2020,cocaine,510.24
+3040,Bozen,2020,cocaine,333.1
+3041,Milan,2020,cocaine,401.44
+3042,Kaunas,2020,cocaine,65.35
+3043,Klaipeda,2020,cocaine,89.91
+3044,Vilnius,2020,cocaine,70.99
+3045,Riga,2020,cocaine,78.63
+3046,Amsterdam,2020,cocaine,768.64
+3047,Eindhoven,2020,cocaine,522.95
+3048,Utrecht,2020,cocaine,493.63
+3049,Krakow P,2020,cocaine,53.96
+3051,Lisbon,2020,cocaine,365.8
+3052,Porto,2020,cocaine,329.85
+3053,Novi Sad,2020,cocaine,125.95
+3056,Stockholm (2),2020,cocaine,323.34
+3058,Uppsala,2020,cocaine,94.74
+3060,Koper,2020,cocaine,320.99
+3061,Ljubljana,2020,cocaine,336.05
+3062,Maribor,2020,cocaine,139.68
+3063,Novo mesto,2020,cocaine,107.44
+3064,Velenje,2020,cocaine,148.13
+3065,Adana,2020,cocaine,4.89
+3066,Istanbul (II-VII),2020,cocaine,54.44
+3067,Graz,2020,methamphetamine,7.27
+3069,Innsbruck,2020,methamphetamine,3.69
+3070,Kapfenberg,2020,methamphetamine,1.14
+3071,Kufstein,2020,methamphetamine,2.12
+3072,Purgstall,2020,methamphetamine,1.32
+3073,Region Millstättersee,2020,methamphetamine,5.48
+3075,Wasserverband Hofsteig,2020,methamphetamine,1.8
+3076,Antwerp Zuid,2020,methamphetamine,39.01
+3078,Brussels,2020,methamphetamine,11.39
+3079,Berne,2020,methamphetamine,28.61
+3080,Geneva,2020,methamphetamine,8.18
+3081,St. Gallen Hofen,2020,methamphetamine,9.01
+3082,Zurich,2020,methamphetamine,60.38
+3084,Karlovy Vary,2020,methamphetamine,388.75
+3085,Ostrava,2020,methamphetamine,702.94
+3086,Prague (2),2020,methamphetamine,327.64
+3087,Chemnitz,2020,methamphetamine,328.95
+3088,Dortmund,2020,methamphetamine,0.0
+3089,Dresden,2020,methamphetamine,201.51
+3091,Erfurt,2020,methamphetamine,435.28
+3092,Hamburg (2),2020,methamphetamine,7.64
+3093,Magdeburg,2020,methamphetamine,142.63
+3094,Munich G,2020,methamphetamine,9.3
+3095,Nuremberg,2020,methamphetamine,123.56
+3097,Castellon,2020,methamphetamine,0.0
+3098,Santiago,2020,methamphetamine,0.0
+3100,Helsinki,2020,methamphetamine,10.15
+3102,Joensuu,2020,methamphetamine,1.32
+3104,Kajaani,2020,methamphetamine,1.11
+3105,Kemi,2020,methamphetamine,1.02
+3106,Kokkola,2020,methamphetamine,0.71
+3108,Kouvola,2020,methamphetamine,2.08
+3109,Kuopio,2020,methamphetamine,1.77
+3110,Lahti,2020,methamphetamine,19.39
+3111,Lappeenranta,2020,methamphetamine,0.72
+3112,Mariehamn,2020,methamphetamine,0.0
+3113,Mikkeli,2020,methamphetamine,4.7
+3114,Oulu,2020,methamphetamine,1.21
+3116,Pori,2020,methamphetamine,1.49
+3118,Rovaniemi,2020,methamphetamine,1.87
+3122,Tampere,2020,methamphetamine,1.76
+3123,Turku,2020,methamphetamine,4.34
+3124,Vaasa,2020,methamphetamine,3.07
+3126,Paris Seine Centre,2020,methamphetamine,0.0
+3127,Athens,2020,methamphetamine,18.31
+3128,Eleusis,2020,methamphetamine,0.0
+3129,Zagreb,2020,methamphetamine,6.14
+3130,Bozen,2020,methamphetamine,1.32
+3131,Milan,2020,methamphetamine,11.09
+3132,Kaunas,2020,methamphetamine,6.37
+3133,Klaipeda,2020,methamphetamine,3.34
+3134,Vilnius,2020,methamphetamine,1.71
+3135,Riga,2020,methamphetamine,76.82
+3136,Amsterdam,2020,methamphetamine,26.53
+3137,Eindhoven,2020,methamphetamine,26.61
+3138,Utrecht,2020,methamphetamine,4.83
+3139,Krakow P,2020,methamphetamine,1.67
+3141,Lisbon,2020,methamphetamine,3.76
+3142,Porto,2020,methamphetamine,0.0
+3143,Novi Sad,2020,methamphetamine,0.0
+3146,Stockholm (2),2020,methamphetamine,13.97
+3148,Uppsala,2020,methamphetamine,1.5
+3150,Koper,2020,methamphetamine,0.41
+3151,Ljubljana,2020,methamphetamine,1.12
+3152,Maribor,2020,methamphetamine,0.0
+3153,Novo mesto,2020,methamphetamine,0.0
+3154,Velenje,2020,methamphetamine,0.97
+3155,Istanbul (II-VII),2020,methamphetamine,28.83
+3156,Graz,2019,MDMA,17.39
+3158,Innsbruck,2019,MDMA,23.51
+3159,Kapfenberg,2019,MDMA,24.23
+3161,Purgstall,2019,MDMA,4.41
+3162,Region Millstättersee,2019,MDMA,5.63
+3163,Wasserverband Hofsteig,2019,MDMA,11.91
+3164,Antwerp Zuid,2019,MDMA,119.24
+3166,Brussels,2019,MDMA,28.65
+3168,Oostende,2019,MDMA,25.96
+3169,Basel,2019,MDMA,21.94
+3170,Berne,2019,MDMA,18.65
+3171,Geneva,2019,MDMA,27.68
+3172,St. Gallen Hofen,2019,MDMA,28.61
+3173,Zurich,2019,MDMA,53.66
+3175,Ostrava,2019,MDMA,25.14
+3176,Prague (2),2019,MDMA,93.78
+3177,Chemnitz,2019,MDMA,5.96
+3178,Dortmund,2019,MDMA,15.34
+3179,Dresden,2019,MDMA,8.0
+3181,Erfurt,2019,MDMA,10.61
+3182,Munich G,2019,MDMA,17.09
+3184,Copenhagen,2019,MDMA,36.91
+3185,Barcelona,2019,MDMA,54.76
+3186,Castellon,2019,MDMA,12.36
+3187,Madrid VdlV,2019,MDMA,9.07
+3188,Santiago,2019,MDMA,15.04
+3191,Helsinki,2019,MDMA,44.06
+3192,Tampere,2019,MDMA,23.25
+3193,Turku,2019,MDMA,29.26
+3194,Bordeaux I,2019,MDMA,36.89
+3195,Paris Seine Centre,2019,MDMA,27.14
+3196,Athens,2019,MDMA,6.36
+3197,Eleusis,2019,MDMA,0.83
+3198,Zagreb,2019,MDMA,36.5
+3199,Bozen,2019,MDMA,4.84
+3200,Milan,2019,MDMA,6.45
+3201,Kaunas,2019,MDMA,31.79
+3202,Klaipeda,2019,MDMA,43.15
+3203,Vilnius,2019,MDMA,39.67
+3204,Riga,2019,MDMA,25.71
+3205,Amsterdam,2019,MDMA,287.44
+3206,Eindhoven,2019,MDMA,119.67
+3207,Utrecht,2019,MDMA,129.13
+3208,Krakow P,2019,MDMA,26.79
+3210,Lisbon,2019,MDMA,40.53
+3211,Porto,2019,MDMA,21.38
+3213,Stockholm (2),2019,MDMA,27.49
+3214,Uppsala,2019,MDMA,17.24
+3216,Koper,2019,MDMA,11.76
+3217,Ljubljana,2019,MDMA,26.33
+3218,Maribor,2019,MDMA,20.07
+3219,Novo mesto,2019,MDMA,8.77
+3220,Velenje,2019,MDMA,10.15
+3221,Adana,2019,MDMA,14.51
+3222,Istanbul (II-VII),2019,MDMA,33.09
+3223,Graz,2019,amphetamine,26.67
+3225,Innsbruck,2019,amphetamine,19.23
+3226,Kapfenberg,2019,amphetamine,30.69
+3228,Purgstall,2019,amphetamine,13.74
+3229,Region Millstättersee,2019,amphetamine,2.57
+3230,Wasserverband Hofsteig,2019,amphetamine,18.08
+3231,Antwerp Zuid,2019,amphetamine,302.02
+3233,Brussels,2019,amphetamine,46.52
+3235,Oostende,2019,amphetamine,291.64
+3236,Basel,2019,amphetamine,35.16
+3237,Berne,2019,amphetamine,54.7
+3238,Geneva,2019,amphetamine,8.34
+3239,St. Gallen Hofen,2019,amphetamine,61.84
+3240,Zurich,2019,amphetamine,58.11
+3242,Ostrava,2019,amphetamine,48.67
+3243,Prague (2),2019,amphetamine,81.29
+3244,Chemnitz,2019,amphetamine,12.01
+3245,Dortmund,2019,amphetamine,188.83
+3246,Dresden,2019,amphetamine,35.44
+3248,Erfurt,2019,amphetamine,45.73
+3249,Munich G,2019,amphetamine,26.18
+3251,Copenhagen,2019,amphetamine,74.27
+3252,Barcelona,2019,amphetamine,32.27
+3253,Castellon,2019,amphetamine,0.0
+3254,Madrid VdlV,2019,amphetamine,0.0
+3255,Santiago,2019,amphetamine,10.04
+3258,Helsinki,2019,amphetamine,201.6
+3259,Tampere,2019,amphetamine,125.68
+3260,Turku,2019,amphetamine,137.17
+3261,Bordeaux I,2019,amphetamine,0.0
+3262,Paris Seine Centre,2019,amphetamine,0.0
+3263,Zagreb,2019,amphetamine,145.67
+3264,Bozen,2019,amphetamine,1.83
+3265,Milan,2019,amphetamine,3.56
+3266,Kaunas,2019,amphetamine,43.07
+3267,Klaipeda,2019,amphetamine,19.36
+3268,Vilnius,2019,amphetamine,32.32
+3269,Riga,2019,amphetamine,57.91
+3270,Amsterdam,2019,amphetamine,164.43
+3271,Utrecht,2019,amphetamine,144.77
+3272,Krakow P,2019,amphetamine,65.9
+3274,Lisbon,2019,amphetamine,3.21
+3275,Porto,2019,amphetamine,2.0
+3277,Stockholm (2),2019,amphetamine,446.94
+3278,Uppsala,2019,amphetamine,114.48
+3280,Koper,2019,amphetamine,8.22
+3281,Ljubljana,2019,amphetamine,20.31
+3282,Maribor,2019,amphetamine,17.69
+3283,Novo mesto,2019,amphetamine,13.02
+3284,Velenje,2019,amphetamine,83.94
+3285,Adana,2019,amphetamine,0.54
+3286,Istanbul (II-VII),2019,amphetamine,3.46
+3287,Graz,2019,cannabis,59.61
+3289,Innsbruck,2019,cannabis,81.48
+3290,Kapfenberg,2019,cannabis,65.7
+3292,Purgstall,2019,cannabis,30.6
+3293,Region Millstättersee,2019,cannabis,31.5
+3294,Wasserverband Hofsteig,2019,cannabis,81.01
+3295,Basel,2019,cannabis,18.37
+3296,Berne,2019,cannabis,21.35
+3297,Geneva,2019,cannabis,217.04
+3298,St. Gallen Hofen,2019,cannabis,13.31
+3299,Zurich,2019,cannabis,140.2
+3300,Brno,2019,cannabis,41.98
+3302,Ostrava,2019,cannabis,56.3
+3303,Prague (2),2019,cannabis,140.77
+3304,Barcelona,2019,cannabis,149.76
+3305,Castellon,2019,cannabis,84.28
+3306,Madrid VdlV,2019,cannabis,88.68
+3307,Santiago,2019,cannabis,120.06
+3309,Bordeaux I,2019,cannabis,171.25
+3310,Paris Seine Centre,2019,cannabis,93.67
+3311,Athens,2019,cannabis,52.56
+3312,Eleusis,2019,cannabis,21.46
+3313,Zagreb,2019,cannabis,186.13
+3314,Bozen,2019,cannabis,48.9
+3315,Milan,2019,cannabis,35.68
+3316,Amsterdam,2019,cannabis,260.78
+3317,Eindhoven,2019,cannabis,129.81
+3318,Utrecht,2019,cannabis,131.76
+3319,Krakow P,2019,cannabis,27.96
+3321,Lisbon,2019,cannabis,101.78
+3322,Porto,2019,cannabis,53.01
+3325,Koper,2019,cannabis,101.12
+3326,Ljubljana,2019,cannabis,103.53
+3327,Maribor,2019,cannabis,59.52
+3328,Novo mesto,2019,cannabis,71.83
+3329,Velenje,2019,cannabis,90.0
+3330,Bratislava C,2019,cannabis,33.69
+3331,Piestany,2019,cannabis,27.68
+3332,Adana,2019,cannabis,15.9
+3333,Istanbul (II-VII),2019,cannabis,9.25
+3334,Graz,2019,cocaine,154.19
+3336,Innsbruck,2019,cocaine,329.97
+3337,Kapfenberg,2019,cocaine,64.72
+3339,Purgstall,2019,cocaine,22.03
+3340,Region Millstättersee,2019,cocaine,55.47
+3341,Wasserverband Hofsteig,2019,cocaine,215.76
+3342,Antwerp Zuid,2019,cocaine,1275.66
+3344,Brussels,2019,cocaine,454.56
+3346,Oostende,2019,cocaine,249.38
+3347,Basel,2019,cocaine,716.63
+3348,Berne,2019,cocaine,485.85
+3349,Geneva,2019,cocaine,676.89
+3350,St. Gallen Hofen,2019,cocaine,909.82
+3351,Zurich,2019,cocaine,890.94
+3353,Brno,2019,cocaine,41.76
+3355,Ostrava,2019,cocaine,27.41
+3356,Prague (2),2019,cocaine,477.92
+3357,Chemnitz,2019,cocaine,13.26
+3358,Dortmund,2019,cocaine,374.78
+3359,Dresden,2019,cocaine,28.14
+3361,Erfurt,2019,cocaine,52.03
+3362,Munich G,2019,cocaine,235.7
+3364,Copenhagen,2019,cocaine,599.71
+3365,Barcelona,2019,cocaine,700.3
+3366,Castellon,2019,cocaine,714.41
+3367,Madrid VdlV,2019,cocaine,504.86
+3368,Santiago,2019,cocaine,500.54
+3371,Helsinki,2019,cocaine,73.81
+3372,Tampere,2019,cocaine,12.67
+3373,Turku,2019,cocaine,11.07
+3374,Bordeaux I,2019,cocaine,256.76
+3375,Paris Seine Centre,2019,cocaine,273.54
+3376,Athens,2019,cocaine,55.91
+3377,Eleusis,2019,cocaine,16.43
+3378,Zagreb,2019,cocaine,395.55
+3379,Bozen,2019,cocaine,377.79
+3380,Milan,2019,cocaine,236.55
+3381,Kaunas,2019,cocaine,65.32
+3382,Klaipeda,2019,cocaine,88.63
+3383,Vilnius,2019,cocaine,75.56
+3384,Riga,2019,cocaine,57.34
+3385,Amsterdam,2019,cocaine,986.15
+3386,Eindhoven,2019,cocaine,545.42
+3387,Utrecht,2019,cocaine,460.25
+3388,Krakow P,2019,cocaine,46.57
+3390,Lisbon,2019,cocaine,453.34
+3391,Porto,2019,cocaine,264.35
+3393,Stockholm (2),2019,cocaine,211.23
+3394,Uppsala,2019,cocaine,62.27
+3396,Koper,2019,cocaine,592.73
+3397,Ljubljana,2019,cocaine,429.71
+3398,Maribor,2019,cocaine,237.5
+3399,Novo mesto,2019,cocaine,259.59
+3400,Velenje,2019,cocaine,156.62
+3401,Bratislava C,2019,cocaine,69.94
+3402,Piestany,2019,cocaine,33.19
+3403,Adana,2019,cocaine,3.11
+3404,Istanbul (II-VII),2019,cocaine,36.22
+3405,Graz,2019,methamphetamine,5.68
+3407,Innsbruck,2019,methamphetamine,1.91
+3408,Kapfenberg,2019,methamphetamine,1.65
+3410,Purgstall,2019,methamphetamine,1.48
+3411,Region Millstättersee,2019,methamphetamine,0.0
+3412,Wasserverband Hofsteig,2019,methamphetamine,1.62
+3413,Antwerp Zuid,2019,methamphetamine,28.98
+3415,Brussels,2019,methamphetamine,9.83
+3417,Oostende,2019,methamphetamine,1.58
+3418,Basel,2019,methamphetamine,37.37
+3419,Berne,2019,methamphetamine,20.27
+3420,Geneva,2019,methamphetamine,9.51
+3421,St. Gallen Hofen,2019,methamphetamine,12.73
+3422,Zurich,2019,methamphetamine,64.53
+3424,Ostrava,2019,methamphetamine,601.16
+3425,Prague (2),2019,methamphetamine,726.87
+3426,Chemnitz,2019,methamphetamine,276.0
+3427,Dortmund,2019,methamphetamine,0.0
+3428,Dresden,2019,methamphetamine,171.07
+3430,Erfurt,2019,methamphetamine,251.75
+3431,Munich G,2019,methamphetamine,8.01
+3433,Copenhagen,2019,methamphetamine,23.68
+3434,Barcelona,2019,methamphetamine,106.83
+3435,Castellon,2019,methamphetamine,0.0
+3436,Madrid VdlV,2019,methamphetamine,6.64
+3437,Santiago,2019,methamphetamine,0.0
+3440,Helsinki,2019,methamphetamine,33.23
+3441,Tampere,2019,methamphetamine,5.92
+3442,Turku,2019,methamphetamine,12.97
+3443,Bordeaux I,2019,methamphetamine,0.0
+3444,Paris Seine Centre,2019,methamphetamine,0.0
+3445,Athens,2019,methamphetamine,11.32
+3446,Eleusis,2019,methamphetamine,0.97
+3447,Zagreb,2019,methamphetamine,0.0
+3448,Bozen,2019,methamphetamine,0.0
+3449,Milan,2019,methamphetamine,18.76
+3450,Kaunas,2019,methamphetamine,36.93
+3451,Klaipeda,2019,methamphetamine,8.22
+3452,Vilnius,2019,methamphetamine,31.28
+3453,Riga,2019,methamphetamine,31.42
+3454,Amsterdam,2019,methamphetamine,31.49
+3455,Utrecht,2019,methamphetamine,8.79
+3456,Krakow P,2019,methamphetamine,2.7
+3458,Lisbon,2019,methamphetamine,0.0
+3459,Porto,2019,methamphetamine,0.0
+3461,Stockholm (2),2019,methamphetamine,13.72
+3462,Uppsala,2019,methamphetamine,1.93
+3464,Koper,2019,methamphetamine,0.47
+3465,Ljubljana,2019,methamphetamine,16.54
+3466,Maribor,2019,methamphetamine,0.83
+3467,Novo mesto,2019,methamphetamine,0.0
+3468,Velenje,2019,methamphetamine,0.0
+3469,Istanbul (II-VII),2019,methamphetamine,16.2
+3471,Innsbruck,2018,MDMA,26.69
+3472,Region Millstättersee,2018,MDMA,7.33
+3473,Wasserverband Hofsteig,2018,MDMA,8.9
+3475,Brussels,2018,MDMA,28.66
+3477,Oostende,2018,MDMA,11.59
+3478,Basel,2018,MDMA,22.92
+3479,Berne,2018,MDMA,28.05
+3480,Geneva,2018,MDMA,40.98
+3481,St. Gallen Hofen,2018,MDMA,41.54
+3482,Zurich,2018,MDMA,73.4
+3484,Brno,2018,MDMA,22.58
+3487,Chemnitz,2018,MDMA,12.73
+3488,Dortmund,2018,MDMA,21.23
+3489,Dresden,2018,MDMA,16.52
+3491,Erfurt,2018,MDMA,19.06
+3492,Munich G,2018,MDMA,21.07
+3494,Copenhagen,2018,MDMA,18.25
+3495,Barcelona,2018,MDMA,46.77
+3496,Castellon,2018,MDMA,2.85
+3497,Madrid VdlV,2018,MDMA,13.01
+3498,Santiago,2018,MDMA,14.32
+3501,Helsinki,2018,MDMA,37.82
+3503,Joensuu,2018,MDMA,16.71
+3505,Kajaani,2018,MDMA,7.05
+3506,Kemi,2018,MDMA,8.23
+3507,Kokkola,2018,MDMA,2.98
+3509,Kouvola,2018,MDMA,12.08
+3510,Kuopio,2018,MDMA,10.1
+3511,Lahti,2018,MDMA,20.01
+3512,Lappeenranta,2018,MDMA,14.49
+3513,Mariehamn,2018,MDMA,18.9
+3514,Mikkeli,2018,MDMA,19.67
+3515,Oulu,2018,MDMA,16.81
+3516,Pori,2018,MDMA,14.92
+3517,Rovaniemi,2018,MDMA,31.76
+3520,Tampere,2018,MDMA,22.44
+3521,Turku,2018,MDMA,16.12
+3522,Vaasa,2018,MDMA,11.65
+3523,Bordeaux I,2018,MDMA,26.73
+3524,Paris Seine Centre,2018,MDMA,34.3
+3525,Paris South Suburbs,2018,MDMA,0.0
+3526,Athens,2018,MDMA,4.7
+3527,Zagreb,2018,MDMA,29.83
+3528,Bozen,2018,MDMA,5.01
+3529,Milan,2018,MDMA,5.84
+3530,Kaunas,2018,MDMA,14.9
+3531,Klaipeda,2018,MDMA,24.97
+3532,Vilnius,2018,MDMA,22.94
+3533,Amsterdam,2018,MDMA,182.97
+3534,Utrecht,2018,MDMA,160.32
+3536,Lisbon,2018,MDMA,49.35
+3537,Porto,2018,MDMA,21.07
+3539,Ljubljana,2018,MDMA,34.95
+3540,Maribor,2018,MDMA,6.31
+3541,Bratislava C,2018,MDMA,13.72
+3542,Piestany,2018,MDMA,2.46
+3544,Innsbruck,2018,amphetamine,17.05
+3545,Region Millstättersee,2018,amphetamine,7.14
+3546,Wasserverband Hofsteig,2018,amphetamine,11.77
+3547,Antwerp Zuid,2018,amphetamine,181.44
+3549,Brussels,2018,amphetamine,34.96
+3551,Oostende,2018,amphetamine,151.63
+3552,Basel,2018,amphetamine,37.03
+3553,Berne,2018,amphetamine,37.4
+3554,Geneva,2018,amphetamine,10.0
+3555,St. Gallen Hofen,2018,amphetamine,47.57
+3556,Zurich,2018,amphetamine,51.76
+3558,Brno,2018,amphetamine,15.7
+3561,Chemnitz,2018,amphetamine,19.45
+3562,Dortmund,2018,amphetamine,138.15
+3563,Dresden,2018,amphetamine,27.64
+3565,Erfurt,2018,amphetamine,39.76
+3566,Munich G,2018,amphetamine,6.3
+3568,Copenhagen,2018,amphetamine,59.45
+3569,Barcelona,2018,amphetamine,35.2
+3570,Castellon,2018,amphetamine,0.0
+3571,Madrid VdlV,2018,amphetamine,0.0
+3572,Santiago,2018,amphetamine,0.0
+3575,Helsinki,2018,amphetamine,149.39
+3577,Joensuu,2018,amphetamine,50.77
+3579,Kajaani,2018,amphetamine,35.63
+3580,Kemi,2018,amphetamine,99.46
+3581,Kokkola,2018,amphetamine,25.15
+3583,Kouvola,2018,amphetamine,155.92
+3584,Kuopio,2018,amphetamine,84.32
+3585,Lahti,2018,amphetamine,160.58
+3586,Lappeenranta,2018,amphetamine,69.7
+3587,Mariehamn,2018,amphetamine,57.43
+3588,Mikkeli,2018,amphetamine,96.25
+3589,Oulu,2018,amphetamine,69.35
+3590,Pori,2018,amphetamine,40.64
+3591,Rovaniemi,2018,amphetamine,138.61
+3594,Tampere,2018,amphetamine,68.08
+3595,Turku,2018,amphetamine,66.25
+3596,Vaasa,2018,amphetamine,64.76
+3597,Bordeaux I,2018,amphetamine,0.0
+3598,Paris Seine Centre,2018,amphetamine,0.0
+3599,Paris South Suburbs,2018,amphetamine,0.0
+3600,Athens,2018,amphetamine,8.64
+3601,Zagreb,2018,amphetamine,76.08
+3602,Bozen,2018,amphetamine,2.2
+3603,Milan,2018,amphetamine,0.0
+3604,Kaunas,2018,amphetamine,14.41
+3605,Klaipeda,2018,amphetamine,20.73
+3606,Vilnius,2018,amphetamine,16.12
+3607,Amsterdam,2018,amphetamine,154.26
+3609,Lisbon,2018,amphetamine,5.22
+3610,Porto,2018,amphetamine,1.93
+3612,Ljubljana,2018,amphetamine,20.57
+3613,Maribor,2018,amphetamine,3.86
+3614,Bratislava C,2018,amphetamine,20.44
+3615,Piestany,2018,amphetamine,24.06
+3618,Innsbruck,2018,cannabis,91.09
+3619,Region Millstättersee,2018,cannabis,39.33
+3620,Wasserverband Hofsteig,2018,cannabis,68.18
+3621,Brno,2018,cannabis,34.97
+3623,Barcelona,2018,cannabis,230.82
+3624,Castellon,2018,cannabis,64.2
+3625,Madrid VdlV,2018,cannabis,56.83
+3626,Santiago,2018,cannabis,64.9
+3628,Bordeaux I,2018,cannabis,164.91
+3629,Paris Seine Centre,2018,cannabis,83.14
+3630,Paris South Suburbs,2018,cannabis,87.98
+3631,Athens,2018,cannabis,50.85
+3632,Zagreb,2018,cannabis,120.03
+3633,Bozen,2018,cannabis,45.7
+3634,Milan,2018,cannabis,31.44
+3635,Amsterdam,2018,cannabis,264.22
+3636,Eindhoven,2018,cannabis,125.57
+3637,Utrecht,2018,cannabis,100.66
+3639,Lisbon,2018,cannabis,117.67
+3640,Porto,2018,cannabis,44.67
+3642,Ljubljana,2018,cannabis,38.36
+3643,Bratislava C,2018,cannabis,41.84
+3644,Piestany,2018,cannabis,17.96
+3646,Innsbruck,2018,cocaine,335.51
+3647,Region Millstättersee,2018,cocaine,72.1
+3648,Wasserverband Hofsteig,2018,cocaine,181.88
+3649,Antwerp Zuid,2018,cocaine,771.79
+3651,Brussels,2018,cocaine,432.53
+3653,Oostende,2018,cocaine,139.17
+3654,Basel,2018,cocaine,585.35
+3655,Berne,2018,cocaine,499.92
+3656,Geneva,2018,cocaine,600.44
+3657,St. Gallen Hofen,2018,cocaine,708.34
+3658,Zurich,2018,cocaine,855.96
+3659,Brno,2018,cocaine,31.78
+3662,Chemnitz,2018,cocaine,12.06
+3663,Dortmund,2018,cocaine,379.08
+3664,Dresden,2018,cocaine,33.29
+3666,Erfurt,2018,cocaine,46.05
+3667,Munich G,2018,cocaine,187.06
+3669,Copenhagen,2018,cocaine,465.72
+3670,Barcelona,2018,cocaine,733.19
+3671,Castellon,2018,cocaine,296.47
+3672,Madrid VdlV,2018,cocaine,316.47
+3673,Santiago,2018,cocaine,352.14
+3676,Helsinki,2018,cocaine,62.88
+3678,Joensuu,2018,cocaine,2.06
+3680,Kajaani,2018,cocaine,0.36
+3681,Kemi,2018,cocaine,1.98
+3682,Kokkola,2018,cocaine,0.83
+3684,Kouvola,2018,cocaine,8.24
+3685,Kuopio,2018,cocaine,1.87
+3686,Lahti,2018,cocaine,44.22
+3687,Lappeenranta,2018,cocaine,2.57
+3688,Mariehamn,2018,cocaine,23.98
+3689,Mikkeli,2018,cocaine,2.47
+3690,Oulu,2018,cocaine,2.75
+3691,Pori,2018,cocaine,4.32
+3692,Rovaniemi,2018,cocaine,3.59
+3695,Tampere,2018,cocaine,27.1
+3696,Turku,2018,cocaine,6.94
+3697,Vaasa,2018,cocaine,1.27
+3698,Bordeaux I,2018,cocaine,201.61
+3699,Paris Seine Centre,2018,cocaine,524.98
+3700,Paris South Suburbs,2018,cocaine,56.77
+3701,Zagreb,2018,cocaine,234.54
+3702,Bozen,2018,cocaine,393.16
+3703,Milan,2018,cocaine,362.19
+3704,Kaunas,2018,cocaine,57.59
+3705,Klaipeda,2018,cocaine,62.67
+3706,Vilnius,2018,cocaine,49.8
+3707,Amsterdam,2018,cocaine,932.36
+3708,Eindhoven,2018,cocaine,426.93
+3709,Utrecht,2018,cocaine,414.6
+3711,Lisbon,2018,cocaine,454.53
+3712,Porto,2018,cocaine,219.48
+3714,Ljubljana,2018,cocaine,289.38
+3715,Maribor,2018,cocaine,92.56
+3716,Bratislava C,2018,cocaine,107.08
+3717,Piestany,2018,cocaine,22.01
+3719,Innsbruck,2018,methamphetamine,2.12
+3720,Region Millstättersee,2018,methamphetamine,0.0
+3721,Wasserverband Hofsteig,2018,methamphetamine,1.27
+3722,Antwerp Zuid,2018,methamphetamine,17.5
+3724,Brussels,2018,methamphetamine,7.21
+3726,Oostende,2018,methamphetamine,0.0
+3728,Brno,2018,methamphetamine,114.65
+3731,Chemnitz,2018,methamphetamine,196.2
+3732,Dortmund,2018,methamphetamine,2.95
+3733,Dresden,2018,methamphetamine,174.63
+3735,Erfurt,2018,methamphetamine,211.26
+3736,Munich G,2018,methamphetamine,5.42
+3738,Copenhagen,2018,methamphetamine,16.22
+3739,Barcelona,2018,methamphetamine,47.88
+3740,Castellon,2018,methamphetamine,0.0
+3741,Madrid VdlV,2018,methamphetamine,7.93
+3742,Santiago,2018,methamphetamine,0.0
+3745,Helsinki,2018,methamphetamine,19.02
+3747,Joensuu,2018,methamphetamine,2.38
+3749,Kajaani,2018,methamphetamine,3.24
+3750,Kemi,2018,methamphetamine,2.27
+3751,Kokkola,2018,methamphetamine,1.59
+3753,Kouvola,2018,methamphetamine,9.63
+3754,Kuopio,2018,methamphetamine,23.41
+3755,Lahti,2018,methamphetamine,21.58
+3756,Lappeenranta,2018,methamphetamine,8.1
+3757,Mariehamn,2018,methamphetamine,1.09
+3758,Mikkeli,2018,methamphetamine,6.7
+3759,Oulu,2018,methamphetamine,2.66
+3760,Pori,2018,methamphetamine,4.16
+3761,Rovaniemi,2018,methamphetamine,5.72
+3764,Tampere,2018,methamphetamine,22.22
+3765,Turku,2018,methamphetamine,5.65
+3766,Vaasa,2018,methamphetamine,19.05
+3767,Bordeaux I,2018,methamphetamine,0.0
+3768,Paris Seine Centre,2018,methamphetamine,0.0
+3769,Paris South Suburbs,2018,methamphetamine,0.0
+3770,Zagreb,2018,methamphetamine,0.0
+3771,Bozen,2018,methamphetamine,1.07
+3772,Milan,2018,methamphetamine,12.93
+3773,Kaunas,2018,methamphetamine,56.51
+3774,Klaipeda,2018,methamphetamine,7.64
+3775,Vilnius,2018,methamphetamine,34.06
+3776,Amsterdam,2018,methamphetamine,28.58
+3777,Eindhoven,2018,methamphetamine,2.69
+3778,Utrecht,2018,methamphetamine,0.0
+3780,Lisbon,2018,methamphetamine,1.85
+3781,Porto,2018,methamphetamine,0.36
+3783,Ljubljana,2018,methamphetamine,2.3
+3784,Maribor,2018,methamphetamine,0.0
+3785,Bratislava C,2018,methamphetamine,144.02
+3786,Piestany,2018,methamphetamine,81.9
+3788,Innsbruck,2017,MDMA,20.91
+3789,Antwerp Zuid,2017,MDMA,95.29
+3791,Brussels,2017,MDMA,25.15
+3793,Merchtem,2017,MDMA,7.36
+3794,Oostende,2017,MDMA,14.66
+3796,Basel,2017,MDMA,31.31
+3797,Berne,2017,MDMA,33.0
+3798,Geneva,2017,MDMA,47.18
+3799,St. Gallen Hofen,2017,MDMA,27.84
+3800,Zurich,2017,MDMA,81.2
+3802,Brno,2017,MDMA,25.38
+3805,Chemnitz,2017,MDMA,9.68
+3806,Dortmund,2017,MDMA,18.56
+3807,Dresden,2017,MDMA,9.57
+3809,Erfurt,2017,MDMA,7.61
+3810,Frankfurt (3),2017,MDMA,22.57
+3811,Hamburg (2),2017,MDMA,31.29
+3812,Hannover (2),2017,MDMA,21.98
+3813,Magdeburg,2017,MDMA,23.49
+3814,Mainz,2017,MDMA,25.98
+3815,Munich G,2017,MDMA,22.46
+3816,Nuremberg,2017,MDMA,13.66
+3817,Rostock,2017,MDMA,19.54
+3819,Stuttgart,2017,MDMA,23.17
+3820,Barcelona,2017,MDMA,48.06
+3821,Castellon,2017,MDMA,10.55
+3822,Madrid VdlV,2017,MDMA,13.18
+3823,Santiago,2017,MDMA,11.53
+3825,Helsinki,2017,MDMA,26.85
+3826,Tampere,2017,MDMA,44.51
+3827,Turku,2017,MDMA,14.73
+3828,Bordeaux I,2017,MDMA,18.61
+3829,Fort-de-France P,2017,MDMA,0.0
+3830,Paris Seine Centre,2017,MDMA,43.43
+3831,Paris South Suburbs,2017,MDMA,5.19
+3832,Athens,2017,MDMA,2.49
+3833,Zagreb,2017,MDMA,32.62
+3834,Milan,2017,MDMA,4.34
+3835,Vilnius,2017,MDMA,15.96
+3836,Amsterdam,2017,MDMA,230.29
+3837,Eindhoven,2017,MDMA,165.08
+3840,Utrecht,2017,MDMA,59.82
+3841,Krakow P,2017,MDMA,7.41
+3843,Lisbon,2017,MDMA,38.32
+3844,Porto,2017,MDMA,10.81
+3845,Ljubljana,2017,MDMA,35.59
+3846,Bratislava C,2017,MDMA,10.15
+3847,Piestany,2017,MDMA,2.24
+3848,Innsbruck,2017,amphetamine,14.82
+3849,Antwerp Zuid,2017,amphetamine,268.75
+3851,Brussels,2017,amphetamine,49.17
+3853,Merchtem,2017,amphetamine,26.81
+3854,Oostende,2017,amphetamine,236.37
+3856,Basel,2017,amphetamine,31.54
+3857,Berne,2017,amphetamine,53.31
+3858,Geneva,2017,amphetamine,14.64
+3859,St. Gallen Hofen,2017,amphetamine,43.92
+3860,Zurich,2017,amphetamine,46.71
+3862,Brno,2017,amphetamine,9.02
+3865,Chemnitz,2017,amphetamine,0.0
+3866,Dortmund,2017,amphetamine,168.73
+3867,Dresden,2017,amphetamine,23.43
+3869,Erfurt,2017,amphetamine,0.0
+3870,Frankfurt (3),2017,amphetamine,84.67
+3871,Hamburg (2),2017,amphetamine,69.2
+3872,Hannover (2),2017,amphetamine,83.02
+3873,Magdeburg,2017,amphetamine,97.91
+3874,Mainz,2017,amphetamine,226.88
+3875,Munich G,2017,amphetamine,25.53
+3876,Nuremberg,2017,amphetamine,41.65
+3877,Rostock,2017,amphetamine,149.99
+3879,Stuttgart,2017,amphetamine,69.94
+3880,Barcelona,2017,amphetamine,42.32
+3881,Castellon,2017,amphetamine,0.0
+3882,Madrid VdlV,2017,amphetamine,0.0
+3883,Santiago,2017,amphetamine,6.42
+3886,Helsinki,2017,amphetamine,47.81
+3887,Tampere,2017,amphetamine,42.87
+3888,Turku,2017,amphetamine,64.77
+3889,Bordeaux I,2017,amphetamine,0.0
+3890,Fort-de-France P,2017,amphetamine,0.0
+3891,Paris Seine Centre,2017,amphetamine,0.0
+3892,Paris South Suburbs,2017,amphetamine,0.0
+3893,Athens,2017,amphetamine,2.24
+3894,Zagreb,2017,amphetamine,56.32
+3895,Milan,2017,amphetamine,0.0
+3896,Vilnius,2017,amphetamine,13.08
+3897,Amsterdam,2017,amphetamine,123.29
+3898,Eindhoven,2017,amphetamine,271.73
+3901,Utrecht,2017,amphetamine,74.89
+3902,Krakow P,2017,amphetamine,23.41
+3904,Lisbon,2017,amphetamine,3.04
+3905,Porto,2017,amphetamine,0.0
+3906,Ljubljana,2017,amphetamine,35.24
+3907,Bratislava C,2017,amphetamine,9.34
+3908,Piestany,2017,amphetamine,2.11
+3909,Innsbruck,2017,cocaine,222.78
+3910,Antwerp Zuid,2017,cocaine,822.93
+3912,Brussels,2017,cocaine,373.81
+3914,Merchtem,2017,cocaine,234.78
+3915,Oostende,2017,cocaine,145.14
+3917,Basel,2017,cocaine,562.86
+3918,Berne,2017,cocaine,527.84
+3919,Geneva,2017,cocaine,794.84
+3920,St. Gallen Hofen,2017,cocaine,821.69
+3921,Zurich,2017,cocaine,934.42
+3922,Brno,2017,cocaine,24.21
+3925,Chemnitz,2017,cocaine,20.29
+3926,Dortmund,2017,cocaine,428.67
+3927,Dresden,2017,cocaine,20.86
+3929,Erfurt,2017,cocaine,48.56
+3930,Frankfurt (3),2017,cocaine,427.93
+3931,Hamburg (2),2017,cocaine,392.84
+3932,Hannover (2),2017,cocaine,302.91
+3933,Magdeburg,2017,cocaine,136.23
+3934,Mainz,2017,cocaine,128.46
+3935,Munich G,2017,cocaine,140.16
+3936,Nuremberg,2017,cocaine,18.11
+3937,Rostock,2017,cocaine,136.13
+3939,Stuttgart,2017,cocaine,216.82
+3940,Barcelona,2017,cocaine,965.19
+3941,Castellon,2017,cocaine,319.5
+3942,Madrid VdlV,2017,cocaine,458.79
+3943,Santiago,2017,cocaine,342.68
+3946,Helsinki,2017,cocaine,29.93
+3947,Tampere,2017,cocaine,16.29
+3948,Turku,2017,cocaine,4.74
+3949,Bordeaux I,2017,cocaine,263.29
+3950,Fort-de-France P,2017,cocaine,398.99
+3951,Paris Seine Centre,2017,cocaine,324.24
+3952,Paris South Suburbs,2017,cocaine,104.31
+3953,Athens,2017,cocaine,38.28
+3954,Zagreb,2017,cocaine,216.27
+3955,Milan,2017,cocaine,341.43
+3956,Vilnius,2017,cocaine,34.7
+3957,Amsterdam,2017,cocaine,734.04
+3958,Eindhoven,2017,cocaine,427.78
+3961,Utrecht,2017,cocaine,288.74
+3963,Lisbon,2017,cocaine,271.6
+3964,Porto,2017,cocaine,160.22
+3965,Ljubljana,2017,cocaine,449.76
+3966,Bratislava C,2017,cocaine,89.22
+3967,Piestany,2017,cocaine,6.35
+3968,Innsbruck,2017,methamphetamine,2.86
+3969,Antwerp Zuid,2017,methamphetamine,22.32
+3971,Brussels,2017,methamphetamine,6.8
+3973,Merchtem,2017,methamphetamine,0.0
+3974,Oostende,2017,methamphetamine,0.0
+3976,Basel,2017,methamphetamine,37.04
+3977,Berne,2017,methamphetamine,25.72
+3978,Geneva,2017,methamphetamine,18.1
+3979,St. Gallen Hofen,2017,methamphetamine,7.41
+3980,Zurich,2017,methamphetamine,62.04
+3982,Brno,2017,methamphetamine,185.67
+3985,Chemnitz,2017,methamphetamine,240.57
+3986,Dortmund,2017,methamphetamine,0.0
+3987,Dresden,2017,methamphetamine,180.18
+3989,Erfurt,2017,methamphetamine,211.23
+3990,Frankfurt (3),2017,methamphetamine,8.49
+3991,Hamburg (2),2017,methamphetamine,3.59
+3992,Hannover (2),2017,methamphetamine,1.72
+3993,Magdeburg,2017,methamphetamine,85.2
+3994,Mainz,2017,methamphetamine,2.03
+3995,Munich G,2017,methamphetamine,8.1
+3996,Nuremberg,2017,methamphetamine,94.77
+3997,Rostock,2017,methamphetamine,2.57
+3999,Stuttgart,2017,methamphetamine,5.86
+4000,Barcelona,2017,methamphetamine,48.95
+4001,Castellon,2017,methamphetamine,0.0
+4002,Madrid VdlV,2017,methamphetamine,12.01
+4003,Santiago,2017,methamphetamine,0.0
+4006,Helsinki,2017,methamphetamine,46.0
+4007,Tampere,2017,methamphetamine,24.89
+4008,Turku,2017,methamphetamine,17.59
+4009,Bordeaux I,2017,methamphetamine,0.0
+4010,Fort-de-France P,2017,methamphetamine,0.0
+4011,Paris Seine Centre,2017,methamphetamine,0.0
+4012,Paris South Suburbs,2017,methamphetamine,0.0
+4013,Athens,2017,methamphetamine,3.98
+4014,Zagreb,2017,methamphetamine,0.0
+4015,Milan,2017,methamphetamine,10.07
+4016,Vilnius,2017,methamphetamine,39.69
+4017,Amsterdam,2017,methamphetamine,14.01
+4018,Eindhoven,2017,methamphetamine,0.0
+4021,Utrecht,2017,methamphetamine,0.0
+4022,Krakow P,2017,methamphetamine,0.5
+4024,Lisbon,2017,methamphetamine,0.0
+4025,Porto,2017,methamphetamine,0.47
+4026,Ljubljana,2017,methamphetamine,0.0
+4027,Bratislava C,2017,methamphetamine,120.0
+4028,Piestany,2017,methamphetamine,78.03
+4029,Innsbruck,2016,MDMA,21.73
+4031,Antwerp Zuid,2016,MDMA,98.29
+4032,Brussels,2016,MDMA,34.41
+4034,Oostende,2016,MDMA,13.41
+4035,Basel,2016,MDMA,24.77
+4036,Berne,2016,MDMA,19.55
+4037,Geneva,2016,MDMA,32.3
+4038,Lugano,2016,MDMA,2.52
+4039,Zurich,2016,MDMA,59.32
+4042,Dortmund,2016,MDMA,23.74
+4043,Dresden,2016,MDMA,12.72
+4045,Munich G,2016,MDMA,24.09
+4046,Barcelona,2016,MDMA,46.79
+4047,Castellon,2016,MDMA,5.96
+4048,Molina de Segura,2016,MDMA,0.0
+4049,Santiago,2016,MDMA,4.46
+4052,Helsinki,2016,MDMA,34.16
+4053,Joensuu,2016,MDMA,4.56
+4056,Kuopio,2016,MDMA,13.42
+4057,Lahti,2016,MDMA,17.97
+4058,Lappeenranta,2016,MDMA,14.54
+4059,Oulu,2016,MDMA,10.31
+4060,Rovaniemi,2016,MDMA,14.27
+4062,Tampere,2016,MDMA,27.08
+4063,Turku,2016,MDMA,16.59
+4064,Vaasa,2016,MDMA,18.67
+4065,Bordeaux I,2016,MDMA,13.82
+4066,Paris Seine Centre,2016,MDMA,17.16
+4067,Athens,2016,MDMA,2.53
+4068,Zagreb,2016,MDMA,49.22
+4069,Milan,2016,MDMA,4.45
+4070,Eindhoven,2016,MDMA,125.74
+4071,Utrecht,2016,MDMA,88.75
+4073,Lisbon,2016,MDMA,26.91
+4074,Porto,2016,MDMA,10.78
+4075,Stockholm (2),2016,MDMA,37.75
+4076,Piestany,2016,MDMA,10.16
+4077,Innsbruck,2016,amphetamine,12.45
+4079,Antwerp Zuid,2016,amphetamine,199.27
+4080,Brussels,2016,amphetamine,36.83
+4082,Oostende,2016,amphetamine,178.98
+4083,Basel,2016,amphetamine,27.4
+4084,Berne,2016,amphetamine,24.17
+4085,Geneva,2016,amphetamine,9.86
+4086,Lugano,2016,amphetamine,0.0
+4087,Zurich,2016,amphetamine,35.08
+4090,Dortmund,2016,amphetamine,150.39
+4091,Dresden,2016,amphetamine,22.63
+4093,Munich G,2016,amphetamine,26.17
+4094,Barcelona,2016,amphetamine,45.64
+4095,Castellon,2016,amphetamine,0.0
+4096,Molina de Segura,2016,amphetamine,0.0
+4097,Santiago,2016,amphetamine,0.0
+4100,Helsinki,2016,amphetamine,100.77
+4101,Joensuu,2016,amphetamine,31.25
+4104,Kuopio,2016,amphetamine,37.87
+4105,Lahti,2016,amphetamine,119.86
+4106,Lappeenranta,2016,amphetamine,40.12
+4107,Oulu,2016,amphetamine,32.58
+4108,Rovaniemi,2016,amphetamine,73.97
+4110,Tampere,2016,amphetamine,78.19
+4111,Turku,2016,amphetamine,72.03
+4112,Vaasa,2016,amphetamine,29.7
+4113,Bordeaux I,2016,amphetamine,0.0
+4114,Paris Seine Centre,2016,amphetamine,0.0
+4115,Athens,2016,amphetamine,4.61
+4116,Zagreb,2016,amphetamine,72.23
+4117,Milan,2016,amphetamine,0.0
+4118,Utrecht,2016,amphetamine,97.94
+4120,Lisbon,2016,amphetamine,3.33
+4121,Porto,2016,amphetamine,0.0
+4122,Stockholm (2),2016,amphetamine,208.84
+4123,Piestany,2016,amphetamine,30.89
+4124,Innsbruck,2016,cocaine,161.96
+4126,Antwerp Zuid,2016,cocaine,914.79
+4127,Brussels,2016,cocaine,416.83
+4129,Oostende,2016,cocaine,98.0
+4130,Basel,2016,cocaine,435.17
+4131,Berne,2016,cocaine,325.71
+4132,Geneva,2016,cocaine,484.7
+4133,Lugano,2016,cocaine,381.08
+4134,Zurich,2016,cocaine,722.53
+4137,Dortmund,2016,cocaine,420.74
+4138,Dresden,2016,cocaine,17.7
+4140,Munich G,2016,cocaine,113.79
+4141,Barcelona,2016,cocaine,699.1
+4142,Castellon,2016,cocaine,364.67
+4143,Molina de Segura,2016,cocaine,509.94
+4144,Santiago,2016,cocaine,142.68
+4147,Helsinki,2016,cocaine,16.75
+4148,Joensuu,2016,cocaine,0.9
+4151,Kuopio,2016,cocaine,1.14
+4152,Lahti,2016,cocaine,9.93
+4153,Lappeenranta,2016,cocaine,0.0
+4154,Oulu,2016,cocaine,0.0
+4155,Rovaniemi,2016,cocaine,1.53
+4157,Tampere,2016,cocaine,6.44
+4158,Turku,2016,cocaine,1.8
+4159,Vaasa,2016,cocaine,0.0
+4160,Bordeaux I,2016,cocaine,246.03
+4161,Paris Seine Centre,2016,cocaine,169.6
+4162,Athens,2016,cocaine,30.41
+4163,Zagreb,2016,cocaine,162.32
+4164,Milan,2016,cocaine,306.59
+4165,Eindhoven,2016,cocaine,497.87
+4166,Utrecht,2016,cocaine,310.36
+4168,Lisbon,2016,cocaine,257.96
+4169,Porto,2016,cocaine,90.75
+4170,Stockholm (2),2016,cocaine,144.14
+4171,Piestany,2016,cocaine,20.03
+4172,Innsbruck,2016,methamphetamine,2.01
+4174,Antwerp Zuid,2016,methamphetamine,9.25
+4175,Brussels,2016,methamphetamine,3.84
+4177,Oostende,2016,methamphetamine,0.0
+4178,Basel,2016,methamphetamine,18.97
+4179,Berne,2016,methamphetamine,8.51
+4180,Geneva,2016,methamphetamine,6.86
+4181,Lugano,2016,methamphetamine,0.37
+4182,Zurich,2016,methamphetamine,25.28
+4185,Dortmund,2016,methamphetamine,3.73
+4186,Dresden,2016,methamphetamine,136.69
+4188,Munich G,2016,methamphetamine,24.8
+4189,Barcelona,2016,methamphetamine,24.05
+4190,Castellon,2016,methamphetamine,0.0
+4191,Molina de Segura,2016,methamphetamine,0.0
+4192,Santiago,2016,methamphetamine,0.0
+4195,Helsinki,2016,methamphetamine,83.4
+4196,Joensuu,2016,methamphetamine,2.13
+4199,Kuopio,2016,methamphetamine,32.77
+4200,Lahti,2016,methamphetamine,3.76
+4201,Lappeenranta,2016,methamphetamine,2.79
+4202,Oulu,2016,methamphetamine,12.04
+4203,Rovaniemi,2016,methamphetamine,9.69
+4205,Tampere,2016,methamphetamine,4.07
+4206,Turku,2016,methamphetamine,26.98
+4207,Vaasa,2016,methamphetamine,2.18
+4208,Bordeaux I,2016,methamphetamine,0.0
+4209,Paris Seine Centre,2016,methamphetamine,0.0
+4210,Athens,2016,methamphetamine,2.97
+4211,Zagreb,2016,methamphetamine,0.0
+4212,Milan,2016,methamphetamine,13.77
+4213,Eindhoven,2016,methamphetamine,2.31
+4214,Utrecht,2016,methamphetamine,0.0
+4216,Lisbon,2016,methamphetamine,0.0
+4217,Porto,2016,methamphetamine,0.51
+4218,Stockholm (2),2016,methamphetamine,24.47
+4219,Piestany,2016,methamphetamine,310.21
+4220,Klosterneuburg,2015,MDMA,13.88
+4222,Antwerp Zuid,2015,MDMA,71.98
+4223,Brussels,2015,MDMA,21.95
+4226,Ninove,2015,MDMA,10.44
+4227,Oostende,2015,MDMA,9.18
+4228,Basel,2015,MDMA,9.55
+4229,Berne,2015,MDMA,12.5
+4230,Geneva,2015,MDMA,23.93
+4231,Lausanne,2015,MDMA,42.88
+4232,Lugano,2015,MDMA,7.74
+4233,Zurich,2015,MDMA,40.62
+4237,Dortmund,2015,MDMA,16.58
+4238,Dresden,2015,MDMA,5.09
+4240,Munich G,2015,MDMA,7.24
+4241,Copenhagen,2015,MDMA,53.08
+4242,Barcelona,2015,MDMA,33.82
+4243,Castellon,2015,MDMA,3.48
+4244,Molina de Segura,2015,MDMA,4.22
+4245,Santiago,2015,MDMA,14.42
+4248,Helsinki,2015,MDMA,38.42
+4249,Tampere,2015,MDMA,28.16
+4250,Turku,2015,MDMA,18.72
+4251,Paris Seine Centre,2015,MDMA,20.6
+4252,Athens,2015,MDMA,3.43
+4253,Mytilene,2015,MDMA,0.81
+4254,Zagreb,2015,MDMA,27.28
+4255,Milan,2015,MDMA,6.7
+4256,Amsterdam,2015,MDMA,166.16
+4257,Eindhoven,2015,MDMA,131.05
+4258,Utrecht,2015,MDMA,62.01
+4260,Lisbon,2015,MDMA,22.93
+4261,Porto,2015,MDMA,10.27
+4262,Piestany,2015,MDMA,0.0
+4263,Klosterneuburg,2015,amphetamine,0.0
+4265,Antwerp Zuid,2015,amphetamine,250.36
+4266,Brussels,2015,amphetamine,58.28
+4269,Ninove,2015,amphetamine,119.04
+4270,Oostende,2015,amphetamine,176.58
+4271,Basel,2015,amphetamine,39.5
+4272,Berne,2015,amphetamine,26.15
+4273,Geneva,2015,amphetamine,5.98
+4274,Lausanne,2015,amphetamine,10.6
+4275,Lugano,2015,amphetamine,0.0
+4276,Zurich,2015,amphetamine,23.92
+4280,Dortmund,2015,amphetamine,163.4
+4281,Dresden,2015,amphetamine,17.36
+4283,Munich G,2015,amphetamine,0.0
+4284,Copenhagen,2015,amphetamine,14.68
+4285,Barcelona,2015,amphetamine,30.25
+4286,Castellon,2015,amphetamine,0.0
+4287,Molina de Segura,2015,amphetamine,0.0
+4288,Santiago,2015,amphetamine,0.0
+4291,Helsinki,2015,amphetamine,117.1
+4292,Tampere,2015,amphetamine,53.22
+4293,Turku,2015,amphetamine,84.47
+4294,Paris Seine Centre,2015,amphetamine,0.0
+4295,Athens,2015,amphetamine,10.43
+4296,Mytilene,2015,amphetamine,0.0
+4297,Zagreb,2015,amphetamine,76.73
+4298,Milan,2015,amphetamine,2.72
+4299,Malta,2015,amphetamine,3.72
+4300,Amsterdam,2015,amphetamine,59.06
+4301,Utrecht,2015,amphetamine,36.43
+4303,Lisbon,2015,amphetamine,3.23
+4304,Porto,2015,amphetamine,0.0
+4305,Piestany,2015,amphetamine,23.34
+4306,Klosterneuburg,2015,cocaine,83.39
+4308,Antwerp Zuid,2015,cocaine,621.12
+4309,Brussels,2015,cocaine,472.36
+4312,Ninove,2015,cocaine,98.52
+4313,Oostende,2015,cocaine,80.71
+4314,Basel,2015,cocaine,42.51
+4315,Berne,2015,cocaine,228.93
+4316,Geneva,2015,cocaine,442.68
+4317,Lausanne,2015,cocaine,313.92
+4318,Lugano,2015,cocaine,228.49
+4319,Zurich,2015,cocaine,529.32
+4323,Dortmund,2015,cocaine,275.46
+4324,Dresden,2015,cocaine,7.84
+4326,Munich G,2015,cocaine,26.8
+4327,Copenhagen,2015,cocaine,337.15
+4328,Barcelona,2015,cocaine,443.56
+4329,Castellon,2015,cocaine,126.64
+4330,Molina de Segura,2015,cocaine,232.78
+4331,Santiago,2015,cocaine,135.1
+4334,Helsinki,2015,cocaine,9.97
+4335,Tampere,2015,cocaine,5.06
+4336,Turku,2015,cocaine,0.85
+4337,Paris Seine Centre,2015,cocaine,161.56
+4338,Athens,2015,cocaine,63.03
+4339,Mytilene,2015,cocaine,2.65
+4340,Thessaloniki,2015,cocaine,9.67
+4341,Zagreb,2015,cocaine,100.47
+4342,Milan,2015,cocaine,206.12
+4343,Malta,2015,cocaine,68.45
+4344,Amsterdam,2015,cocaine,641.72
+4345,Eindhoven,2015,cocaine,323.04
+4346,Utrecht,2015,cocaine,148.1
+4348,Lisbon,2015,cocaine,264.33
+4349,Porto,2015,cocaine,92.42
+4350,Piestany,2015,cocaine,6.15
+4351,Klosterneuburg,2015,methamphetamine,0.0
+4353,Antwerp Zuid,2015,methamphetamine,8.81
+4354,Brussels,2015,methamphetamine,3.67
+4357,Ninove,2015,methamphetamine,1.01
+4358,Oostende,2015,methamphetamine,1.1
+4359,Basel,2015,methamphetamine,60.67
+4360,Berne,2015,methamphetamine,12.51
+4361,Geneva,2015,methamphetamine,6.29
+4362,Lausanne,2015,methamphetamine,2.32
+4363,Lugano,2015,methamphetamine,0.0
+4364,Zurich,2015,methamphetamine,23.21
+4368,Dortmund,2015,methamphetamine,0.0
+4369,Dresden,2015,methamphetamine,150.0
+4371,Munich G,2015,methamphetamine,7.18
+4372,Copenhagen,2015,methamphetamine,11.66
+4373,Barcelona,2015,methamphetamine,33.38
+4374,Castellon,2015,methamphetamine,0.0
+4375,Molina de Segura,2015,methamphetamine,0.0
+4376,Santiago,2015,methamphetamine,0.0
+4379,Helsinki,2015,methamphetamine,5.03
+4380,Tampere,2015,methamphetamine,3.52
+4381,Turku,2015,methamphetamine,11.53
+4382,Paris Seine Centre,2015,methamphetamine,0.0
+4383,Athens,2015,methamphetamine,4.4
+4384,Mytilene,2015,methamphetamine,0.0
+4385,Thessaloniki,2015,methamphetamine,0.0
+4386,Zagreb,2015,methamphetamine,0.0
+4387,Milan,2015,methamphetamine,10.05
+4388,Malta,2015,methamphetamine,0.19
+4389,Amsterdam,2015,methamphetamine,6.96
+4390,Utrecht,2015,methamphetamine,0.0
+4392,Lisbon,2015,methamphetamine,0.0
+4393,Porto,2015,methamphetamine,0.41
+4394,Piestany,2015,methamphetamine,131.86
+4396,Antwerp Zuid,2014,MDMA,58.82
+4398,Ninove,2014,MDMA,15.82
+4399,Basel,2014,MDMA,23.36
+4400,Berne,2014,MDMA,18.83
+4401,Geneva,2014,MDMA,21.27
+4402,Lausanne,2014,MDMA,20.46
+4403,Lugano,2014,MDMA,3.68
+4404,Zurich,2014,MDMA,55.42
+4406,Dortmund,2014,MDMA,11.25
+4407,Dresden,2014,MDMA,4.75
+4409,Munich G,2014,MDMA,18.06
+4410,Copenhagen,2014,MDMA,28.21
+4411,Barcelona,2014,MDMA,30.35
+4412,Castellon,2014,MDMA,4.12
+4413,Santiago,2014,MDMA,11.19
+4416,Helsinki,2014,MDMA,18.02
+4417,Joensuu,2014,MDMA,1.61
+4420,Kuopio,2014,MDMA,7.86
+4421,Lahti,2014,MDMA,24.26
+4422,Lappeenranta,2014,MDMA,4.6
+4423,Oulu,2014,MDMA,40.66
+4424,Rovaniemi,2014,MDMA,12.34
+4426,Tampere,2014,MDMA,9.66
+4427,Turku,2014,MDMA,10.5
+4428,Vaasa,2014,MDMA,8.75
+4429,Paris Seine Centre,2014,MDMA,19.06
+4430,Athens,2014,MDMA,4.4
+4431,Zagreb,2014,MDMA,11.68
+4432,Milan,2014,MDMA,3.96
+4433,Amsterdam,2014,MDMA,150.51
+4434,Utrecht,2014,MDMA,85.97
+4437,Antwerp Zuid,2014,amphetamine,212.95
+4439,Ninove,2014,amphetamine,129.4
+4440,Basel,2014,amphetamine,16.56
+4441,Berne,2014,amphetamine,18.12
+4442,Geneva,2014,amphetamine,0.0
+4443,Lausanne,2014,amphetamine,7.26
+4444,Lugano,2014,amphetamine,0.0
+4445,Zurich,2014,amphetamine,25.65
+4447,Dortmund,2014,amphetamine,138.29
+4448,Dresden,2014,amphetamine,22.01
+4450,Munich G,2014,amphetamine,22.19
+4451,Barcelona,2014,amphetamine,29.79
+4452,Castellon,2014,amphetamine,0.0
+4453,Santiago,2014,amphetamine,0.0
+4456,Helsinki,2014,amphetamine,68.53
+4457,Joensuu,2014,amphetamine,21.02
+4460,Kuopio,2014,amphetamine,43.27
+4461,Lahti,2014,amphetamine,139.62
+4462,Lappeenranta,2014,amphetamine,22.88
+4463,Oulu,2014,amphetamine,24.86
+4464,Rovaniemi,2014,amphetamine,46.39
+4466,Tampere,2014,amphetamine,41.87
+4467,Turku,2014,amphetamine,62.39
+4468,Vaasa,2014,amphetamine,42.6
+4469,Paris Seine Centre,2014,amphetamine,0.0
+4470,Athens,2014,amphetamine,16.84
+4471,Zagreb,2014,amphetamine,15.65
+4472,Milan,2014,amphetamine,0.0
+4473,Amsterdam,2014,amphetamine,89.94
+4474,Eindhoven,2014,amphetamine,203.73
+4475,Utrecht,2014,amphetamine,111.06
+4478,Antwerp Zuid,2014,cocaine,632.69
+4480,Ninove,2014,cocaine,114.17
+4481,Basel,2014,cocaine,453.47
+4482,Berne,2014,cocaine,365.08
+4483,Geneva,2014,cocaine,447.63
+4484,Lausanne,2014,cocaine,311.89
+4485,Lugano,2014,cocaine,240.6
+4486,Zurich,2014,cocaine,598.27
+4488,Dortmund,2014,cocaine,243.26
+4489,Dresden,2014,cocaine,8.39
+4491,Munich G,2014,cocaine,79.46
+4492,Copenhagen,2014,cocaine,341.8
+4493,Barcelona,2014,cocaine,461.1
+4494,Castellon,2014,cocaine,206.28
+4495,Santiago,2014,cocaine,165.17
+4498,Helsinki,2014,cocaine,9.4
+4499,Joensuu,2014,cocaine,0.35
+4502,Kuopio,2014,cocaine,4.3
+4503,Lahti,2014,cocaine,11.03
+4504,Lappeenranta,2014,cocaine,1.74
+4505,Oulu,2014,cocaine,0.28
+4506,Rovaniemi,2014,cocaine,0.39
+4508,Tampere,2014,cocaine,1.0
+4509,Turku,2014,cocaine,1.49
+4510,Vaasa,2014,cocaine,0.85
+4511,Paris Seine Centre,2014,cocaine,233.96
+4512,Athens,2014,cocaine,80.06
+4513,Zagreb,2014,cocaine,77.43
+4514,Milan,2014,cocaine,208.05
+4515,Amsterdam,2014,cocaine,716.38
+4516,Eindhoven,2014,cocaine,380.83
+4517,Utrecht,2014,cocaine,220.2
+4520,Antwerp Zuid,2014,methamphetamine,23.11
+4522,Ninove,2014,methamphetamine,0.49
+4523,Basel,2014,methamphetamine,14.13
+4524,Berne,2014,methamphetamine,10.23
+4525,Geneva,2014,methamphetamine,0.0
+4526,Lausanne,2014,methamphetamine,3.81
+4527,Lugano,2014,methamphetamine,0.0
+4528,Zurich,2014,methamphetamine,21.79
+4530,Dortmund,2014,methamphetamine,0.0
+4531,Dresden,2014,methamphetamine,133.02
+4533,Munich G,2014,methamphetamine,0.0
+4534,Copenhagen,2014,methamphetamine,0.0
+4535,Barcelona,2014,methamphetamine,22.15
+4536,Castellon,2014,methamphetamine,0.0
+4537,Santiago,2014,methamphetamine,0.0
+4540,Helsinki,2014,methamphetamine,3.7
+4541,Joensuu,2014,methamphetamine,1.59
+4544,Kuopio,2014,methamphetamine,6.15
+4545,Lahti,2014,methamphetamine,12.78
+4546,Lappeenranta,2014,methamphetamine,0.93
+4547,Oulu,2014,methamphetamine,1.27
+4548,Rovaniemi,2014,methamphetamine,2.24
+4550,Tampere,2014,methamphetamine,1.52
+4551,Turku,2014,methamphetamine,3.66
+4552,Vaasa,2014,methamphetamine,3.79
+4553,Paris Seine Centre,2014,methamphetamine,0.0
+4554,Athens,2014,methamphetamine,5.3
+4555,Zagreb,2014,methamphetamine,0.77
+4556,Milan,2014,methamphetamine,5.37
+4557,Amsterdam,2014,methamphetamine,2.96
+4560,Antwerp Zuid,2013,MDMA,72.59
+4561,Brussels,2013,MDMA,15.27
+4564,Ninove,2013,MDMA,10.96
+4565,Basel,2013,MDMA,23.09
+4566,Berne,2013,MDMA,27.69
+4567,Geneva,2013,MDMA,18.78
+4568,Zurich,2013,MDMA,42.87
+4571,Prague (2),2013,MDMA,21.9
+4572,Dortmund,2013,MDMA,13.75
+4573,Dresden,2013,MDMA,0.0
+4575,Copenhagen,2013,MDMA,19.47
+4576,Barcelona,2013,MDMA,31.41
+4577,Castellon,2013,MDMA,6.43
+4579,Helsinki,2013,MDMA,27.61
+4580,Turku,2013,MDMA,5.27
+4581,Paris Seine Centre,2013,MDMA,26.06
+4582,Athens,2013,MDMA,2.46
+4583,Zagreb,2013,MDMA,9.45
+4584,Milan,2013,MDMA,4.96
+4585,Amsterdam,2013,MDMA,89.25
+4586,Utrecht,2013,MDMA,83.11
+4587,Lisbon,2013,MDMA,4.85
+4588,Cluj Napoca,2013,MDMA,0.0
+4589,Belgrade,2013,MDMA,14.81
+4590,Novi Sad,2013,MDMA,7.09
+4591,Gothenburg,2013,MDMA,5.87
+4592,Umea,2013,MDMA,4.49
+4593,Piestany,2013,MDMA,0.0
+4595,Antwerp Zuid,2013,amphetamine,185.11
+4596,Brussels,2013,amphetamine,24.8
+4599,Ninove,2013,amphetamine,111.94
+4600,Basel,2013,amphetamine,33.89
+4601,Berne,2013,amphetamine,19.06
+4602,Geneva,2013,amphetamine,0.0
+4603,Zurich,2013,amphetamine,42.65
+4606,Prague (2),2013,amphetamine,36.24
+4607,Dortmund,2013,amphetamine,92.22
+4608,Dresden,2013,amphetamine,0.0
+4610,Copenhagen,2013,amphetamine,30.64
+4611,Barcelona,2013,amphetamine,21.11
+4612,Castellon,2013,amphetamine,8.6
+4613,Santiago,2013,amphetamine,0.0
+4615,Helsinki,2013,amphetamine,94.51
+4616,Turku,2013,amphetamine,63.99
+4617,Paris Seine Centre,2013,amphetamine,0.0
+4618,Athens,2013,amphetamine,16.05
+4619,Zagreb,2013,amphetamine,10.0
+4620,Amsterdam,2013,amphetamine,70.81
+4621,Utrecht,2013,amphetamine,46.52
+4622,Lisbon,2013,amphetamine,0.0
+4623,Cluj Napoca,2013,amphetamine,0.0
+4624,Belgrade,2013,amphetamine,16.7
+4625,Novi Sad,2013,amphetamine,25.67
+4626,Gothenburg,2013,amphetamine,215.33
+4627,Umea,2013,amphetamine,29.99
+4628,Piestany,2013,amphetamine,13.99
+4630,Antwerp Zuid,2013,cannabis,129.62
+4631,Brussels,2013,cannabis,89.47
+4634,Ninove,2013,cannabis,39.95
+4636,Prague (2),2013,cannabis,79.63
+4637,Dortmund,2013,cannabis,84.53
+4638,Dresden,2013,cannabis,29.93
+4640,Barcelona,2013,cannabis,126.09
+4641,Castellon,2013,cannabis,55.74
+4642,Santiago,2013,cannabis,56.72
+4644,Paris Seine Centre,2013,cannabis,151.03
+4645,Athens,2013,cannabis,103.56
+4646,Zagreb,2013,cannabis,63.01
+4647,Milan,2013,cannabis,24.91
+4648,Cluj Napoca,2013,cannabis,0.0
+4649,Belgrade,2013,cannabis,16.92
+4650,Novi Sad,2013,cannabis,185.88
+4651,Gothenburg,2013,cannabis,0.0
+4652,Umea,2013,cannabis,0.0
+4653,Piestany,2013,cannabis,20.92
+4655,Antwerp Zuid,2013,cocaine,836.79
+4656,Brussels,2013,cocaine,223.81
+4659,Ninove,2013,cocaine,106.2
+4660,Basel,2013,cocaine,436.64
+4661,Berne,2013,cocaine,264.34
+4662,Geneva,2013,cocaine,373.45
+4663,Zurich,2013,cocaine,678.79
+4666,Prague (2),2013,cocaine,51.45
+4667,Dortmund,2013,cocaine,324.14
+4668,Dresden,2013,cocaine,6.0
+4670,Copenhagen,2013,cocaine,218.55
+4671,Barcelona,2013,cocaine,537.98
+4672,Castellon,2013,cocaine,174.51
+4673,Santiago,2013,cocaine,130.21
+4675,Paris Seine Centre,2013,cocaine,242.66
+4676,Athens,2013,cocaine,59.21
+4677,Zagreb,2013,cocaine,80.03
+4678,Milan,2013,cocaine,233.17
+4679,Amsterdam,2013,cocaine,393.0
+4680,Eindhoven,2013,cocaine,426.62
+4681,Utrecht,2013,cocaine,199.16
+4682,Lisbon,2013,cocaine,106.82
+4683,Cluj Napoca,2013,cocaine,0.0
+4684,Belgrade,2013,cocaine,40.69
+4685,Novi Sad,2013,cocaine,15.78
+4686,Gothenburg,2013,cocaine,30.58
+4687,Umea,2013,cocaine,5.07
+4688,Piestany,2013,cocaine,3.23
+4690,Antwerp Zuid,2013,methamphetamine,5.76
+4691,Brussels,2013,methamphetamine,1.71
+4694,Ninove,2013,methamphetamine,0.0
+4695,Basel,2013,methamphetamine,12.94
+4696,Berne,2013,methamphetamine,16.01
+4697,Geneva,2013,methamphetamine,0.0
+4698,Zurich,2013,methamphetamine,16.71
+4701,Prague (2),2013,methamphetamine,326.6
+4702,Dortmund,2013,methamphetamine,0.0
+4703,Dresden,2013,methamphetamine,136.61
+4705,Copenhagen,2013,methamphetamine,9.78
+4706,Barcelona,2013,methamphetamine,26.51
+4707,Castellon,2013,methamphetamine,0.0
+4708,Santiago,2013,methamphetamine,0.0
+4710,Paris Seine Centre,2013,methamphetamine,4.0
+4711,Athens,2013,methamphetamine,4.76
+4712,Milan,2013,methamphetamine,5.93
+4713,Amsterdam,2013,methamphetamine,5.24
+4714,Eindhoven,2013,methamphetamine,0.0
+4715,Utrecht,2013,methamphetamine,0.0
+4716,Lisbon,2013,methamphetamine,0.0
+4717,Cluj Napoca,2013,methamphetamine,0.0
+4718,Belgrade,2013,methamphetamine,0.0
+4719,Novi Sad,2013,methamphetamine,0.0
+4720,Gothenburg,2013,methamphetamine,0.0
+4721,Umea,2013,methamphetamine,0.0
+4722,Piestany,2013,methamphetamine,123.8
+4724,Antwerp Zuid,2012,MDMA,65.84
+4725,Brussels,2012,MDMA,12.98
+4726,Basel,2012,MDMA,14.61
+4727,Berne,2012,MDMA,19.22
+4728,Geneva,2012,MDMA,10.15
+4729,Zurich,2012,MDMA,38.75
+4731,Prague (2),2012,MDMA,9.54
+4732,Barcelona,2012,MDMA,27.62
+4733,Castellon,2012,MDMA,0.0
+4734,Santiago,2012,MDMA,5.05
+4735,Helsinki,2012,MDMA,14.57
+4736,Turku,2012,MDMA,0.0
+4737,Zagreb,2012,MDMA,7.65
+4738,Milan,2012,MDMA,8.74
+4739,Amsterdam,2012,MDMA,99.84
+4740,Utrecht,2012,MDMA,161.86
+4741,Gothenburg,2012,MDMA,0.0
+4742,Umea,2012,MDMA,0.0
+4744,Antwerp Zuid,2012,amphetamine,159.47
+4745,Brussels,2012,amphetamine,38.85
+4746,Basel,2012,amphetamine,0.0
+4747,Berne,2012,amphetamine,33.05
+4748,Geneva,2012,amphetamine,38.96
+4749,Zurich,2012,amphetamine,0.0
+4751,Prague (2),2012,amphetamine,32.41
+4752,Barcelona,2012,amphetamine,13.37
+4753,Castellon,2012,amphetamine,0.0
+4754,Santiago,2012,amphetamine,0.0
+4755,Helsinki,2012,amphetamine,43.73
+4756,Turku,2012,amphetamine,43.61
+4757,Paris Seine Centre,2012,amphetamine,0.0
+4758,Zagreb,2012,amphetamine,12.13
+4759,Milan,2012,amphetamine,0.0
+4760,Amsterdam,2012,amphetamine,27.59
+4761,Eindhoven,2012,amphetamine,416.75
+4762,Utrecht,2012,amphetamine,46.67
+4763,Gothenburg,2012,amphetamine,87.14
+4764,Umea,2012,amphetamine,0.0
+4766,Antwerp Zuid,2012,cannabis,124.7
+4767,Brussels,2012,cannabis,73.11
+4769,Prague (2),2012,cannabis,61.7
+4770,Barcelona,2012,cannabis,78.52
+4771,Castellon,2012,cannabis,117.35
+4772,Santiago,2012,cannabis,116.95
+4773,Paris Seine Centre,2012,cannabis,117.46
+4774,Zagreb,2012,cannabis,44.71
+4775,Milan,2012,cannabis,24.25
+4776,Amsterdam,2012,cannabis,178.95
+4777,Eindhoven,2012,cannabis,84.42
+4778,Utrecht,2012,cannabis,133.29
+4779,Gothenburg,2012,cannabis,0.0
+4780,Umea,2012,cannabis,0.0
+4782,Antwerp Zuid,2012,cocaine,742.05
+4783,Brussels,2012,cocaine,187.19
+4784,Basel,2012,cocaine,281.22
+4785,Berne,2012,cocaine,265.5
+4786,Geneva,2012,cocaine,341.15
+4787,Zurich,2012,cocaine,436.86
+4789,Prague (2),2012,cocaine,48.34
+4790,Barcelona,2012,cocaine,400.59
+4791,Castellon,2012,cocaine,262.96
+4792,Santiago,2012,cocaine,239.97
+4793,Helsinki,2012,cocaine,9.27
+4794,Turku,2012,cocaine,0.0
+4795,Paris Seine Centre,2012,cocaine,215.42
+4796,Zagreb,2012,cocaine,69.8
+4797,Milan,2012,cocaine,241.75
+4798,Amsterdam,2012,cocaine,650.49
+4799,Eindhoven,2012,cocaine,349.83
+4800,Utrecht,2012,cocaine,344.77
+4801,Gothenburg,2012,cocaine,25.3
+4802,Umea,2012,cocaine,0.0
+4804,Antwerp Zuid,2012,methamphetamine,6.33
+4805,Brussels,2012,methamphetamine,2.09
+4806,Basel,2012,methamphetamine,0.0
+4807,Berne,2012,methamphetamine,19.55
+4808,Geneva,2012,methamphetamine,0.0
+4809,Zurich,2012,methamphetamine,0.0
+4811,Prague (2),2012,methamphetamine,186.72
+4812,Barcelona,2012,methamphetamine,26.55
+4813,Castellon,2012,methamphetamine,0.0
+4814,Santiago,2012,methamphetamine,0.0
+4815,Paris Seine Centre,2012,methamphetamine,0.0
+4816,Zagreb,2012,methamphetamine,0.0
+4817,Milan,2012,methamphetamine,10.11
+4818,Amsterdam,2012,methamphetamine,6.41
+4819,Eindhoven,2012,methamphetamine,0.0
+4820,Utrecht,2012,methamphetamine,1.4
+4821,Gothenburg,2012,methamphetamine,50.04
+4822,Umea,2012,methamphetamine,0.94
+4823,Antwerp Zuid,2011,MDMA,52.14
+4824,Brussels,2011,MDMA,7.45
+4826,Barcelona,2011,MDMA,18.73
+4827,Castellon,2011,MDMA,0.0
+4828,Santiago,2011,MDMA,5.99
+4829,Paris Seine Centre,2011,MDMA,14.94
+4830,Zagreb,2011,MDMA,3.26
+4831,Milan,2011,MDMA,7.58
+4832,Amsterdam,2011,MDMA,77.24
+4833,Eindhoven,2011,MDMA,66.68
+4834,Umea,2011,MDMA,0.0
+4835,Antwerp Zuid,2011,amphetamine,277.18
+4836,Brussels,2011,amphetamine,35.39
+4838,Barcelona,2011,amphetamine,15.41
+4839,Castellon,2011,amphetamine,0.0
+4840,Santiago,2011,amphetamine,33.84
+4841,Paris Seine Centre,2011,amphetamine,0.0
+4842,Zagreb,2011,amphetamine,14.6
+4843,Milan,2011,amphetamine,11.05
+4844,Amsterdam,2011,amphetamine,123.57
+4845,Utrecht,2011,amphetamine,83.46
+4846,Umea,2011,amphetamine,13.82
+4847,Antwerp Zuid,2011,cannabis,0.0
+4849,Barcelona,2011,cannabis,108.63
+4850,Castellon,2011,cannabis,101.73
+4851,Santiago,2011,cannabis,78.79
+4853,Paris Seine Centre,2011,cannabis,123.59
+4854,Zagreb,2011,cannabis,30.59
+4855,Milan,2011,cannabis,27.61
+4856,Amsterdam,2011,cannabis,191.77
+4857,Eindhoven,2011,cannabis,102.77
+4858,Utrecht,2011,cannabis,109.17
+4859,Umea,2011,cannabis,0.0
+4860,Antwerp Zuid,2011,cocaine,721.18
+4861,Brussels,2011,cocaine,184.32
+4863,Barcelona,2011,cocaine,421.68
+4864,Castellon,2011,cocaine,371.57
+4865,Santiago,2011,cocaine,211.22
+4866,Paris Seine Centre,2011,cocaine,206.3
+4867,Zagreb,2011,cocaine,49.95
+4868,Milan,2011,cocaine,238.85
+4869,Amsterdam,2011,cocaine,644.1
+4870,Eindhoven,2011,cocaine,437.42
+4871,Utrecht,2011,cocaine,356.34
+4872,Umea,2011,cocaine,2.63
+4873,Antwerp Zuid,2011,methamphetamine,5.46
+4874,Brussels,2011,methamphetamine,0.0
+4876,Barcelona,2011,methamphetamine,8.43
+4877,Castellon,2011,methamphetamine,0.0
+4878,Santiago,2011,methamphetamine,0.0
+4879,Paris Seine Centre,2011,methamphetamine,0.0
+4880,Zagreb,2011,methamphetamine,0.0
+4881,Milan,2011,methamphetamine,48.68
+4882,Amsterdam,2011,methamphetamine,0.0
+4883,Eindhoven,2011,methamphetamine,0.0
+4884,Utrecht,2011,methamphetamine,0.0
+4885,Umea,2011,methamphetamine,2.93

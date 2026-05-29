@@ -96,6 +96,31 @@ def align_countries():
     ww_eu.to_csv(os.path.join("../data/processed/", "euda_wastewater_2011_2025_v2.csv"))
     gdp.to_csv(os.path.join("../data/processed/", "eurostat_gdp_by_region_2011_2024_v2.csv"))
 
+def write_finals(ww, gdp, mapping):
+    """Persist the dataframes with the planned schema
+    before the join so they can be uploaded to DBRepo."""
+    assert type(ww) == type(gdp) == type(mapping) == pd.DataFrame
+
+    mapping = mapping.rename(columns={"City":"city_name"})
+
+    gdp["gdp"] = gdp["GDP (M EUR)"].map(lambda x: 1000000 * x)
+    gdp["currency"] = "EUR"
+    gdp = gdp.rename(columns = {'GEO (Codes)' : "nuts_code",
+                                "Year" : "ref_year"
+                                })
+    gdp = gdp.loc[:, ["nuts_code", "ref_year", "gdp", "currency"]]
+
+    ww = ww.rename(columns = {"Metabolite" : "metabolite_name",
+                                "Year" : "ref_year",
+                                "Daily mean" : "daily_mean_concentration",
+                                "City" : "city_name"
+                                })
+    ww = ww.loc[:, ["city_name", "ref_year", "metabolite_name", "daily_mean_concentration"]]
+    
+    mapping.to_csv(os.path.join("../data/processed/", "city_nuts_mapping_3NF.csv"), encoding = "utf-8")
+    ww.to_csv(os.path.join("../data/processed/", "euda_wastewater_2011_2024_3NF.csv"), encoding = "utf-8")
+    gdp.to_csv(os.path.join("../data/processed/", "eurostat_gdp_by_region_2011_2024_3NF.csv"), encoding = "utf-8")
+
 def join_datasets():
     ww_path = os.path.join("../data/processed/", "euda_wastewater_2011_2025_v2.csv")
     gdp_path = os.path.join("../data/processed/", "eurostat_gdp_by_region_2011_2024_v2.csv")
@@ -105,6 +130,7 @@ def join_datasets():
     gdp = pd.read_csv(gdp_path, encoding = "utf-8")
     mapping = pd.read_csv(mapping_path, encoding = "utf-8")
     mapping.index = mapping["City"].str.lower()
+    mapping_df = mapping
     mapping = mapping["nuts_code"].to_dict()
 
     ww["nuts_code"] = ww["City"].str.lower().map(mapping)
@@ -119,14 +145,21 @@ def join_datasets():
 
     ww = ww.drop(["Unnamed: 0.1", "Unnamed: 0"], axis = 1)
     gdp = gdp.drop(["Unnamed: 0.1", "Unnamed: 0"], axis = 1)
+    gdp["GDP (M EUR)"] = gdp["GDP (M EUR)"].str.replace(",", "").astype(float)   
+
+    write_finals(ww, gdp, mapping_df)
+
+    # Creating reference data to compare with the joined view we create from DBRepo tables
     ww_with_gdp = ww.merge(gdp, how = "inner", left_on = ["nuts_code", "Year"], right_on = ["GEO (Codes)", "Year"])
     
-    ww_with_gdp["GDP (M EUR)"] = ww_with_gdp["GDP (M EUR)"].str.replace(",", "").astype(float)
     country_match = ww_with_gdp.apply(lambda x: x.loc["Country_x"] == x.loc["Country_y"], axis =1).value_counts()
-    assert country_match.get(True, 0) == ww_with_gdp.shape[0]
+    assert country_match.get(True, 0) == ww_with_gdp.shape[0] # this ensures that uploading the country to DBRepo is not needed
     
     joined_df_path = os.path.join("../data/processed/", "wastewater_with_gdp_2011_2024.csv")
     ww_with_gdp.to_csv(joined_df_path, encoding = "utf-8")
+
+    return ww_with_gdp
+    
 
 if __name__ == "__main__":
 
@@ -134,7 +167,4 @@ if __name__ == "__main__":
     gdp_df = parse_gdp_dataset(raw_data_path)
 
     align_countries()
-
-    join_datasets()
-
-    
+    join_datasets()   

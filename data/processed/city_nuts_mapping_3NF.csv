@@ -1,0 +1,171 @@
+City,city_name,nuts_code
+graz,Graz,AT221
+guntramsdorf,Guntramsdorf,AT127
+innsbruck,Innsbruck,AT332
+hallstatt,Hallstatt,AT312
+kapfenberg,Kapfenberg,AT224
+klagenfurt,Klagenfurt,AT211
+kufstein,Kufstein,AT335
+region millstättersee,Region Millstättersee,AT212
+ried im innkreis,Ried im Innkreis,AT311
+salzburg,Salzburg,AT323
+steyr,Steyr,AT314
+wasserverband hofsteig,Wasserverband Hofsteig,AT342
+wien,Wien,AT130
+wiener neustadt,Wiener Neustadt,AT122
+wildon,Wildon,AT225
+antwerp zuid,Antwerp Zuid,BE211
+arlon,Arlon,BE341
+bruges,Bruges,BE251
+brussels,Brussels,BE100
+charleroi-est,Charleroi-Est,BE322
+ghent,Ghent,BE234
+harelbeke,Harelbeke,BE254
+hasselt,Hasselt,BE221
+leuven,Leuven,BE242
+liège-oupeye,Liège-Oupeye,BE332
+marche-en-famenne,Marche-En-Famenne,BE343
+mechelen-n,Mechelen-N,BE212
+mons,Mons,BE323
+namur,Namur,BE352
+wavre,Wavre,BE310
+altenrhein,Altenrhein,CH054
+basel,Basel,CH033
+chur,Chur,CH056
+berne,Berne,CH021
+lugano,Lugano,CH052
+luzern,Luzern,CH023
+neuchatel,Neuchatel,CH022
+zurich,Zurich,CH040
+brno,Brno,CZ064
+ceske budejovice,Ceske Budejovice,CZ031
+karlovy vary,Karlovy Vary,CZ041
+plzen,Plzen,CZ032
+prague (2),Prague (2),CZ010
+usti nad labem,Usti nad Labem,CZ042
+berlin (iv),Berlin (IV),DE300
+chemnitz,Chemnitz,DE144
+dresden,Dresden,DE142
+erfurt,Erfurt,DEG01
+frankfurt (3),Frankfurt (3),DE712
+hamburg (2),Hamburg (2),DE600
+hannover (2),Hannover (2),DE929
+magdeburg,Magdeburg,DEE03
+mainz,Mainz,DEB35
+munich g,Munich G,DE212
+nuremberg,Nuremberg,DE254
+rostock,Rostock,DE803
+stuttgart,Stuttgart,DE111
+aalborg,Aalborg,DK014
+aarhus,Aarhus,DK042
+copenhagen,Copenhagen,DK011
+odense,Odense,DK031
+naestved,Naestved,DK022
+barcelona,Barcelona,ES511
+castellon,Castellon,ES522
+granada,Granada,ES614
+lleida,Lleida,ES513
+santiago,Santiago,ES114
+helsinki,Helsinki,FI1B1
+tampere,Tampere,FI197
+turku,Turku,FI1C1
+paris seine centre,Paris Seine Centre,FR101
+bristol,Bristol,UKK11
+middlesbrough,Middlesbrough,UKC12
+athens,Athens,EL303
+split,Split,HR035
+zagreb,Zagreb,HR050
+budapest,Budapest,HU110
+debrecen,Debrecen,HU321
+dublin,Dublin,IE061
+reykjavik,Reykjavik,IS001
+bozen,Bozen,ITH10
+milan,Milan,ITC4C
+kaunas,Kaunas,LT022
+klaipeda,Klaipeda,LT023
+vilnius,Vilnius,LT011
+luxembourg,Luxembourg,LU000
+riga,Riga,LV006
+amsterdam,Amsterdam,NL321
+eindhoven,Eindhoven,NL414
+utrecht,Utrecht,NL310
+rotterdam (2),Rotterdam (2),NL33C
+bergen (2),Bergen (2),NO051
+oslo (2),Oslo (2),NO011
+trondheim (2),Trondheim (2),NO060
+krakow p,Krakow P,PL213
+lisbon,Lisbon,PT170
+porto,Porto,PT11A
+stockholm (2),Stockholm (2),SE110
+ljubljana,Ljubljana,SI041
+kranj,Kranj,SI042
+maribor,Maribor,SI032
+nova gorica,Nova Gorica,SI043
+novo mesto,Novo mesto,SI037
+velenje,Velenje,SI034
+bratislava c,Bratislava C,SK010
+piestany,Piestany,SK021
+ankara,Ankara,TR510
+istanbul (ii-vii),Istanbul (II-VII),TR100
+geneva,Geneva,CH013
+nicosia (2),Nicosia (2),CY000
+gavle,Gavle,SE311
+gothenburg,Gothenburg,SE232
+vaxjo,Vaxjo,SE212
+valencia (2),Valencia (2),ES523
+purgstall,Purgstall,AT121
+ostrava,Ostrava,CZ080
+dortmund,Dortmund,DEA52
+saarbrucken (2),Saarbrucken (2),DEC01
+tarragona,Tarragona,ES514
+pori,Pori,FI196
+hameenlinna,Hameenlinna,FI1C2
+joensuu,Joensuu,FI1D3
+jyvaskyla,Jyvaskyla,FI193
+kajaani,Kajaani,FI1D8
+kemi,Kemi,FI1D6
+kokkola,Kokkola,FI1D5
+kouvola,Kouvola,FI1C4
+kuopio,Kuopio,FI1D2
+lahti,Lahti,FI1C3
+lappeenranta,Lappeenranta,FI1C5
+mariehamn,Mariehamn,FI200
+mikkeli,Mikkeli,FI1D1
+oulu,Oulu,FI1D9
+rovaniemi,Rovaniemi,FI1D7
+vaasa,Vaasa,FI195
+bologna,Bologna,ITH55
+rome,Rome,ITI43
+groningen,Groningen,NL113
+zwolle,Zwolle,NL213
+bucharest,Bucharest,RO321
+karlstad,Karlstad,SE313
+koper,Koper,SI044
+tallinn,Tallinn,EE001
+tartu,Tartu,EE008
+leeuwarden,Leeuwarden,NL122
+uppsala,Uppsala,SE121
+klosterneuburg,Klosterneuburg,AT126
+dulmen,Dulmen,DEA35
+narva,Narva,EE007
+adana,Adana,TR621
+st. gallen hofen,St. Gallen Hofen,CH055
+eleusis,Eleusis,EL305
+novi sad,Novi Sad,RS123
+oostende,Oostende,BE255
+madrid vdlv,Madrid VdlV,ES300
+bordeaux i,Bordeaux I,FRI12
+london,London,UKI
+paris south suburbs,Paris South Suburbs,FR10
+merchtem,Merchtem,BE241
+fort-de-france p,Fort-de-France P,FRY20
+molina de segura,Molina de Segura,ES620
+ninove,Ninove,BE236
+lausanne,Lausanne,CH011
+mytilene,Mytilene,EL411
+malta,Malta,MT00
+thessaloniki,Thessaloniki,EL522
+sarajevo,Sarajevo,BA
+belgrade,Belgrade,RS110
+umea,Umea,SE331
+cluj napoca,Cluj Napoca,RO114
