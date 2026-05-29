@@ -58,6 +58,7 @@ def create_city_map_table(database_id):
         print(response.text)
 
 def create_gdp_table(database_id):
+    """This function collects resources required for creating the GDP table."""
     cols_gdp = [
         CreateTableColumn(name="nuts_code", type="varchar", size=5, primary_key=True, null_allowed=False,
                         description="5-character NUTS-3 administrative code (e.g. AT221): https://ec.europa.eu/eurostat/web/nuts"),
@@ -98,8 +99,60 @@ def create_gdp_table(database_id):
     )
     print(response)
 
-if __name__ == "__main__":
-    DB_ID = '9fa181a9-de7c-4d44-b367-517a51f31351'
-    create_gdp_table(database_id = DB_ID)
-    # create_city_map_table(database_id = DB_ID)
+def create_wastewater_table(database_id):
+    """This function collects resources required for creating the wastewater metabolite concentration table."""
+    cols = [
+        CreateTableColumn(name="city_name", type="varchar", size = 100, primary_key=True, null_allowed=False,
+                        description="The name of the city from EUDA/SCODA data (e.g., Graz)"),
+        CreateTableColumn(name="ref_year", type="int", primary_key=True, null_allowed=False,
+                        description="4-digit year of the record: 2011 to 2024"),
+        CreateTableColumn(name="metabolite_name", type="varchar", size=100, primary_key=True, null_allowed=False,
+                        description="The specific substance whose concentration was estimated (e.g., Cocaine, MDMA)"),
+        CreateTableColumn(name="daily_mean_concentration", type="decimal", size=15, d=2, primary_key=False, null_allowed=True,
+                        description="(mg/1000person/day) Daily averages of metabolite concentration scaled by the population estimates. Values below the method limit of quantification are indicated as zero.")
+    ]
 
+    foreign_keys_waste = [
+        CreateForeignKey(
+            columns=["city_name"],           
+            referenced_table="city_map", 
+            referenced_columns=["city_name"] # Points to the Unique column
+        )
+    ]
+
+    cons_waste = CreateTableConstraints(
+        primary_key=["city_name", "ref_year", "metabolite_name"],
+        foreign_keys=foreign_keys_waste
+    )
+
+    df_wastewater_data = CreateTable(
+        name="wastewater_data",
+        description="Estimated concentrations of metabolites in municipal wastewater for various cities over the period of 2011-2024. Sourced from EUDA and SCORE",
+        columns=cols,
+        constraints=cons_waste,
+        is_public=True,
+        is_schema_public=True
+    )
+
+    # call wrapper with the object
+    response = client._wrapper(
+        method="post", 
+        url=f'/api/v1/database/{database_id}/table', 
+        payload=df_wastewater_data
+    )
+
+    print(f"Response Status: {response.status_code}")
+    if response.status_code == 201:
+        print("Success! Table created.")
+    else:
+        print(response.text)
+
+if __name__ == "__main__":
+    DB_ID = '9fa181a9-de7c-4d44-b367-517a51f31351'    
+
+    create_gdp_table(database_id = DB_ID)
+    create_city_map_table(database_id = DB_ID)
+    create_wastewater_table(database_id = DB_ID)
+
+    # db = client.get_tables(database_id = DB_ID)
+    # print(db)
