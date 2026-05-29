@@ -12,8 +12,8 @@
         "name": "currency",
         "datatype": "string",
         "concept_mapping": {
-            "property": "https://www.omg.org/spec/Commons/QuantitiesAndUnits/CurrencyUnit",
-            "description": "The currency unit adhering to ISO 4217 (EUR)"
+            "property": "https://www.omg.org/spec/Commons/QuantitiesAndUnits/hasUnit",
+            "description": "The currency unit adhering to ISO 4217 (EUR) that binds directly to and defines the adjacent GDP QuantityValue."
             }
         }
     ]
