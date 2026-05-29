@@ -103,7 +103,7 @@ def write_finals(ww, gdp, mapping):
 
     mapping = mapping.rename(columns={"City":"city_name"})
 
-    gdp["gdp"] = gdp["GDP (M EUR)"].map(lambda x: 1000000 * x)
+    gdp["gdp"] = gdp["GDP (M EUR)"].map(lambda x: round(1000000 * x))
     gdp["currency"] = "EUR"
     gdp = gdp.rename(columns = {'GEO (Codes)' : "nuts_code",
                                 "Year" : "ref_year"
