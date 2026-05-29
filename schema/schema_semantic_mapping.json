@@ -1,5 +1,6 @@
 {
   "@context": {
+    "sdmx-a": "http://purl.org/linked-data/sdmx/2009/attribute#",
     "sdmx-d": "http://purl.org/linked-data/sdmx/2009/dimension#",
     "sdmx-m": "http://purl.org/linked-data/sdmx/2009/measure#",
     "ncit": "http://purl.obolibrary.org/obo/NCIT_",
@@ -24,8 +25,13 @@
       "ontology": "Darwin Core"
     },
     {
-      "name": "gdp_per_cap",
+      "name": "gdp",
       "mappedTo": "sdmx-m:obsValue",
+      "ontology": "SDMX"
+    },
+    {
+      "name": "currency",
+      "mappedTo": "sdmx-a:currency",
       "ontology": "SDMX"
     },
     {
@@ -34,7 +40,7 @@
       "ontology": "ChEBI"
     },
     {
-      "name": "daily_mean",
+      "name": "daily_mean_concentration",
       "mappedTo": "allotrope:0002800",
       "ontology": "Allotrope Foundation Ontologies"
     }
