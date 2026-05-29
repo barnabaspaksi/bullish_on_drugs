@@ -57,8 +57,49 @@ def create_city_map_table(database_id):
     else:
         print(response.text)
 
+def create_gdp_table(database_id):
+    cols_gdp = [
+        CreateTableColumn(name="nuts_code", type="varchar", size=5, primary_key=True, null_allowed=False,
+                        description="5-character NUTS-3 administrative code (e.g. AT221): https://ec.europa.eu/eurostat/web/nuts"),
+        CreateTableColumn(name="ref_year", type="int", primary_key=True, null_allowed=False,
+                        description="4-digit year of the record: 2011 to 2024"),
+        CreateTableColumn(name="gdp", type="int", size = 30, primary_key=False, null_allowed=True,
+                        description="Gross Domestic Product by NUTS Code"),
+        CreateTableColumn(name="currency", type="varchar", size = 10, primary_key=False, null_allowed=True,
+                        description="Currency pertaining to the Gross Domestic Product (in gdp column)")
+    ]
+
+    foreign_keys_gdp = [
+        CreateForeignKey(
+            columns=["nuts_code"],           
+            referenced_table="city_map", 
+            referenced_columns=["nuts_code"] 
+        )
+    ]
+
+    cons_gdp = CreateTableConstraints(
+        primary_key=["nuts_code", "ref_year"],
+        foreign_keys=foreign_keys_gdp
+    )
+
+    df_gdp = CreateTable(
+        name="gdp_data",
+        description="This table stores the economic baseline for European regions (gross domestic product at current market prices by NUTS3 regions). Sourced from Eurostat.",
+        columns=cols_gdp,
+        constraints=cons_gdp,
+        is_public=True,
+        is_schema_public=True
+    )
+
+    response = client._wrapper(
+        method="post", 
+        url=f'/api/v1/database/{database_id}/table', 
+        payload=df_gdp
+    )
+    print(response)
+
 if __name__ == "__main__":
     DB_ID = '9fa181a9-de7c-4d44-b367-517a51f31351'
-
-    create_city_map_table(database_id = DB_ID)
+    create_gdp_table(database_id = DB_ID)
+    # create_city_map_table(database_id = DB_ID)
 
