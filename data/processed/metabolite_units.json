@@ -1,0 +1,12 @@
+{
+    "columns": [
+        {
+        "name": "daily_mean_concentration",  
+        "datatype": "decimal",
+        "concept_mapping": {
+            "uri": "https://www.omg.org/spec/Commons/QuantitiesAndUnits/DerivedUnit",
+            "description": "The average of daily average loads for all seven days of the week for a given year. Unit: mg/day/1000 inhabitants. Back-calculated from raw concentration (ng/L) multiplied by daily flow rate (L/day), adjusted by correction factor, and normalized by population per treatment plant."
+            }
+        }    
+    ]
+}
