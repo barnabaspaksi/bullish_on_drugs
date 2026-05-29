@@ -110,16 +110,19 @@ def write_finals(ww, gdp, mapping):
                                 })
     gdp = gdp.loc[:, ["nuts_code", "ref_year", "gdp", "currency"]]
 
+    gdp_filtered = gdp[gdp['nuts_code'].isin(mapping['nuts_code'])] # exclude rows which would not have a join partner due to foreign key constraint
+
     ww = ww.rename(columns = {"Metabolite" : "metabolite_name",
                                 "Year" : "ref_year",
                                 "Daily mean" : "daily_mean_concentration",
                                 "City" : "city_name"
                                 })
-    ww = ww.loc[:, ["city_name", "ref_year", "metabolite_name", "daily_mean_concentration"]]
-    
+    ww = ww.loc[:, ["city_name", "ref_year", "metabolite_name", "daily_mean_concentration"]] 
+    ww_filtered = ww[ww['city_name'].isin(mapping['city_name'])] # exclude rows which would not have a join partner due to foreign key constraint
+
     mapping.to_csv(os.path.join("../data/processed/", "city_nuts_mapping_3NF.csv"), encoding = "utf-8")
-    ww.to_csv(os.path.join("../data/processed/", "euda_wastewater_2011_2024_3NF.csv"), encoding = "utf-8")
-    gdp.to_csv(os.path.join("../data/processed/", "eurostat_gdp_by_region_2011_2024_3NF.csv"), encoding = "utf-8")
+    ww_filtered.to_csv(os.path.join("../data/processed/", "euda_wastewater_2011_2024_3NF.csv"), encoding = "utf-8")
+    gdp_filtered.to_csv(os.path.join("../data/processed/", "eurostat_gdp_by_region_2011_2024_3NF.csv"), encoding = "utf-8")
 
 def join_datasets():
     ww_path = os.path.join("../data/processed/", "euda_wastewater_2011_2025_v2.csv")
@@ -146,6 +149,7 @@ def join_datasets():
     ww = ww.drop(["Unnamed: 0.1", "Unnamed: 0"], axis = 1)
     gdp = gdp.drop(["Unnamed: 0.1", "Unnamed: 0"], axis = 1)
     gdp["GDP (M EUR)"] = gdp["GDP (M EUR)"].str.replace(",", "").astype(float)   
+
 
     write_finals(ww, gdp, mapping_df)
 
