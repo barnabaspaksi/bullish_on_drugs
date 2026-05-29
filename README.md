@@ -1,5 +1,19 @@
 # Predictive Modeling of Regional GDP per Capita based on Wastewater-Based Epidemiology
 
+## INFO FOR LAST DAY (PROGRESS):
+I ran everything again and finished my part (T2.5):
+step 0: derive_3NF creates the local files from the raw ones in the format which fits the schema. In particular, only rows which have a join partner may be uploaded.
+step 1: create_db_dbrepo.py is run to create a new db. The id must be added to dotenv: DB_ID=5cde660e-153a-4bff-8e41-69e87cda399d
+step 2: create_tables_dbrepo.ipynb is executed to initalize table schemas and basic type stuff (part of T2.1)
+step 3: upload_metadata_dbrepo.ipynb adds licensing info and some metadata (end of T2.1)
+step 4: semantic_mapping.ipynb can be run completely to add the concept_uri and unit_uri stuff to tables which are dedicated fields by default, not something we need to create as identifiers. (T2.2 and T2.3 are done together and complete)
+step 5: create_views_dbrepo.ipynb is Amy's part but renamed and also running on the DB_ID from dotenv. It has the mistake of aggregations in objects which do not have that parameter, so these views are incorrect afaik (T2.4). Although I added currency as a column to gdp, it is not needed for analysis, so I left the views and only changed column names where necessary, for example daily_mean is not daily_mean_concentration.
+step 6: upload_data_to_dbrepo.py is my solution for populating the tables with data. It works only when GDP is not an int, as those only allow numbers until 2 billion and some regions have higher GDPs. This is why I reran the entire pipeline documented here. (This concludes T2.5)
+
+NEXT STEPS: use views to query the data in DBRepo and reproduce the experiment. Code for that is in use-case-experiment.R by Helene. I mostly implemented preprocessing until line 95 but there could be some tiny deviations, so I think comparing the view results with what is there after the joins would be a good idea.
+WARNING: the notebooks sometimes load for a long time when we keep reloading the RestClient stuff. This can be solved by restarting Python completely.
+NECESSARY FIXES: Helene should regenerate the schema graph and adjust the SQL files (which are never used xd)
+
 ## File organisation
  The project uses the following file-naming convention:
  - If there is a specific naming requirement in the assignment, it takes precedence over the following guidelines.
