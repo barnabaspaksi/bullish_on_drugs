@@ -52,7 +52,7 @@ def create_gdp_table(database_id):
         CreateTableColumn(name="ref_year", type="int", primary_key=True, null_allowed=False,
                         #concept_uri= "http://rs.tdwg.org/dwc/terms/year",
                         description="4-digit year of the record: 2011 to 2024"),
-        CreateTableColumn(name="gdp", type="int", size = 30, primary_key=False, null_allowed=True,
+        CreateTableColumn(name="gdp", type="bigint", size = 30, primary_key=False, null_allowed=True,
                         #concept_uri= "http://purl.org/linked-data/sdmx/2009/measure#obsValue",
                         #unit_uri= "https://www.omg.org/spec/Commons/QuantitiesAndUnits/QuantityValue",
                         description="Gross Domestic Product by NUTS Code"),
