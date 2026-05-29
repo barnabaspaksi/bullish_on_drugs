@@ -27,17 +27,25 @@ def parse_gdp_dataset(raw_data_path):
 
     # Rename the 'Unnamed' flag columns dynamically to '<Year>_flag' 
     # (e.g., p for provisional, e for estimated, b for break in time series)
+    remove_flag_cols = []
     for i in range(2, len(col_names)):
         if col_names[i].startswith('Unnamed:'):
             col_names[i] = f"{col_names[i-1]}_flag"
+            remove_flag_cols.append(col_names[i])
     gdp_df.columns = col_names
+    gdp_df = gdp_df.drop(remove_flag_cols, axis = 1)
     gdp_df = gdp_df.iloc[1:].reset_index(drop=True)
     gdp_df = gdp_df.loc[:1343,:] # last rows are also metadata which must be manually removed...
-
+    df_long = gdp_df.melt(
+        id_vars=["GEO (Codes)", "GEO (Labels)"],  
+        var_name="Year",                                      
+        value_name="GDP (M EUR)"                                       
+    )
+    
     parsed_raw_gdp_df_filepath = os.path.join("../data/processed/", "eurostat_gdp_by_region_2011_2024.csv")
-    gdp_df.to_csv(parsed_raw_gdp_df_filepath, encoding = "utf-8")
+    df_long.to_csv(parsed_raw_gdp_df_filepath, encoding = "utf-8")
 
-    return gdp_df
+    return df_long
 
 def parse_wastewater_dataset(raw_data_path):
     """
@@ -89,6 +97,3 @@ if __name__ == "__main__":
     gdp_df = parse_gdp_dataset(raw_data_path)
 
     align_countries()
-    
-    
-
