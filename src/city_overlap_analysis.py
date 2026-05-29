@@ -11,5 +11,9 @@ num_cities_ww = ww["City"].unique().shape[0] # basis of our analysis
 
 ww_cities = set(ww["City"])
 gdp_cities =set(gdp["GEO (Labels)"])
-missing_cities = ww_cities.difference(gdp_cities)
-print(len(missing_cities))
+
+mapping_path = os.path.join("../data/processed/", "city_nuts_mapping_unique.csv")
+mapping = pd.read_csv(mapping_path, encoding = "utf-8")
+missing_cities = ww_cities.difference(gdp_cities).difference(set(mapping["City"]))
+
+# NOTE: Missing cities ignored. Find explanation in "../data/processed/README.md"
