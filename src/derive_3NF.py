@@ -96,9 +96,45 @@ def align_countries():
     ww_eu.to_csv(os.path.join("../data/processed/", "euda_wastewater_2011_2025_v2.csv"))
     gdp.to_csv(os.path.join("../data/processed/", "eurostat_gdp_by_region_2011_2024_v2.csv"))
 
+def join_datasets():
+    ww_path = os.path.join("../data/processed/", "euda_wastewater_2011_2025_v2.csv")
+    gdp_path = os.path.join("../data/processed/", "eurostat_gdp_by_region_2011_2024_v2.csv")
+    mapping_path = os.path.join("../data/processed/", "city_nuts_mapping_unique.csv")
+
+    ww = pd.read_csv(ww_path, encoding = "utf-8")
+    gdp = pd.read_csv(gdp_path, encoding = "utf-8")
+    mapping = pd.read_csv(mapping_path, encoding = "utf-8")
+    mapping.index = mapping["City"].str.lower()
+    mapping = mapping["nuts_code"].to_dict()
+
+    ww["nuts_code"] = ww["City"].str.lower().map(mapping)
+    ww = ww[~ww["nuts_code"].isna()]
+    ww["Year"] = ww["Year"].astype(int)
+    ww["nuts_code"] = ww["nuts_code"].astype(str).map(str.strip)
+    ww = ww[ww["Year"] != 2025]
+
+    gdp["Year"] = gdp["Year"].astype(int)
+    gdp["GEO (Codes)"] = gdp["GEO (Codes)"].astype(str).map(str.strip)
+    gdp = gdp[gdp["GDP (M EUR)"] != ":"]
+
+    ww = ww.drop(["Unnamed: 0.1", "Unnamed: 0"], axis = 1)
+    gdp = gdp.drop(["Unnamed: 0.1", "Unnamed: 0"], axis = 1)
+    ww_with_gdp = ww.merge(gdp, how = "inner", left_on = ["nuts_code", "Year"], right_on = ["GEO (Codes)", "Year"])
+    
+    ww_with_gdp["GDP (M EUR)"] = ww_with_gdp["GDP (M EUR)"].str.replace(",", "").astype(float)
+    country_match = ww_with_gdp.apply(lambda x: x.loc["Country_x"] == x.loc["Country_y"], axis =1).value_counts()
+    assert country_match.get(True, 0) == ww_with_gdp.shape[0]
+    
+    joined_df_path = os.path.join("../data/processed/", "wastewater_with_gdp_2011_2024.csv")
+    ww_with_gdp.to_csv(joined_df_path, encoding = "utf-8")
+
 if __name__ == "__main__":
 
     ww_df = parse_wastewater_dataset(raw_data_path)    
     gdp_df = parse_gdp_dataset(raw_data_path)
 
     align_countries()
+
+    join_datasets()
+
+    
