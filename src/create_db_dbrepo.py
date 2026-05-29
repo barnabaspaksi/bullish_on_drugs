@@ -47,3 +47,5 @@ if __name__ == "__main__":
     db_creation_resp = create_db_from_params(client=client,
                                             container_id=container_id,
                                             db_name="dast_g20_wastewater_epidemiology")
+    print(db_creation_resp.text)
+    
