@@ -13,17 +13,6 @@ password = os.getenv("DBREPO_PASS")
 username = os.getenv("DBREPO_USER")
 client = RestClient("https://test.dbrepo.tuwien.ac.at/", username=username, password=password)
 
-containers = client.get_containers()
-
-container_id = '6cfb3b8e-1792-4e46-871a-f3d103527203'
-# DB_ID = "cf27a11d-58e5-4693-856c-e8f3527e3394"
-# DB_ID = '9fa181a9-de7c-4d44-b367-517a51f31351'
-# dbs = client.get_databases()
-# print(dbs)
-
-# db = client.get_database(database_id = '9fa181a9-de7c-4d44-b367-517a51f31351')
-# print(db)
-
 def create_city_map_table(database_id):
     """This function collects resources required for creating the manually-compiled mapping table for cities."""
     cols = [
