@@ -4,7 +4,7 @@
         "name": "gdp",
         "datatype": "integer",
         "concept_mapping": {
-            "property": "http://ptb.de/si/hasNumericalValue",
+            "property": "https://www.omg.org/spec/Commons/QuantitiesAndUnits/QuantityValue",
             "description": "The numeric value of the Gross Domestic Product by NUTS Code."
             }
         },
@@ -12,7 +12,7 @@
         "name": "currency",
         "datatype": "string",
         "concept_mapping": {
-            "property": "http://ptb.de/si/hasUnit",
+            "property": "https://www.omg.org/spec/Commons/QuantitiesAndUnits/CurrencyUnit",
             "description": "The currency unit adhering to ISO 4217 (EUR)"
             }
         }
