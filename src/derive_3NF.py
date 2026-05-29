@@ -41,10 +41,14 @@ def parse_gdp_dataset(raw_data_path):
         var_name="Year",                                      
         value_name="GDP (M EUR)"                                       
     )
-    
+
+    # We exclude totals for EU, as we are interested in local analysis
+    df_badnuts = df_long[df_long["GEO (Codes)"].map(lambda x: len(x) > 5)].index    
+    df_long = df_long.drop(df_badnuts).shape 
+
     parsed_raw_gdp_df_filepath = os.path.join("../data/processed/", "eurostat_gdp_by_region_2011_2024.csv")
     df_long.to_csv(parsed_raw_gdp_df_filepath, encoding = "utf-8")
-
+    
     return df_long
 
 def parse_wastewater_dataset(raw_data_path):
