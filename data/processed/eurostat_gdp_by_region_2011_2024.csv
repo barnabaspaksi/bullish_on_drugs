@@ -1,5 +1,4 @@
 ,GEO (Codes),GEO (Labels),Year,GDP (M EUR)
-0,EU27_2020,European Union - 27 countries (from 2020),2011,11407286.7
 1,BE100,Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,2011,70768.13
 2,BE211,Arr. Antwerpen,2011,42658.52
 3,BE212,Arr. Mechelen,2011,11933.1
@@ -1343,7 +1342,6 @@
 1341,TRC32,Batman,2011,2073.23
 1342,TRC33,Şırnak,2011,1660.95
 1343,TRC34,Siirt,2011,1267.18
-1344,EU27_2020,European Union - 27 countries (from 2020),2012,11466415.0
 1345,BE100,Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,2012,73023.93
 1346,BE211,Arr. Antwerpen,2012,43673.84
 1347,BE212,Arr. Mechelen,2012,12185.55
@@ -2687,7 +2685,6 @@
 2685,TRC32,Batman,2012,2344.96
 2686,TRC33,Şırnak,2012,2013.78
 2687,TRC34,Siirt,2012,1418.93
-2688,EU27_2020,European Union - 27 countries (from 2020),2013,11594282.1
 2689,BE100,Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,2013,73315.82
 2690,BE211,Arr. Antwerpen,2013,44111.22
 2691,BE212,Arr. Mechelen,2013,12486.1
@@ -4031,7 +4028,6 @@
 4029,TRC32,Batman,2013,2392.77
 4030,TRC33,Şırnak,2013,2256.35
 4031,TRC34,Siirt,2013,1474.63
-4032,EU27_2020,European Union - 27 countries (from 2020),2014,11867202.4
 4033,BE100,Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,2014,75628.37
 4034,BE211,Arr. Antwerpen,2014,45233.29
 4035,BE212,Arr. Mechelen,2014,13094.81
@@ -5375,7 +5371,6 @@
 5373,TRC32,Batman,2014,2245.82
 5374,TRC33,Şırnak,2014,2307.11
 5375,TRC34,Siirt,2014,1440.44
-5376,EU27_2020,European Union - 27 countries (from 2020),2015,"12,308,193.2"
 5377,BE100,Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,2015,"78,053.56"
 5378,BE211,Arr. Antwerpen,2015,"47,038.86"
 5379,BE212,Arr. Mechelen,2015,"13,658.64"
@@ -6719,7 +6714,6 @@
 6717,TRC32,Batman,2015,"2,385.04"
 6718,TRC33,Şırnak,2015,"2,409"
 6719,TRC34,Siirt,2015,"1,444.62"
-6720,EU27_2020,European Union - 27 countries (from 2020),2016,"12,638,272.4"
 6721,BE100,Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,2016,"79,185.93"
 6722,BE211,Arr. Antwerpen,2016,"48,103.17"
 6723,BE212,Arr. Mechelen,2016,"14,272.18"
@@ -8063,7 +8057,6 @@
 8061,TRC32,Batman,2016,"2,524.93"
 8062,TRC33,Şırnak,2016,"2,201.13"
 8063,TRC34,Siirt,2016,"1,470.96"
-8064,EU27_2020,European Union - 27 countries (from 2020),2017,"13,169,370.9"
 8065,BE100,Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,2017,"81,785.97"
 8066,BE211,Arr. Antwerpen,2017,"49,784.49"
 8067,BE212,Arr. Mechelen,2017,"14,731.23"
@@ -9407,7 +9400,6 @@
 9405,TRC32,Batman,2017,"2,469.05"
 9406,TRC33,Şırnak,2017,"2,483.06"
 9407,TRC34,Siirt,2017,"1,424.97"
-9408,EU27_2020,European Union - 27 countries (from 2020),2018,"13,628,646.5"
 9409,BE100,Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,2018,"83,415.52"
 9410,BE211,Arr. Antwerpen,2018,"51,351.74"
 9411,BE212,Arr. Mechelen,2018,"15,543.17"
@@ -10751,7 +10743,6 @@
 10749,TRC32,Batman,2018,"2,145.79"
 10750,TRC33,Şırnak,2018,"2,151.39"
 10751,TRC34,Siirt,2018,"1,228.35"
-10752,EU27_2020,European Union - 27 countries (from 2020),2019,14122772.4
 10753,BE100,Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,2019,87369.66
 10754,BE211,Arr. Antwerpen,2019,52803.91
 10755,BE212,Arr. Mechelen,2019,16150.14
@@ -12095,7 +12086,6 @@
 12093,TRC32,Batman,2019,2327.33
 12094,TRC33,Şırnak,2019,2319.83
 12095,TRC34,Siirt,2019,1454.56
-12096,EU27_2020,European Union - 27 countries (from 2020),2020,13578815.3
 12097,BE100,Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,2020,83321.85
 12098,BE211,Arr. Antwerpen,2020,50545.14
 12099,BE212,Arr. Mechelen,2020,16017.69
@@ -13439,7 +13429,6 @@
 13437,TRC32,Batman,2020,2047.17
 13438,TRC33,Şırnak,2020,2296.54
 13439,TRC34,Siirt,2020,1418.01
-13440,EU27_2020,European Union - 27 countries (from 2020),2021,14792278.1
 13441,BE100,Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,2021,89494.83
 13442,BE211,Arr. Antwerpen,2021,55989.62
 13443,BE212,Arr. Mechelen,2021,17462.95
@@ -14783,7 +14772,6 @@
 14781,TRC32,Batman,2021,2211.91
 14782,TRC33,Şırnak,2021,2379.2
 14783,TRC34,Siirt,2021,1374.64
-14784,EU27_2020,European Union - 27 countries (from 2020),2022,"16,169,785.3"
 14785,BE100,Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,2022,"96,651.18"
 14786,BE211,Arr. Antwerpen,2022,"62,626.5"
 14787,BE212,Arr. Mechelen,2022,"19,239.05"
@@ -16127,7 +16115,6 @@
 16125,TRC32,Batman,2022,"2,961.52"
 16126,TRC33,Şırnak,2022,"2,875.4"
 16127,TRC34,Siirt,2022,"1,627.76"
-16128,EU27_2020,European Union - 27 countries (from 2020),2023,"17,257,484"
 16129,BE100,Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,2023,"103,568.87"
 16130,BE211,Arr. Antwerpen,2023,"66,805.11"
 16131,BE212,Arr. Mechelen,2023,"21,189.26"
@@ -17471,7 +17458,6 @@
 17469,TRC32,Batman,2023,"3,543.16"
 17470,TRC33,Şırnak,2023,"3,987.45"
 17471,TRC34,Siirt,2023,"2,065.1"
-17472,EU27_2020,European Union - 27 countries (from 2020),2024,"18,016,189.9"
 17473,BE100,Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,2024,"108,152.97"
 17474,BE211,Arr. Antwerpen,2024,"67,609.83"
 17475,BE212,Arr. Mechelen,2024,"21,006.16"

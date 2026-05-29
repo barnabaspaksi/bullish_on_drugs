@@ -44,7 +44,7 @@ def parse_gdp_dataset(raw_data_path):
 
     # We exclude totals for EU, as we are interested in local analysis
     df_badnuts = df_long[df_long["GEO (Codes)"].map(lambda x: len(x) > 5)].index    
-    df_long = df_long.drop(df_badnuts).shape 
+    df_long = df_long.drop(df_badnuts) 
 
     parsed_raw_gdp_df_filepath = os.path.join("../data/processed/", "eurostat_gdp_by_region_2011_2024.csv")
     df_long.to_csv(parsed_raw_gdp_df_filepath, encoding = "utf-8")
@@ -88,11 +88,12 @@ def align_countries():
     
     unused = {"CL", 'US', "KR", "CA", "NZ", 'AU', 'BR'}
     gdp_unavailable = {"IS", "BA", "UK", "GB"} # Europe but not EU -> no GDP data 
-    print(set(ww_countries_without_gdp).difference(set(fix_mismatches_cc.keys()).union(unused).union(gdp_unavailable)))        
+    assert len(set(ww_countries_without_gdp).difference(set(fix_mismatches_cc.keys()).union(unused).union(gdp_unavailable))) == 0        
     
     ww["Country"] = ww["Country"].map(improve_ww_country)
+    ww_eu = ww[ww["Country"].map(lambda x: x not in unused.union(gdp_unavailable)) == True]
 
-    ww.to_csv(os.path.join("../data/processed/", "euda_wastewater_2011_2025_v2.csv"))
+    ww_eu.to_csv(os.path.join("../data/processed/", "euda_wastewater_2011_2025_v2.csv"))
     gdp.to_csv(os.path.join("../data/processed/", "eurostat_gdp_by_region_2011_2024_v2.csv"))
 
 if __name__ == "__main__":
