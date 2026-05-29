@@ -4,7 +4,7 @@
  The project uses the following file-naming convention:
  - If there is a specific naming requirement in the assignment, it takes precedence over the following guidelines.
  - Unedited data retrieved from external sources are not renamed. Scripts referencing them may use descriptive names, rather than the original technical filenames. If they are preprocessed, the following schema should be used for the resulting files: [data_source]_[desc].[ext]. When there is more than one data source, use [desc].[ext].
- - All other filenames must use snake_case, separating all lowercased words clearly by underscores.
+ - All other filenames must use snake_case, separating all lowercased words clearly by underscores. Acronyms should be kept capitalized if customary.
  - Special characters (incl. whitespaces, tabs, dots, parentheses) should be avoided. Note that using dots in R is permissible for variable names. 
  - Figures are named semantically, not just numbered.
  - Dates are given in ISO 8601 format (YYYY-MM-DD), i.e. months and days are padded. Dates appear after the description, before the version and extension.
