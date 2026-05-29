@@ -12,8 +12,11 @@ def create_city_map_table(database_id):
     """This function collects resources required for creating the manually-compiled mapping table for cities."""
     cols = [
         CreateTableColumn(name="nuts_code", type="varchar", size=5, primary_key=True, null_allowed=False,
+                        #concept_uri="http://purl.org/linked-data/sdmx/2009/dimension#refArea",
                         description="5-character NUTS-3 administrative code (e.g., AT221): https://ec.europa.eu/eurostat/web/nuts"),
+                        
         CreateTableColumn(name="city_name", type="varchar", size = 100, primary_key=False, null_allowed=False,
+                        #concept_uri= "http://purl.obolibrary.org/obo/NCIT_C95378",
                         description="The name of the city from EUDA/SCODA data (e.g., Graz)"),
     ]
 
@@ -47,10 +50,15 @@ def create_gdp_table(database_id):
         CreateTableColumn(name="nuts_code", type="varchar", size=5, primary_key=True, null_allowed=False,
                         description="5-character NUTS-3 administrative code (e.g. AT221): https://ec.europa.eu/eurostat/web/nuts"),
         CreateTableColumn(name="ref_year", type="int", primary_key=True, null_allowed=False,
+                        #concept_uri= "http://rs.tdwg.org/dwc/terms/year",
                         description="4-digit year of the record: 2011 to 2024"),
         CreateTableColumn(name="gdp", type="int", size = 30, primary_key=False, null_allowed=True,
+                        #concept_uri= "http://purl.org/linked-data/sdmx/2009/measure#obsValue",
+                        #unit_uri= "https://www.omg.org/spec/Commons/QuantitiesAndUnits/QuantityValue",
                         description="Gross Domestic Product by NUTS Code"),
         CreateTableColumn(name="currency", type="varchar", size = 10, primary_key=False, null_allowed=True,
+                        #concept_uri= "http://purl.org/linked-data/sdmx/2009/attribute#currency",
+                        #unit_uri= "https://www.omg.org/spec/Commons/QuantitiesAndUnits/hasUnit",
                         description="Currency pertaining to the Gross Domestic Product (in gdp column)")
     ]
 
@@ -91,8 +99,11 @@ def create_wastewater_table(database_id):
         CreateTableColumn(name="ref_year", type="int", primary_key=True, null_allowed=False,
                         description="4-digit year of the record: 2011 to 2024"),
         CreateTableColumn(name="metabolite_name", type="varchar", size=100, primary_key=True, null_allowed=False,
+                        #concept_uri= "http://purl.obolibrary.org/obo/CHEBI_23367",        
                         description="The specific substance whose concentration was estimated (e.g., Cocaine, MDMA)"),
         CreateTableColumn(name="daily_mean_concentration", type="decimal", size=15, d=2, primary_key=False, null_allowed=True,
+                        #concept_uri= "http://purl.allotrope.org/ontologies/process#AFP_0002800",
+                        #unit_uri= "https://www.omg.org/spec/Commons/QuantitiesAndUnits/DerivedUnit",
                         description="(mg/1000person/day) Daily averages of metabolite concentration scaled by the population estimates. Values below the method limit of quantification are indicated as zero.")
     ]
 
@@ -132,10 +143,10 @@ def create_wastewater_table(database_id):
         print(response.text)
 
 if __name__ == "__main__":
-    DB_ID = '9fa181a9-de7c-4d44-b367-517a51f31351'    
+    DB_ID = os.getenv("DB_ID") 
 
-    create_gdp_table(database_id = DB_ID)
     create_city_map_table(database_id = DB_ID)
+    create_gdp_table(database_id = DB_ID)
     create_wastewater_table(database_id = DB_ID)
 
     # db = client.get_tables(database_id = DB_ID)
