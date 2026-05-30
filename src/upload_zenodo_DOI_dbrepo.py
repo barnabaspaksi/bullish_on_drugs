@@ -33,33 +33,6 @@ print(containers)
 container_id = '6cfb3b8e-1792-4e46-871a-f3d103527203'
 DB_ID = os.getenv("DB_ID")
 
-related_identifiers = [
-        CreateRelatedIdentifier(
-            value="10.5281/zenodo.20464726",
-            type=RelatedIdentifierType.DOI,
-            relation=RelatedIdentifierRelation.IS_SUPPLEMENT_TO
-        )
-    ]
-
-# class CreateIdentifier(BaseModel):
-#     database_id: str
-#     type: IdentifierType
-#     creators: List[CreateIdentifierCreator]
-#     publication_year: int
-#     publisher: str
-#     titles: List[CreateIdentifierTitle]
-#     descriptions: Optional[List[CreateIdentifierDescription]] = None
-#     funders: Optional[List[CreateIdentifierFunder]] = None
-#     doi: Optional[str] = None
-#     language: Optional[str] = None
-#     licenses: Optional[List[License]] = None
-#     query_id: Optional[str] = None
-#     table_id: Optional[str] = None
-#     view_id: Optional[str] = None
-#     related_identifiers: Optional[List[CreateRelatedIdentifier]] = None
-#     publication_day: Optional[int] = None
-#     publication_month: Optional[int] = None
-
 titles = [
         CreateIdentifierTitle(
             title="Predictive Modeling of Regional GDP based on Wastewater-Based Epidemiology",
@@ -116,17 +89,20 @@ descriptions = [
 related_identifiers = [
     # Upstream Eurostat Source Dataset
     CreateRelatedIdentifier(
-        id="10.2908/NAMA_10R_3GDP",
         value="10.2908/NAMA_10R_3GDP",
         type=RelatedIdentifierType.DOI,
         relation=RelatedIdentifierRelation.IS_DERIVED_FROM
     ),
     # Upstream EUDA Open Repository Source
     CreateRelatedIdentifier(
-        id="https://www.euda.europa.eu/data/repository/drugs-municipal-wastewater-europe-source-data-2026_en",
         value="https://www.euda.europa.eu/data/repository/drugs-municipal-wastewater-europe-source-data-2026_en",
         type=RelatedIdentifierType.URL,
         relation=RelatedIdentifierRelation.IS_DERIVED_FROM
+    ),
+    CreateRelatedIdentifier(
+        value="10.5281/zenodo.20464726",
+        type=RelatedIdentifierType.DOI,
+        relation=RelatedIdentifierRelation.IS_SUPPLEMENT_TO
     )
 ]
 cc_by_4_0 = License(
