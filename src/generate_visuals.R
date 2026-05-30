@@ -1,16 +1,11 @@
 #################################
-## Data Stewardship Experiment ##
+## Pre-ML Exploratory Analysis ##
 #################################
 
 ### Packages
 library(this.path)
 library(readr)
 library(tidyverse)
-# library(tidymodels)
-# library(reshape2)
-# library(patchwork)
-# library(ranger)
-# library(yardstick)
 library(knitr)
 
 #################################
@@ -61,7 +56,6 @@ hist_grams <- ggplot(plot_data, aes(x = value)) +
 hist_grams
 ggsave("../outputs/concentration_distrib_by_drug.png")
 
-print(final_data)
 # target variable histogram 
 p1 <- ggplot(final_data, aes(x = log(gdp))) + 
   geom_histogram(fill="darkgrey", color="black", bins = 30) + 
