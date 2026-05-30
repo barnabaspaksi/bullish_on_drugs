@@ -1,0 +1,24 @@
+erDiagram
+    %% Relationships
+    city_map ||--o{ gdp_data : "fk_gdp_data_0"
+    city_map ||--o{ wastewater_data : "fk_wastewater_data_0"
+
+    %% Tables and Columns
+    city_map {
+        varchar(5) nuts_code PK
+        varchar(100) city_name UK
+    }
+
+    gdp_data {
+        varchar(5) nuts_code PK, FK
+        int ref_year PK
+        decimal(30) gdp
+        varchar(10) currency
+    }
+
+    wastewater_data {
+        varchar(100) city_name PK, FK
+        int ref_year PK
+        varchar(100) metabolite_name PK
+        decimal(15) daily_mean_concentration 
+    }
