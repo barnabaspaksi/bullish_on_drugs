@@ -1,4 +1,4 @@
-# Predictive Modeling of Regional GDP per Capita based on Wastewater-Based Epidemiology
+# Predictive Modeling of Regional GDP based on Wastewater-Based Epidemiology
 
 ## INFO FOR LAST DAY (PROGRESS):
 I ran everything again and finished my part (T2.5):

@@ -1,0 +1,46 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "type": "SoftwareSourceCode",
+    "author": [
+        {
+            "id": "https://orcid.org/0009-0009-5136-9119",
+            "type": "Person",
+            "familyName": "Hlushchenko",
+            "givenName": "Vlada"
+        },
+        {
+            "id": "https://orcid.org/0009-0001-1032-0177",
+            "type": "Person",
+            "familyName": "Paksi",
+            "givenName": "Barnabás"
+        },
+        {
+            "id": "https://orcid.org/0009-0005-8421-9302",
+            "type": "Person",
+            "familyName": "Vaught",
+            "givenName": "Helene"
+        },
+        {
+            "id": "https://orcid.org/0009-0007-0543-4165",
+            "type": "Person",
+            "familyName": "Assmayr",
+            "givenName": "Amélie"
+        }
+    ],
+    "codeRepository": "https://github.com/barnabaspaksi/bullish_on_drugs",
+    "description": "This software implements a predictive modeling pipeline for regional GDP using Wastewater-Based Epidemiology (WBE) data. It ingests open-source datasets from the European Union Drugs Agency (EUDA) and Eurostat, performs data cleaning and city-to-NUTS-3 region mapping, and merges them into a longitudinal dataset. Three regression models are trained and evaluated: a Random Forest Regression, a Simple Linear Regression, and a Nested Linear Mixed Model (LMM). The pipeline produces performance metrics (RMSE, MAE, R²), prediction plots, and comparison tables to assess the relationship between illicit drug metabolite concentrations in municipal wastewater and regional economic output.",
+    "license": "https://spdx.org/licenses/CC-BY-4.0",
+    "name": "Predictive Modeling of Regional GDP based on Wastewater-Based Epidemiology",
+    "operatingSystem": [
+        "Windows",
+        "macOS"
+    ],
+    "programmingLanguage": [
+        "R",
+        "Python"
+    ],
+    "runtimePlatform": "Jupyter Notebook",
+    "softwareRequirements": "https://github.com/barnabaspaksi/bullish_on_drugs/blob/main/docs/environment.yml",
+    "version": "3.0.0",
+    "issueTracker": "https://github.com/barnabaspaksi/bullish_on_drugs"
+}

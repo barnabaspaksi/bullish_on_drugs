@@ -1,0 +1,720 @@
+{
+  "contact": {
+    "contact_id": {
+      "identifier": "0009-0001-1032-0177",
+      "type": "orcid"
+    },
+    "name": "Barnabás Paksi"
+  },
+  "contributor": [
+    {
+      "contributor_id": {
+        "identifier": "0009-0009-5136-9119",
+        "type": "orcid"
+      },
+      "name": "Vlada Hlushchenko",
+      "role": [
+        "Project Member"
+      ]
+    },
+    {
+      "contributor_id": {
+        "identifier": "0009-0001-1032-0177",
+        "type": "orcid"
+      },
+      "name": "Barnabás Paksi",
+      "role": [
+        "Project Leader"
+      ]
+    },
+    {
+      "contributor_id": {
+        "identifier": "0009-0005-8421-9302",
+        "type": "orcid"
+      },
+      "name": "Helene Johanna Vaught",
+      "role": [
+        "Project Member"
+      ]
+    },
+    {
+      "contributor_id": {
+        "identifier": "0009-0007-0543-4165",
+        "type": "orcid"
+      },
+      "name": "Amélie Assmayr",
+      "role": [
+        "Project Member"
+      ]
+    }
+  ],
+  "cost": [],
+  "created": 1780170067477,
+  "dataset": [
+    {
+      "description": "DOI: 10.82556/pbwe-bk06\nDataset containing 3 tables, views and metadata information, as well as links to original data publishers, Zenodo and ORCID",
+      "distribution": [
+        {
+          "access_url": "https://test.dbrepo.tuwien.ac.at/",
+          "byte_size": 100000000,
+          "data_access": "open",
+          "description": "DOI: 10.82556/pbwe-bk06\nDataset containing 3 tables, views and metadata information, as well as links to original data publishers, Zenodo and ORCID",
+          "format": [
+            "SQL Database via RESTful API"
+          ],
+          "host": {
+            "description": "TU Wien DBRepo (Test Instance) is a research data repository provided by TU Wien for storing and sharing structured research data. It supports SQL databases and provides DOI-based persistent identifiers.",
+            "pid_system": [
+              "doi"
+            ],
+            "storage_type": "institutional",
+            "support_versioning": "yes",
+            "title": "TU Wien DBRepo (Test Instance)",
+            "url": "https://test.dbrepo.tuwien.ac.at/"
+          },
+          "license": [
+            {
+              "license_ref": "https://creativecommons.org/licenses/by/4.0/",
+              "start_date": "2026-05-30"
+            }
+          ],
+          "pid": [
+            {
+              "identifier": "https://doi.org/10.82556/pbwe-bk06",
+              "type": "doi"
+            }
+          ],
+          "title": "Predictive Modeling of Regional GDP based on Wastewater-Based Epidemiology"
+        }
+      ],
+      "personal_data": "no",
+      "security_and_privacy": [],
+      "sensitive_data": "no",
+      "technical_resource": [],
+      "title": "Predictive Modeling of Regional GDP based on Wastewater-Based Epidemiology",
+      "type": "Databases"
+    },
+    {
+      "description": "comma-separated file containing the unrounded evaluation metrics from ML models with the following columns: model,rmse,rsq,mae",
+      "distribution": [
+        {
+          "access_url": "https://researchdata.tuwien.ac.at/",
+          "byte_size": 100000000,
+          "data_access": "open",
+          "description": "comma-separated file containing the unrounded evaluation metrics from ML models with the following columns: model,rmse,rsq,mae",
+          "format": [
+            "Structured text"
+          ],
+          "host": {
+            "description": "TU Wien Research Data is an institutional repository of TU Wien to enable storing, sharing and publishing of digital objects, in particular research data. It facilitates the funders' requirements for open access to research data and the FAIR principles by making research output findable, accessible, interoperable, and reusable. A DOI is assigned to each dataset published in TU Wien Research Data. This service is developed by the TU Wien Center for Research Data Management and hosted by TU.it.",
+            "pid_system": [
+              "doi"
+            ],
+            "storage_type": "institutional",
+            "support_versioning": "yes",
+            "title": "TU Wien Research Data",
+            "url": "https://researchdata.tuwien.ac.at/"
+          },
+          "license": [
+            {
+              "license_ref": "https://creativecommons.org/licenses/by/4.0/",
+              "start_date": "2026-05-30 00:00:00.0"
+            }
+          ],
+          "title": "Evaluation Metrics for Predictive Model for GDP from Wastewater Drug Metabolites"
+        },
+        {
+          "access_url": "https://zenodo.org/",
+          "byte_size": 100000000,
+          "data_access": "open",
+          "description": "comma-separated file containing the unrounded evaluation metrics from ML models with the following columns: model,rmse,rsq,mae",
+          "format": [
+            "Structured text"
+          ],
+          "host": {
+            "description": "ZENODO builds and operates a simple and innovative service that enables researchers, scientists, EU projects and institutions to share and showcase multidisciplinary research results (data and publications) that are not part of the existing institutional or subject-based repositories of the research communities.\nZENODO enables researchers, scientists, EU projects and institutions to:\neasily share the long tail of small research results in a wide variety of formats including text, spreadsheets, audio, video, and images across all fields of science.\ndisplay their research results and get credited by making the research results citable and integrate them into existing reporting lines to funding agencies like the European Commission.\neasily access and reuse shared research results.",
+            "pid_system": [
+              "doi"
+            ],
+            "storage_type": "other",
+            "support_versioning": "yes",
+            "title": "Zenodo",
+            "url": "https://zenodo.org/"
+          },
+          "license": [
+            {
+              "license_ref": "https://creativecommons.org/licenses/by/4.0/",
+              "start_date": "2026-05-30 00:00:00.0"
+            }
+          ],
+          "title": "Evaluation Metrics for Predictive Model for GDP from Wastewater Drug Metabolites"
+        },
+        {
+          "access_url": "https://github.com",
+          "byte_size": 100000000,
+          "data_access": "open",
+          "description": "comma-separated file containing the unrounded evaluation metrics from ML models with the following columns: model,rmse,rsq,mae",
+          "format": [
+            "Structured text"
+          ],
+          "host": {
+            "description": "GitHub is the best place to share code with friends, co-workers, classmates, and complete strangers. Over three million people use GitHub to build amazing things together. With the collaborative features of GitHub.com, our desktop and mobile apps, and GitHub Enterprise, it has never been easier for individuals and teams to write better code, faster. Originally founded by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett to simplify sharing code, GitHub has grown into the largest code host in the world.",
+            "pid_system": [
+              null
+            ],
+            "storage_type": "other",
+            "support_versioning": "yes",
+            "title": "GitHub",
+            "url": "https://github.com"
+          },
+          "license": [
+            {
+              "license_ref": "https://creativecommons.org/licenses/by/4.0/",
+              "start_date": "2026-05-30 00:00:00.0"
+            }
+          ],
+          "title": "Evaluation Metrics for Predictive Model for GDP from Wastewater Drug Metabolites"
+        }
+      ],
+      "personal_data": "no",
+      "security_and_privacy": [],
+      "sensitive_data": "no",
+      "technical_resource": [],
+      "title": "Evaluation Metrics for Predictive Model for GDP from Wastewater Drug Metabolites",
+      "type": "Structured text"
+    },
+    {
+      "description": "actual vs predicted GDP for linear regression, nested linear regression and random forest regression",
+      "distribution": [
+        {
+          "access_url": "https://researchdata.tuwien.ac.at/",
+          "byte_size": 100000000,
+          "data_access": "open",
+          "description": "actual vs predicted GDP for linear regression, nested linear regression and random forest regression",
+          "format": [
+            "Images"
+          ],
+          "host": {
+            "description": "TU Wien Research Data is an institutional repository of TU Wien to enable storing, sharing and publishing of digital objects, in particular research data. It facilitates the funders' requirements for open access to research data and the FAIR principles by making research output findable, accessible, interoperable, and reusable. A DOI is assigned to each dataset published in TU Wien Research Data. This service is developed by the TU Wien Center for Research Data Management and hosted by TU.it.",
+            "pid_system": [
+              "doi"
+            ],
+            "storage_type": "institutional",
+            "support_versioning": "yes",
+            "title": "TU Wien Research Data",
+            "url": "https://researchdata.tuwien.ac.at/"
+          },
+          "license": [
+            {
+              "license_ref": "https://creativecommons.org/licenses/by/4.0/",
+              "start_date": "2026-05-30 00:00:00.0"
+            }
+          ],
+          "title": "Prediction Scatterplot for Predictive Models for GDP from Wastewater Drug Metabolites"
+        },
+        {
+          "access_url": "https://zenodo.org/",
+          "byte_size": 100000000,
+          "data_access": "open",
+          "description": "actual vs predicted GDP for linear regression, nested linear regression and random forest regression",
+          "format": [
+            "Images"
+          ],
+          "host": {
+            "description": "ZENODO builds and operates a simple and innovative service that enables researchers, scientists, EU projects and institutions to share and showcase multidisciplinary research results (data and publications) that are not part of the existing institutional or subject-based repositories of the research communities.\nZENODO enables researchers, scientists, EU projects and institutions to:\neasily share the long tail of small research results in a wide variety of formats including text, spreadsheets, audio, video, and images across all fields of science.\ndisplay their research results and get credited by making the research results citable and integrate them into existing reporting lines to funding agencies like the European Commission.\neasily access and reuse shared research results.",
+            "pid_system": [
+              "doi"
+            ],
+            "storage_type": "other",
+            "support_versioning": "yes",
+            "title": "Zenodo",
+            "url": "https://zenodo.org/"
+          },
+          "license": [
+            {
+              "license_ref": "https://creativecommons.org/licenses/by/4.0/",
+              "start_date": "2026-05-30 00:00:00.0"
+            }
+          ],
+          "title": "Prediction Scatterplot for Predictive Models for GDP from Wastewater Drug Metabolites"
+        },
+        {
+          "access_url": "https://github.com",
+          "byte_size": 100000000,
+          "data_access": "open",
+          "description": "actual vs predicted GDP for linear regression, nested linear regression and random forest regression",
+          "format": [
+            "Images"
+          ],
+          "host": {
+            "description": "GitHub is the best place to share code with friends, co-workers, classmates, and complete strangers. Over three million people use GitHub to build amazing things together. With the collaborative features of GitHub.com, our desktop and mobile apps, and GitHub Enterprise, it has never been easier for individuals and teams to write better code, faster. Originally founded by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett to simplify sharing code, GitHub has grown into the largest code host in the world.",
+            "pid_system": [
+              null
+            ],
+            "storage_type": "other",
+            "support_versioning": "yes",
+            "title": "GitHub",
+            "url": "https://github.com"
+          },
+          "license": [
+            {
+              "license_ref": "https://creativecommons.org/licenses/by/4.0/",
+              "start_date": "2026-05-30 00:00:00.0"
+            }
+          ],
+          "title": "Prediction Scatterplot for Predictive Models for GDP from Wastewater Drug Metabolites"
+        }
+      ],
+      "personal_data": "no",
+      "security_and_privacy": [],
+      "sensitive_data": "no",
+      "technical_resource": [],
+      "title": "Prediction Scatterplot for Predictive Models for GDP from Wastewater Drug Metabolites",
+      "type": "Images"
+    },
+    {
+      "description": "Histogram of GDP distribution in subset of research dataset used for ML models.",
+      "distribution": [
+        {
+          "access_url": "https://researchdata.tuwien.ac.at/",
+          "byte_size": 100000000,
+          "data_access": "open",
+          "description": "Histogram of GDP distribution in subset of research dataset used for ML models.",
+          "format": [
+            "Images"
+          ],
+          "host": {
+            "description": "TU Wien Research Data is an institutional repository of TU Wien to enable storing, sharing and publishing of digital objects, in particular research data. It facilitates the funders' requirements for open access to research data and the FAIR principles by making research output findable, accessible, interoperable, and reusable. A DOI is assigned to each dataset published in TU Wien Research Data. This service is developed by the TU Wien Center for Research Data Management and hosted by TU.it.",
+            "pid_system": [
+              "doi"
+            ],
+            "storage_type": "institutional",
+            "support_versioning": "yes",
+            "title": "TU Wien Research Data",
+            "url": "https://researchdata.tuwien.ac.at/"
+          },
+          "license": [
+            {
+              "license_ref": "https://creativecommons.org/licenses/by/4.0/",
+              "start_date": "2026-05-30 00:00:00.0"
+            }
+          ],
+          "title": "Overall GDP Distribution"
+        },
+        {
+          "access_url": "https://zenodo.org/",
+          "byte_size": 100000000,
+          "data_access": "open",
+          "description": "Histogram of GDP distribution in subset of research dataset used for ML models.",
+          "format": [
+            "Images"
+          ],
+          "host": {
+            "description": "ZENODO builds and operates a simple and innovative service that enables researchers, scientists, EU projects and institutions to share and showcase multidisciplinary research results (data and publications) that are not part of the existing institutional or subject-based repositories of the research communities.\nZENODO enables researchers, scientists, EU projects and institutions to:\neasily share the long tail of small research results in a wide variety of formats including text, spreadsheets, audio, video, and images across all fields of science.\ndisplay their research results and get credited by making the research results citable and integrate them into existing reporting lines to funding agencies like the European Commission.\neasily access and reuse shared research results.",
+            "pid_system": [
+              "doi"
+            ],
+            "storage_type": "other",
+            "support_versioning": "yes",
+            "title": "Zenodo",
+            "url": "https://zenodo.org/"
+          },
+          "license": [
+            {
+              "license_ref": "https://creativecommons.org/licenses/by/4.0/",
+              "start_date": "2026-05-30 00:00:00.0"
+            }
+          ],
+          "title": "Overall GDP Distribution"
+        },
+        {
+          "access_url": "https://github.com",
+          "byte_size": 100000000,
+          "data_access": "open",
+          "description": "Histogram of GDP distribution in subset of research dataset used for ML models.",
+          "format": [
+            "Images"
+          ],
+          "host": {
+            "description": "GitHub is the best place to share code with friends, co-workers, classmates, and complete strangers. Over three million people use GitHub to build amazing things together. With the collaborative features of GitHub.com, our desktop and mobile apps, and GitHub Enterprise, it has never been easier for individuals and teams to write better code, faster. Originally founded by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett to simplify sharing code, GitHub has grown into the largest code host in the world.",
+            "pid_system": [
+              null
+            ],
+            "storage_type": "other",
+            "support_versioning": "yes",
+            "title": "GitHub",
+            "url": "https://github.com"
+          },
+          "license": [
+            {
+              "license_ref": "https://creativecommons.org/licenses/by/4.0/",
+              "start_date": "2026-05-30 00:00:00.0"
+            }
+          ],
+          "title": "Overall GDP Distribution"
+        }
+      ],
+      "personal_data": "no",
+      "security_and_privacy": [],
+      "sensitive_data": "no",
+      "technical_resource": [],
+      "title": "Overall GDP Distribution",
+      "type": "Images"
+    },
+    {
+      "distribution": [
+        {
+          "access_url": "https://researchdata.tuwien.ac.at/",
+          "byte_size": 100000000,
+          "data_access": "open",
+          "format": [
+            "Images"
+          ],
+          "host": {
+            "description": "TU Wien Research Data is an institutional repository of TU Wien to enable storing, sharing and publishing of digital objects, in particular research data. It facilitates the funders' requirements for open access to research data and the FAIR principles by making research output findable, accessible, interoperable, and reusable. A DOI is assigned to each dataset published in TU Wien Research Data. This service is developed by the TU Wien Center for Research Data Management and hosted by TU.it.",
+            "pid_system": [
+              "doi"
+            ],
+            "storage_type": "institutional",
+            "support_versioning": "yes",
+            "title": "TU Wien Research Data",
+            "url": "https://researchdata.tuwien.ac.at/"
+          },
+          "license": [
+            {
+              "license_ref": "https://creativecommons.org/licenses/by/4.0/",
+              "start_date": "2026-05-30 00:00:00.0"
+            }
+          ],
+          "title": "Correlation Heatmap for GDP and Wastewater Drug Metabolites"
+        },
+        {
+          "access_url": "https://zenodo.org/",
+          "byte_size": 100000000,
+          "data_access": "open",
+          "format": [
+            "Images"
+          ],
+          "host": {
+            "description": "ZENODO builds and operates a simple and innovative service that enables researchers, scientists, EU projects and institutions to share and showcase multidisciplinary research results (data and publications) that are not part of the existing institutional or subject-based repositories of the research communities.\nZENODO enables researchers, scientists, EU projects and institutions to:\neasily share the long tail of small research results in a wide variety of formats including text, spreadsheets, audio, video, and images across all fields of science.\ndisplay their research results and get credited by making the research results citable and integrate them into existing reporting lines to funding agencies like the European Commission.\neasily access and reuse shared research results.",
+            "pid_system": [
+              "doi"
+            ],
+            "storage_type": "other",
+            "support_versioning": "yes",
+            "title": "Zenodo",
+            "url": "https://zenodo.org/"
+          },
+          "license": [
+            {
+              "license_ref": "https://creativecommons.org/licenses/by/4.0/",
+              "start_date": "2026-05-30 00:00:00.0"
+            }
+          ],
+          "title": "Correlation Heatmap for GDP and Wastewater Drug Metabolites"
+        },
+        {
+          "access_url": "https://github.com",
+          "byte_size": 100000000,
+          "data_access": "open",
+          "format": [
+            "Images"
+          ],
+          "host": {
+            "description": "GitHub is the best place to share code with friends, co-workers, classmates, and complete strangers. Over three million people use GitHub to build amazing things together. With the collaborative features of GitHub.com, our desktop and mobile apps, and GitHub Enterprise, it has never been easier for individuals and teams to write better code, faster. Originally founded by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett to simplify sharing code, GitHub has grown into the largest code host in the world.",
+            "pid_system": [
+              null
+            ],
+            "storage_type": "other",
+            "support_versioning": "yes",
+            "title": "GitHub",
+            "url": "https://github.com"
+          },
+          "license": [
+            {
+              "license_ref": "https://creativecommons.org/licenses/by/4.0/",
+              "start_date": "2026-05-30 00:00:00.0"
+            }
+          ],
+          "title": "Correlation Heatmap for GDP and Wastewater Drug Metabolites"
+        }
+      ],
+      "personal_data": "no",
+      "security_and_privacy": [],
+      "sensitive_data": "no",
+      "technical_resource": [],
+      "title": "Correlation Heatmap for GDP and Wastewater Drug Metabolites",
+      "type": "Images"
+    },
+    {
+      "description": "Multi-panel plot of drugs in the subset of dataset used for the ML models.",
+      "distribution": [
+        {
+          "access_url": "https://researchdata.tuwien.ac.at/",
+          "byte_size": 100000000,
+          "data_access": "open",
+          "description": "Multi-panel plot of drugs in the subset of dataset used for the ML models.",
+          "format": [
+            "Images"
+          ],
+          "host": {
+            "description": "TU Wien Research Data is an institutional repository of TU Wien to enable storing, sharing and publishing of digital objects, in particular research data. It facilitates the funders' requirements for open access to research data and the FAIR principles by making research output findable, accessible, interoperable, and reusable. A DOI is assigned to each dataset published in TU Wien Research Data. This service is developed by the TU Wien Center for Research Data Management and hosted by TU.it.",
+            "pid_system": [
+              "doi"
+            ],
+            "storage_type": "institutional",
+            "support_versioning": "yes",
+            "title": "TU Wien Research Data",
+            "url": "https://researchdata.tuwien.ac.at/"
+          },
+          "license": [
+            {
+              "license_ref": "https://creativecommons.org/licenses/by/4.0/",
+              "start_date": "2026-05-30 00:00:00.0"
+            }
+          ],
+          "title": "Concentration Distribution by Drug"
+        },
+        {
+          "access_url": "https://zenodo.org/",
+          "byte_size": 100000000,
+          "data_access": "open",
+          "description": "Multi-panel plot of drugs in the subset of dataset used for the ML models.",
+          "format": [
+            "Images"
+          ],
+          "host": {
+            "description": "ZENODO builds and operates a simple and innovative service that enables researchers, scientists, EU projects and institutions to share and showcase multidisciplinary research results (data and publications) that are not part of the existing institutional or subject-based repositories of the research communities.\nZENODO enables researchers, scientists, EU projects and institutions to:\neasily share the long tail of small research results in a wide variety of formats including text, spreadsheets, audio, video, and images across all fields of science.\ndisplay their research results and get credited by making the research results citable and integrate them into existing reporting lines to funding agencies like the European Commission.\neasily access and reuse shared research results.",
+            "pid_system": [
+              "doi"
+            ],
+            "storage_type": "other",
+            "support_versioning": "yes",
+            "title": "Zenodo",
+            "url": "https://zenodo.org/"
+          },
+          "license": [
+            {
+              "license_ref": "https://creativecommons.org/licenses/by/4.0/",
+              "start_date": "2026-05-30 00:00:00.0"
+            }
+          ],
+          "title": "Concentration Distribution by Drug"
+        },
+        {
+          "access_url": "https://github.com",
+          "byte_size": 100000000,
+          "data_access": "open",
+          "description": "Multi-panel plot of drugs in the subset of dataset used for the ML models.",
+          "format": [
+            "Images"
+          ],
+          "host": {
+            "description": "GitHub is the best place to share code with friends, co-workers, classmates, and complete strangers. Over three million people use GitHub to build amazing things together. With the collaborative features of GitHub.com, our desktop and mobile apps, and GitHub Enterprise, it has never been easier for individuals and teams to write better code, faster. Originally founded by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett to simplify sharing code, GitHub has grown into the largest code host in the world.",
+            "pid_system": [
+              null
+            ],
+            "storage_type": "other",
+            "support_versioning": "yes",
+            "title": "GitHub",
+            "url": "https://github.com"
+          },
+          "license": [
+            {
+              "license_ref": "https://creativecommons.org/licenses/by/4.0/",
+              "start_date": "2026-05-30 00:00:00.0"
+            }
+          ],
+          "title": "Concentration Distribution by Drug"
+        }
+      ],
+      "personal_data": "no",
+      "security_and_privacy": [],
+      "sensitive_data": "no",
+      "technical_resource": [],
+      "title": "Concentration Distribution by Drug",
+      "type": "Images"
+    },
+    {
+      "description": "Code to execute the experiment, obtain evaluation, create visuals and metadata (e.g. FAIR4ML)",
+      "distribution": [
+        {
+          "access_url": "https://researchdata.tuwien.ac.at/",
+          "byte_size": 100000000,
+          "data_access": "open",
+          "description": "Code to execute the experiment, obtain evaluation, create visuals and metadata (e.g. FAIR4ML)",
+          "format": [
+            "Source code"
+          ],
+          "host": {
+            "description": "TU Wien Research Data is an institutional repository of TU Wien to enable storing, sharing and publishing of digital objects, in particular research data. It facilitates the funders' requirements for open access to research data and the FAIR principles by making research output findable, accessible, interoperable, and reusable. A DOI is assigned to each dataset published in TU Wien Research Data. This service is developed by the TU Wien Center for Research Data Management and hosted by TU.it.",
+            "pid_system": [
+              "doi"
+            ],
+            "storage_type": "institutional",
+            "support_versioning": "yes",
+            "title": "TU Wien Research Data",
+            "url": "https://researchdata.tuwien.ac.at/"
+          },
+          "license": [
+            {
+              "license_ref": "https://opensource.org/license/mit",
+              "start_date": "2026-05-30 00:00:00.0"
+            }
+          ],
+          "title": "Experiment Code"
+        },
+        {
+          "access_url": "https://zenodo.org/",
+          "byte_size": 100000000,
+          "data_access": "open",
+          "description": "Code to execute the experiment, obtain evaluation, create visuals and metadata (e.g. FAIR4ML)",
+          "format": [
+            "Source code"
+          ],
+          "host": {
+            "description": "ZENODO builds and operates a simple and innovative service that enables researchers, scientists, EU projects and institutions to share and showcase multidisciplinary research results (data and publications) that are not part of the existing institutional or subject-based repositories of the research communities.\nZENODO enables researchers, scientists, EU projects and institutions to:\neasily share the long tail of small research results in a wide variety of formats including text, spreadsheets, audio, video, and images across all fields of science.\ndisplay their research results and get credited by making the research results citable and integrate them into existing reporting lines to funding agencies like the European Commission.\neasily access and reuse shared research results.",
+            "pid_system": [
+              "doi"
+            ],
+            "storage_type": "other",
+            "support_versioning": "yes",
+            "title": "Zenodo",
+            "url": "https://zenodo.org/"
+          },
+          "license": [
+            {
+              "license_ref": "https://opensource.org/license/mit",
+              "start_date": "2026-05-30 00:00:00.0"
+            }
+          ],
+          "title": "Experiment Code"
+        },
+        {
+          "access_url": "https://github.com",
+          "byte_size": 100000000,
+          "data_access": "open",
+          "description": "Code to execute the experiment, obtain evaluation, create visuals and metadata (e.g. FAIR4ML)",
+          "format": [
+            "Source code"
+          ],
+          "host": {
+            "description": "GitHub is the best place to share code with friends, co-workers, classmates, and complete strangers. Over three million people use GitHub to build amazing things together. With the collaborative features of GitHub.com, our desktop and mobile apps, and GitHub Enterprise, it has never been easier for individuals and teams to write better code, faster. Originally founded by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett to simplify sharing code, GitHub has grown into the largest code host in the world.",
+            "pid_system": [
+              null
+            ],
+            "storage_type": "other",
+            "support_versioning": "yes",
+            "title": "GitHub",
+            "url": "https://github.com"
+          },
+          "license": [
+            {
+              "license_ref": "https://opensource.org/license/mit",
+              "start_date": "2026-05-30 00:00:00.0"
+            }
+          ],
+          "title": "Experiment Code"
+        }
+      ],
+      "personal_data": "no",
+      "security_and_privacy": [],
+      "sensitive_data": "no",
+      "technical_resource": [],
+      "title": "Experiment Code",
+      "type": "Source code"
+    },
+    {
+      "description": "An entire repository of scripts including parameter inputs, references and documentation to understand how the data for the DBRepo upload were generated, how preprocessing was done and how outputs can be compared with references.",
+      "distribution": [
+        {
+          "access_url": "https://zenodo.org/",
+          "byte_size": 100000000,
+          "data_access": "open",
+          "description": "An entire repository of scripts including parameter inputs, references and documentation to understand how the data for the DBRepo upload were generated, how preprocessing was done and how outputs can be compared with references.",
+          "format": [
+            "Source code"
+          ],
+          "host": {
+            "description": "ZENODO builds and operates a simple and innovative service that enables researchers, scientists, EU projects and institutions to share and showcase multidisciplinary research results (data and publications) that are not part of the existing institutional or subject-based repositories of the research communities.\nZENODO enables researchers, scientists, EU projects and institutions to:\neasily share the long tail of small research results in a wide variety of formats including text, spreadsheets, audio, video, and images across all fields of science.\ndisplay their research results and get credited by making the research results citable and integrate them into existing reporting lines to funding agencies like the European Commission.\neasily access and reuse shared research results.",
+            "pid_system": [
+              "doi"
+            ],
+            "storage_type": "other",
+            "support_versioning": "yes",
+            "title": "Zenodo",
+            "url": "https://zenodo.org/"
+          },
+          "license": [
+            {
+              "license_ref": "https://opensource.org/license/mit",
+              "start_date": "2026-05-30 00:00:00.0"
+            }
+          ],
+          "title": "Code for Full Reproducibility",
+          "pid": [
+            {
+              "identifier": "https://doi.org/10.5281/zenodo.20464726",
+              "type": "doi"
+            }
+          ]
+        },
+        {
+          "access_url": "https://github.com",
+          "byte_size": 100000000,
+          "data_access": "open",
+          "description": "An entire repository of scripts including parameter inputs, references and documentation to understand how the data for the DBRepo upload were generated, how preprocessing was done and how outputs can be compared with references.",
+          "format": [
+            "Source code"
+          ],
+          "host": {
+            "description": "GitHub is the best place to share code with friends, co-workers, classmates, and complete strangers. Over three million people use GitHub to build amazing things together. With the collaborative features of GitHub.com, our desktop and mobile apps, and GitHub Enterprise, it has never been easier for individuals and teams to write better code, faster. Originally founded by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett to simplify sharing code, GitHub has grown into the largest code host in the world.",
+            "pid_system": [
+              null
+            ],
+            "storage_type": "other",
+            "support_versioning": "yes",
+            "title": "GitHub",
+            "url": "https://github.com"
+          },
+          "license": [
+            {
+              "license_ref": "https://opensource.org/license/mit",
+              "start_date": "2026-05-30 00:00:00.0"
+            }
+          ],
+          "title": "Code for Full Reproducibility"
+        }
+      ],
+      "personal_data": "no",
+      "security_and_privacy": [],
+      "sensitive_data": "no",
+      "technical_resource": [],
+      "title": "Code for Full Reproducibility",
+      "type": "Source code"
+    }
+  ],
+  "ethical_issues_exist": "no",
+  "modified": 1780174698153,
+  "project": [
+    {
+      "description": "This use case explores the correlation relationship between illicit drug use in major European cities and their regional economic productivity (GDP). Normalized metabolite concentrations in wastewater are use to analyze regional deviations in GDP over the period of 2011-2024 in European countries.\nOriginal Publishers: EUDA & SCORE, EUROSTAT.\nEUDA & SCORE: URI: https://www.euda.europa.eu/data/repository/drugs-municipal-wastewater-europe-source-data-2026_en\nEUROSTAT: DOI: https://doi.org/10.2908/NAMA_10R_3GDP, URI: https://ec.europa.eu/eurostat/databrowser/view/nama_10r_3gdp__custom_20659344/default/table",
+      "end": "2026-06-30 00:00:00.0",
+      "funding": [],
+      "start": "2026-04-01 00:00:00.0",
+      "title": "Predictive Modeling of Regional GDP based on Wastewater-Based Epidemiology"
+    }
+  ],
+  "title": "Predictive Modeling of Regional GDP based on Wastewater-Based Epidemiology",
+  "dmp_id": {
+    "identifier": "https://doi.org/10.70124/deb0x-ttt98",
+    "type": "doi"
+  },
+  "license": [
+    {
+      "license_ref": "https://creativecommons.org/licenses/by/4.0/",
+      "start_date": "2026-05-30"
+    }
+  ],
+  "version": "2.0"
+}
