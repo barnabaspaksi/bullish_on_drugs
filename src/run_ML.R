@@ -33,7 +33,7 @@ head(gdp)
 head(mapping)
 
 ww2 <- inner_join(ww, mapping, by = "city_name")
-joined_data <- inner_join(gdp, ww2, by = "nuts_code")
+joined_data <- inner_join(gdp, ww2, by = c("nuts_code", "ref_year"))
 head(joined_data)
 
 write.csv(joined_data, "../data/processed/joined_data.csv", row.names = FALSE)
