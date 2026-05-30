@@ -27,6 +27,6 @@ All metadata files follow FAIR4ML standards for Findable, Accessible,
     Interoperable, and Reusable machine learning models.
 
 ## Deposit Information
-Deposited in TUWRD (T3.9) on: 2026-05-30T16:12:08+0200
-Dataset DOI: 10.xxxxx/xxxxx
+Deposited in TUWRD (T3.9) on: 2026-05-30T18:49:24+0200
+Dataset DOI: 10.82556/pbwe-bk06
 Contact: TU Wien Research Data Management

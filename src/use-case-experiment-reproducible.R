@@ -213,7 +213,7 @@ if(!dir.exists("../metadata")) dir.create("../metadata")
 if(!dir.exists("../models")) dir.create("../models")
 
 # Define dataset DOI (you'll need to obtain this from TUWRD)
-dataset_doi <- "10.xxxxx/xxxxx" # not available bc DBRepo is broken
+dataset_doi <- "10.82556/pbwe-bk06" # not available bc DBRepo is broken
 
 # Current timestamp for metadata
 timestamp <- format(Sys.time(), "%Y-%m-%dT%H:%M:%S%z")
@@ -235,7 +235,7 @@ rf_metadata <- list(
   ),
   
   training_data = list(
-    name = "European GDP and Illicit Drug Concentrations in Wastewater",
+    name = "Predictive Modeling of Regional GDP based on Wastewater-Based Epidemiology",
     doi = dataset_doi,
     description = "Dataset combining GDP, year, and drug metabolite
     concentrations (amphetamine, methamphetamine, cocaine, MDMA)

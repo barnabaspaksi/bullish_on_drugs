@@ -8,8 +8,8 @@
     "citation": "Wright, M. N., & Ziegler, A. (2017). ranger: \n    A Fast Implementation of Random Forests for High Dimensional \n    Data in C++ and R. Journal of Statistical Software, 77(1), 1-17."
   },
   "training_data": {
-    "name": "European GDP and Illicit Drug Concentrations in Wastewater",
-    "doi": "10.xxxxx/xxxxx",
+    "name": "Predictive Modeling of Regional GDP based on Wastewater-Based Epidemiology",
+    "doi": "10.82556/pbwe-bk06",
     "description": "Dataset combining GDP, year, and drug metabolite\n    concentrations (amphetamine, methamphetamine, cocaine, MDMA)\n    from multiple European regions",
     "preprocessing": ["Lowercase column names", "Lowercase city_name and metabolite_name values", "Removed cannabis and ketamine due to NAs", "Dropped rows with missing values", "80/20 train/test split with seed=123", "NUTS codes converted to factors", "gdp as target variable"],
     "split_strategy": {
@@ -90,11 +90,11 @@
     "missing_value_handling": "Listwise deletion (drop_na)"
   },
   "provenance": {
-    "creation_date": "2026-05-30T16:12:08+0200",
+    "creation_date": "2026-05-30T18:49:24+0200",
     "wasGeneratedBy": {
       "script": "use-case-experiment-reproducible.R",
       "scriptVersion": "3b8b8f3ac46713d0317356da8f9d429e68b745fb",
-      "executionTime": "2026-05-30T16:12:08+0200"
+      "executionTime": "2026-05-30T18:49:24+0200"
     },
     "created_by": [
       {
