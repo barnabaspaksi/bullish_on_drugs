@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Paksi"
+    given-names: "Barnabás"
+    orcid: "https://orcid.org/0009-0001-1032-0177"
+  - family-names: "Vaught"
+      given-names: "Helene Johanna"
+      orcid: "https://orcid.org/0009-0005-8421-9302"
+  - family-names: "Hlushchenko"
+      given-names: "Vlada"
+      orcid: "https://orcid.org/0009-0009-5136-9119"
+  - family-names: "Assmayr"
+      given-names: "Amélie"
+      orcid: "https://orcid.org/0009-0007-0543-4165"
+title: "Predictive Modeling of Regional GDP per Capita based on Wastewater-Based Epidemiology"
+version: "2.0.0"
+doi: "10.5281/zenodo.20464727"
+date-released: 2026-05-30
+url: "https://github.com/barnabaspaksi/bullish_on_drugs"
