@@ -28,3 +28,20 @@ NECESSARY FIXES: Helene should regenerate the schema graph and adjust the SQL fi
  - Documentation template: [document_type]_[subject]_[version].[ext]. Here, keeping documentation for older versions is permissible to minimize search time in commits and reflect the evolution of the project. Document types can include the following: model_card (Model Card), data_dict (Data Dictionary), report (Report).
  - Requirements for the environment should appear in requirements.txt for Python and renv.lock for R in the project root. Other files needed for running the analysis pipeline should be included in the project root.
  - The license should be at the project root. 
+
+## Licences
+
+### Input Data
+Both input datasets are licensed under CC BY 4.0:
+- **EUDA** (wastewater data): source must be acknowledged as "EUDA and SCORE".
+- **Eurostat** (GDP data): source must be acknowledged, changes must be indicated.
+
+Reuse is permitted provided appropriate credit is given.
+
+### Software / Code
+MIT License — chosen for simplicity and full compatibility with the CC BY 4.0 
+input data licence. See [LICENSE](./LICENSE).
+
+### Output Data (models, figures, generated datasets)
+Licensed under CC BY 4.0 — all outputs in the `outputs/` folder are freely 
+reusable with attribution.
