@@ -63,10 +63,10 @@
                     "@id": "https://doi.org/0.82556/pbwe-bk06"
                 },
                 {
-                    "@id": "https://doi.org/10.70124/acbj8-58e25"
+                    "@id": "https://handle.test.datacite.org/10.70124/acbj8-58e25"
                 },
                 {
-                    "@id": "https://doi.org/10.70124/x3jty-5c735"
+                    "@id": "https://handle.test.datacite.org/10.70124/x3jty-5c735"
                 }
             ]
         },
@@ -166,7 +166,7 @@
             ]
         },
         {
-            "@id": "https://doi.org/10.70124/acbj8-58e25",
+            "@id": "https://handle.test.datacite.org/10.70124/acbj8-58e25",
             "@type": "Dataset",
             "name": "Models: Predictive Modeling of Regional GDP based on Wastewater-Based Epidemiology.",
             "description": "Trained machine learning models (Random Forest Regression, Multiple Linear Regression, and a Nested Linear Mixed Model) to explore the relationship between illicit drug consumption and regional economic productivity (GDP) across European cities. The models attempt to predict economic output using wastewater metabolite concentrations (MDMA, amphetamine, cocaine, methamphetamine), temporal data, and NUTS-3 regional administrative codes.",
@@ -193,7 +193,7 @@
             ]
         },
         {
-            "@id": "https://doi.org/10.70124/x3jty-5c735",
+            "@id": "https://handle.test.datacite.org/10.70124/x3jty-5c735",
             "@type": "Dataset",
             "name": "Generated Outputs: Predictive Modeling of Regional GDP based on Wastewater-Based Epidemiology.",
             "description": "Outputs of experiment investigating the relationship between illicit drug metabolite concentrations in municipal wastewater and regional GDP across European cities. The purpose of this dataset is to document the evaluation results and visualizations produced by three regression models (Random Forest Regression, Multiple Linear Regression, and a Nested Linear Mixed Model). ",
@@ -261,10 +261,10 @@
                     "@id": "https://doi.org/0.82556/pbwe-bk06"
                 },
                 {
-                    "@id": "https://doi.org/10.70124/acbj8-58e25"
+                    "@id": "https://handle.test.datacite.org/10.70124/acbj8-58e25"
                 },
                 {
-                    "@id": "https://doi.org/10.70124/x3jty-5c735"
+                    "@id": "https://handle.test.datacite.org/10.70124/x3jty-5c735"
                 }
             ]
         }

@@ -4,7 +4,7 @@
 {{ card_data }}
 ---
 
-# Model Card for {{ model_id \| default("Model ID", true) }}
+# Model Card for `lm_model.rds`: Trained Linear Regression model
 
 <!-- Provide a quick summary of what the model is/does. -->
 
