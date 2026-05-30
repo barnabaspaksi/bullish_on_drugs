@@ -6,7 +6,7 @@ editor_options:
     wrap: sentence
 ---
 
-# Model Card for {{ model_id \| default("Model ID", true) }}
+# Model Card for `rf_model.rds`: Trained Random Forest model (ranger implementation)
 
 <!-- Provide a quick summary of what the model is/does. -->
 
