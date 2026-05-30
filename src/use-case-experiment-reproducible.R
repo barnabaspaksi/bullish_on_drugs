@@ -26,7 +26,7 @@ print(installed_versions)
 #################################
 ### Load data
 setwd(dirname(this.path()))
-final_data_long <- read_csv("../data/processed/joined_data.csv")
+final_data_long <- read_csv("../data/processed/joined_data_DBRepo.csv")
 head(final_data_long)
 
 final_ordered <- final_data_long %>%

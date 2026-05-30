@@ -90,11 +90,11 @@
     "missing_value_handling": "Listwise deletion (drop_na)"
   },
   "provenance": {
-    "creation_date": "2026-05-30T20:04:20+0200",
+    "creation_date": "2026-05-30T20:50:22+0200",
     "wasGeneratedBy": {
       "script": "use-case-experiment-reproducible.R",
       "scriptVersion": "3b8b8f3ac46713d0317356da8f9d429e68b745fb",
-      "executionTime": "2026-05-30T20:04:20+0200"
+      "executionTime": "2026-05-30T20:50:22+0200"
     },
     "created_by": [
       {
