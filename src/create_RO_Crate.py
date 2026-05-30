@@ -99,7 +99,7 @@ def generate_use_case_rocrate():
     output_dataset["isBasedOn"] = [eurostat_gdp, euda_wastewater]
 
     # placeholder for trained model datasets on TUWRD
-    trained_models_doi = "https://doi.org/10.70124/acbj8-58e25"
+    trained_models_doi = "https://handle.test.datacite.org/10.70124/acbj8-58e25"
     models_TUWRD = crate.add(ContextEntity(crate, trained_models_doi, {
         "@type": "Dataset",
         "name": "Models: Predictive Modeling of Regional GDP based on Wastewater-Based Epidemiology.",
@@ -108,7 +108,7 @@ def generate_use_case_rocrate():
     }))
 
     # placeholder for outputs on TUWRD
-    outputs_doi = "https://doi.org/10.70124/x3jty-5c735"
+    outputs_doi = "https://handle.test.datacite.org/10.70124/x3jty-5c735"
     outputs_TUWRD = crate.add(ContextEntity(crate, outputs_doi, {
         "@type": "Dataset",
         "name": "Generated Outputs: Predictive Modeling of Regional GDP based on Wastewater-Based Epidemiology.",
@@ -211,7 +211,7 @@ def generate_use_case_rocrate():
     # Safely write to disk without duplicating local files
     with open("ro-crate-metadata.json", "w", encoding="utf-8") as f:
         json.dump(metadata_dict, f, indent=4)
-        
+
     print("Success! file compiled.")
 
 
