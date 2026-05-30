@@ -1,0 +1,419 @@
+{
+  "project": "Data Stewardship Experiment",
+  "creation_date": "2026-05-30T16:12:08+0200",
+  "dataset_doi": "10.xxxxx/xxxxx",
+  "models": [
+    {
+      "model_id": "RF-GDP-001",
+      "model_name": "Random Forest Regression for GDP Prediction",
+      "algorithm": {
+        "name": "Random Forest",
+        "version": "0.18.0",
+        "implementation": "ranger",
+        "citation": "Wright, M. N., & Ziegler, A. (2017). ranger: \n    A Fast Implementation of Random Forests for High Dimensional \n    Data in C++ and R. Journal of Statistical Software, 77(1), 1-17."
+      },
+      "training_data": {
+        "name": "European GDP and Illicit Drug Concentrations in Wastewater",
+        "doi": "10.xxxxx/xxxxx",
+        "description": "Dataset combining GDP, year, and drug metabolite\n    concentrations (amphetamine, methamphetamine, cocaine, MDMA)\n    from multiple European regions",
+        "preprocessing": ["Lowercase column names", "Lowercase city_name and metabolite_name values", "Removed cannabis and ketamine due to NAs", "Dropped rows with missing values", "80/20 train/test split with seed=123", "NUTS codes converted to factors", "gdp as target variable"],
+        "split_strategy": {
+          "method": "Random sampling without replacement",
+          "train_ratio": 0.8,
+          "seed": 123,
+          "stratification": "None"
+        }
+      },
+      "hyperparameters": {
+        "num_trees": 500,
+        "mtry": {},
+        "min_node_size": 5,
+        "splitrule": "variance",
+        "importance": "impurity",
+        "num_threads": 1,
+        "seed": 123,
+        "replace": false,
+        "sample_fraction": 0.632,
+        "respect_unordered_factors": "ignore"
+      },
+      "evaluation_metrics": {
+        "rmse": [
+          {
+            "rmse": 31249340027.01
+          }
+        ],
+        "rsq": [
+          {
+            "rsq": 0.7296
+          }
+        ],
+        "mae": [
+          {
+            "mae": 22073943574.49
+          }
+        ]
+      },
+      "performance_context": {
+        "test_set_size": 97,
+        "training_set_size": 409,
+        "evaluation_method": "Hold-out test set"
+      },
+      "intended_use": {
+        "purpose": "Estimate GDP based on wastewater drug metabolite concentrations",
+        "domain": "Environmental economics",
+        "scope": "European NUTS code regions with available \n              wastewater monitoring data",
+        "constraints": [
+          "GDP predictions should be interpreted as estimates, \n        not official statistics",
+          "Model assumes linear relationships between drug use and GDP",
+          "Requires complete data for all five drug metabolites"
+        ]
+      },
+      "known_limitations": [
+        "Short Time Series",
+        "Low Number of Observations",
+        "Imperfect estimation of population in catchment area of wastewater \n        treatment plants, especially during events",
+        "Imperfect mapping between data sources via manual mapping",
+        "Limited geographic scope (only NUTS codes present in training data)",
+        "Cannot extrapolate beyond observed GDP range in training data",
+        "Assumes stable relationship between drug use and GDP over time",
+        "Does not account for confounding factors (e.g., tourism, policing strategies)",
+        "Minimum node size of 5 may lead to overfitting in small datasets",
+        "Cannabis and ketamine omitted from analysis"
+      ],
+      "technical_specs": {
+        "input_features": ["ref_year", "mdma", "amphetamine", "cocaine", "methamphetamine", "nuts_code"],
+        "target_variable": "gdp",
+        "feature_types": {
+          "ref_year": "integer",
+          "mdma": "numeric",
+          "amphetamine": "numeric",
+          "cocaine": "numeric",
+          "methamphetamine": "numeric",
+          "nuts_code": "factor (categorical)"
+        },
+        "output_type": "numeric (continuous GDP values)",
+        "missing_value_handling": "Listwise deletion (drop_na)"
+      },
+      "provenance": {
+        "creation_date": "2026-05-30T16:12:08+0200",
+        "wasGeneratedBy": {
+          "script": "use-case-experiment-reproducible.R",
+          "scriptVersion": "3b8b8f3ac46713d0317356da8f9d429e68b745fb",
+          "executionTime": "2026-05-30T16:12:08+0200"
+        },
+        "created_by": [
+          {
+            "name": "Barnabás Paksi",
+            "orcid": "0009-0001-1032-0177",
+            "email": "e11926285@student.tuwien.ac.at",
+            "affiliation": "TU Wien"
+          },
+          {
+            "name": "Helene Johanna Vaught",
+            "orcid": "0009-0005-8421-9302",
+            "email": "e11943054@student.tuwien.ac.at",
+            "affiliation": "TU Wien"
+          },
+          {
+            "name": "Vlada Hlushchenko",
+            "orcid": "0009-0009-5136-9119",
+            "email": "e12545751@student.tuwien.ac.at",
+            "affiliation": "TU Wien"
+          },
+          {
+            "name": "Amélie Assmayr",
+            "orcid": "0009-0007-0543-4165",
+            "email": "e12007770@student.tuwien.ac.at",
+            "affiliation": "TU Wien"
+          }
+        ],
+        "software_environment": "R version 4.6.0 (2026-04-24 ucrt)",
+        "dependencies": ["ranger_0.18.0", "tidymodels_1.5.0", "tidyverse_2.0.0"]
+      },
+      "fair4ml_compliance": {
+        "findable": "Metadata included in RO-Crate with DOI reference,\n    public dataset and code.",
+        "accessible": "Model and metadata deposited in TUWRD (T3.9)",
+        "interoperable": "Standard JSON format, referenced dataset DOI",
+        "reusable": "Clear license, public repository including all code and\n         documentation, intended use, limitations documented,\n         parameters documented, seeds and randomness controlled."
+      }
+    },
+    {
+      "model_id": "LM-GDP-001",
+      "model_name": "Simple Linear Regression for GDP Prediction",
+      "algorithm": {
+        "name": "Multiple Linear Regression",
+        "version": "Base R (stats package)",
+        "implementation": "lm()",
+        "citation": "R Core Team (2024). R: A language and environment for\n    statistical computing. R Foundation for Statistical Computing."
+      },
+      "training_data": {
+        "name": "European GDP and Illicit Drug Concentrations in Wastewater",
+        "doi": "10.xxxxx/xxxxx",
+        "description": "Dataset combining GDP, year, and drug metabolite\n    concentrations (amphetamine, methamphetamine, cocaine, MDMA)\n    from multiple European regions",
+        "preprocessing": ["Lowercase column names", "Lowercase city_name and metabolite_name values", "Removed cannabis and ketamine due to NAs", "Dropped rows with missing values", "80/20 train/test split with seed=123", "NUTS codes converted to factors", "gdp as target variable"],
+        "split_strategy": {
+          "method": "Random sampling without replacement",
+          "train_ratio": 0.8,
+          "seed": 123,
+          "stratification": "None"
+        }
+      },
+      "hyperparameters": {
+        "formula": "gdp ~ ref_year + mdma + amphetamine + \n    cocaine + methamphetamine + nuts_code",
+        "method": "Ordinary Least Squares (OLS)",
+        "intercept": true,
+        "na_action": "na.omit"
+      },
+      "evaluation_metrics": {
+        "adjusted_rsq": 0.9769,
+        "rmse": [
+          {
+            "rmse": 6272378553.33
+          }
+        ],
+        "rsq": [
+          {
+            "rsq": 0.9896
+          }
+        ],
+        "mae": [
+          {
+            "mae": 4554543320.3
+          }
+        ]
+      },
+      "performance_context": {
+        "test_set_size": 97,
+        "training_set_size": 409,
+        "f_statistic": 163.57,
+        "residual_std_error": 8657102161.83
+      },
+      "intended_use": {
+        "purpose": "Baseline linear model for GDP estimation from wastewater data",
+        "domain": "Environmental economics / Public health surveillance",
+        "scope": "European NUTS code regions with available \n              wastewater monitoring data",
+        "constraints": [
+          "Assumes linear relationships between all predictors and GDP",
+          "No interaction terms included",
+          "Standard OLS assumptions apply \n      (normality, homoscedasticity, independence)"
+        ]
+      },
+      "known_limitations": [
+        "Short Time Series",
+        "Low Number of Observations",
+        "Imperfect estimation of population in catchment area of wastewater \n    treatment plants, especially during events",
+        "Imperfect mapping between data sources via manual mapping",
+        "Simple linear model may miss non-linear patterns in the data",
+        "No regularization \n    (susceptible to multicollinearity among drug metabolites)",
+        "Assumes independence of observations \n    (certain cities have multiple sewade treatment plants and concentrations)",
+        "Outliers can have disproportionate influence on coefficients",
+        "Limited predictive performance compared to ensemble methods"
+      ],
+      "technical_specs": {
+        "input_features": ["ref_year", "mdma", "amphetamine", "cocaine", "methamphetamine", "nuts_code"],
+        "target_variable": "gdp",
+        "feature_types": {
+          "ref_year": "integer",
+          "mdma": "numeric",
+          "amphetamine": "numeric",
+          "cocaine": "numeric",
+          "methamphetamine": "numeric",
+          "nuts_code": "factor (treated as dummy variables)"
+        },
+        "output_type": "numeric (continuous GDP values)",
+        "coefficient_summary": {
+          "term": ["(Intercept)", "ref_year", "mdma", "amphetamine", "cocaine", "methamphetamine", "nuts_codeAT122", "nuts_codeAT126", "nuts_codeAT130", "nuts_codeAT211", "nuts_codeAT212", "nuts_codeAT221", "nuts_codeAT224", "nuts_codeAT225", "nuts_codeAT314", "nuts_codeAT323", "nuts_codeAT332", "nuts_codeAT335", "nuts_codeAT342", "nuts_codeBE100", "nuts_codeBE211", "nuts_codeBE236", "nuts_codeBE241", "nuts_codeBE255", "nuts_codeCH011", "nuts_codeCH013", "nuts_codeCH021", "nuts_codeCH033", "nuts_codeCH040", "nuts_codeCH052", "nuts_codeCH055", "nuts_codeCY000", "nuts_codeCZ010", "nuts_codeCZ032", "nuts_codeCZ041", "nuts_codeCZ064", "nuts_codeCZ080", "nuts_codeDE111", "nuts_codeDE142", "nuts_codeDE144", "nuts_codeDE212", "nuts_codeDE254", "nuts_codeDE600", "nuts_codeDE712", "nuts_codeDE803", "nuts_codeDE929", "nuts_codeDEA52", "nuts_codeDEB35", "nuts_codeDEE03", "nuts_codeDEG01", "nuts_codeDK011", "nuts_codeDK031", "nuts_codeDK042", "nuts_codeEE001", "nuts_codeEL303", "nuts_codeEL411", "nuts_codeES114", "nuts_codeES300", "nuts_codeES511", "nuts_codeES513", "nuts_codeES522", "nuts_codeES614", "nuts_codeES620", "nuts_codeFI196", "nuts_codeFI1B1", "nuts_codeFI1C1", "nuts_codeFI1C5", "nuts_codeFI1D5", "nuts_codeFI1D7", "nuts_codeFI1D8", "nuts_codeFI1D9", "nuts_codeFI200", "nuts_codeFR101", "nuts_codeFRI12", "nuts_codeHR035", "nuts_codeHR050", "nuts_codeHU321", "nuts_codeITC4C", "nuts_codeITH10", "nuts_codeLT011", "nuts_codeLT022", "nuts_codeLT023", "nuts_codeLU000", "nuts_codeNL213", "nuts_codeNL321", "nuts_codeNL414", "nuts_codePL213", "nuts_codePT11A", "nuts_codeRO114", "nuts_codeRO321", "nuts_codeRS110", "nuts_codeRS123", "nuts_codeSE110", "nuts_codeSE121", "nuts_codeSE232", "nuts_codeSE313", "nuts_codeSE331", "nuts_codeSI032", "nuts_codeSI034", "nuts_codeSI037", "nuts_codeSI041", "nuts_codeSI042", "nuts_codeSI044", "nuts_codeSK010", "nuts_codeSK021", "nuts_codeTR100", "nuts_codeTR621"],
+          "estimate": [-3953874636986.4795, 1961222305.0512, -522806.5314, -35769766.1427, 6005896.7403, 11665116.3927, -4649040725.1364, 10206297133.8183, 101385423124.8228, 2383675844.4204, -5233332766.0612, 15207345968.3979, -1645483706.808, -5552147417.9014, -4595199156.1362, 11819681929.5118, 6151458110.3272, 152330415.5141, 6071664313.0935, 81051451363.9713, 52134046528.6785, 15422287645.2278, 27249378547.9096, 9274256596.1956, 51738685598.776, 43852888488.2268, 71289022729.8211, 34906189768.9854, 130192880301.8798, 6472551841.1037, 27464416355.1083, 17308161634.3067, 51779905860.1369, -4914378323.3214, -9823766765.8039, 15269454907.117, 7130469761.6161, 52819352456.3008, 4968997869.5775, 682217875.8787, 123488924377.9139, 25404804359.2219, 116069940847.5092, 71336343310.7144, 10500198489.2233, 51219314789.1721, 23756476691.0269, 17335347072.851, 1905830313.2308, -247308488.9469, 58698052393.279, 11570235988.5236, 37051804253.6515, 12570723689.4502, 28897807059.5313, 3286530155.2627, 17902720702.4063, 231414394066.9987, 162738023705.0065, -1565678734.664, 11321581380.7269, 2850903271.9659, 28390734464.1243, 1052178579.1726, 94023894752.9296, 16917071171.051, 2212829371.0516, -5593198657.6698, 5342250950.1878, -4269670143.0925, 11756324101.9361, -4951388647.6565, 217663733414.3843, 51325754787.8712, -6378964321.2165, 15864926184.2628, -4640995814.3739, 177000014521.5508, 16540805050.9146, 17774986808.3817, 4435285402.3538, -1977832921.9167, 67814075619.3798, 25098835245.6999, 8562708343.707, 43171557416.0846, 14301913079.7427, 27312934153.3283, 8207706918.4364, 73474611944.4908, 22094004839.3882, 11241460463.0665, 161170678789.3108, 14438148236.0973, 83391717123.6612, 7781903383.8401, 19218524705.6262, -3215661325.5743, -3066520303.742, -9036842129.084, 9620665616.0685, -11058085346.8177, -10598384476.3094, 19625476772.763, 5316659956.3992, 266099093269.7246, 4412751260.5534],
+          "std.error": [438101015239.4901, 216828616.2518, 27118372.015, 16387026.0527, 4411744.5753, 16393092.7767, 9525180584.236, 9591741843.6524, 7368688812.3156, 7280409060.4353, 5266668676.9266, 5837241510.4488, 6331156065.5929, 7261113061.2714, 7251220616.7767, 7283075826.0221, 5420981650.1501, 6115981257.5274, 5566375271.3279, 5219840596.6075, 7471258234.667, 6778549835.2572, 9604623160.1927, 6360795295.9213, 9748896474.3601, 5705531991.0203, 5369256855.3373, 5939715988.7189, 6063209649.5158, 6678652840.977, 6994333503.0279, 7257264177.8335, 7675101900.8581, 12249157328.6899, 8382150181.2435, 7790342985.4155, 11957489769.4282, 9614427945.3884, 6084239868.07, 6952916260.6705, 5547587049.1385, 6192807986.6426, 9659976514.3991, 9752793729.3052, 9779968602.7376, 9668217778.6244, 5510564412.1897, 10124496439.9456, 6864005562.1922, 6970676347.7988, 5678494477.8706, 7383625290.9691, 9524653250.1926, 7342986205.6991, 5899606188.016, 9561614747.0955, 5195396388.8782, 7537934645.0823, 6142915292.5975, 9953008634.6956, 5190742856.7676, 10230222975.097, 7640674698.6787, 5848570560.8367, 5503308774.5611, 4918446629.5148, 5944912190.1059, 6356299607.8416, 5517573653.889, 5897411050.5611, 5884181022.8562, 6343091439.3617, 5128675895.4238, 6522924377.1561, 9529358707.0036, 5327418538.2665, 9496130794.158, 5410939602.4701, 5528740524.8874, 5117250337.3357, 5563436340.8926, 5826635033.913, 9663799158.2187, 10141158002.1778, 6556508904.7751, 8675182209.3524, 6408624252.149, 4993497148.5893, 9623949679.5978, 7287407141.7282, 9643826965.7415, 9637249325.5717, 7111736997.7187, 9623504997.6533, 7892768243.5848, 10941291238.7985, 7507636002.2575, 5892714443.833, 5584002482.5668, 5559572350.3153, 5261064903.8355, 7382429034.6546, 6178353956.1852, 6833024978.3874, 6366079983.414, 6399627192.3463, 9494301041.2426],
+          "p.value": [2.1561e-17, 1.867e-17, 0.9846, 0.0298, 0.1744, 0.4773, 0.6258, 0.2881, 8.9731e-34, 0.7436, 0.3212, 0.0096, 0.7951, 0.4451, 0.5267, 0.1057, 0.2574, 0.9801, 0.2762, 2.2371e-40, 1.9017e-11, 0.0236, 0.0049, 0.1459, 2.16e-07, 2.1453e-13, 5.2985e-32, 1.1054e-08, 9.6305e-63, 0.3333, 0.0001, 0.0177, 7.7272e-11, 0.6886, 0.2421, 0.0509, 0.5514, 8.3655e-08, 0.4147, 0.9219, 1.2117e-65, 0.0001, 1.9069e-27, 2.3396e-12, 0.2838, 2.2646e-07, 0, 0.0879, 0.7815, 0.9717, 1.2124e-21, 0.1182, 0.0001, 0.0879, 1.5788e-06, 0.7313, 0.0006, 7.2262e-95, 9.3186e-81, 0.8751, 0.0299, 0.7807, 0.0002, 0.8573, 2.918e-46, 0.0007, 0.71, 0.3796, 0.3337, 0.4696, 0.0466, 0.4357, 2.637e-129, 6.4533e-14, 0.5038, 0.0031, 0.6254, 2.8424e-101, 0.003, 0.0006, 0.4259, 0.7345, 1.4933e-11, 0.0139, 0.1926, 1.0897e-06, 0.0264, 9.4669e-08, 0.3944, 8.5186e-21, 0.0227, 0.2443, 4.0697e-67, 0.1346, 2.0634e-22, 0.4775, 0.011, 0.5857, 0.5833, 0.1051, 0.0684, 0.1352, 0.0873, 0.0044, 0.4043, 5.1927e-127, 0.6424]
+        }
+      },
+      "provenance": {
+        "creation_date": "2026-05-30T16:12:08+0200",
+        "wasGeneratedBy": {
+          "script": "use-case-experiment-reproducible.R",
+          "scriptVersion": "3b8b8f3ac46713d0317356da8f9d429e68b745fb",
+          "executionTime": "2026-05-30T16:12:08+0200"
+        },
+        "created_by": [
+          {
+            "name": "Barnabás Paksi",
+            "orcid": "0009-0001-1032-0177",
+            "email": "e11926285@student.tuwien.ac.at",
+            "affiliation": "TU Wien"
+          },
+          {
+            "name": "Helene Johanna Vaught",
+            "orcid": "0009-0005-8421-9302",
+            "email": "e11943054@student.tuwien.ac.at",
+            "affiliation": "TU Wien"
+          },
+          {
+            "name": "Vlada Hlushchenko",
+            "orcid": "0009-0009-5136-9119",
+            "email": "e12545751@student.tuwien.ac.at",
+            "affiliation": "TU Wien"
+          },
+          {
+            "name": "Amélie Assmayr",
+            "orcid": "0009-0007-0543-4165",
+            "email": "e12007770@student.tuwien.ac.at",
+            "affiliation": "TU Wien"
+          }
+        ],
+        "software_environment": {}
+      },
+      "fair4ml_compliance": {
+        "findable": "Metadata included in RO-Crate with DOI reference,\n    public dataset and code.",
+        "accessible": "Model and metadata deposited in TUWRD (T3.9)",
+        "interoperable": "Standard JSON format, referenced dataset DOI",
+        "reusable": "Clear license, public repository including all code and\n         documentation, intended use, limitations documented,\n         parameters documented, seeds and randomness controlled."
+      }
+    },
+    {
+      "model_id": "LMM-GDP-001",
+      "model_name": "Nested Linear Mixed Model for GDP Prediction",
+      "algorithm": {
+        "name": "Linear Mixed Effects Model",
+        "version": "2.0.1",
+        "implementation": "lmer()",
+        "citation": "Bates, D., Mächler, M., Bolker, B., & Walker, S. (2015). \n    Fitting Linear Mixed-Effects Models Using lme4. \n    Journal of Statistical Software, 67(1), 1-48."
+      },
+      "training_data": {
+        "name": "European GDP and Illicit Drug Concentrations in Wastewater",
+        "doi": "10.xxxxx/xxxxx",
+        "description": "Dataset combining GDP, year, and drug metabolite\n    concentrations (amphetamine, methamphetamine, cocaine, MDMA)\n    from multiple European regions",
+        "preprocessing": ["Lowercase column names", "Lowercase city_name and metabolite_name values", "Removed cannabis and ketamine due to NAs", "Dropped rows with missing values", "80/20 train/test split with seed=123", "NUTS codes converted to factors", "gdp as target variable"],
+        "split_strategy": {
+          "method": "Random sampling without replacement",
+          "train_ratio": 0.8,
+          "seed": 123,
+          "stratification": "None"
+        }
+      },
+      "hyperparameters": {
+        "formula": "gdp ~ ref_year + mdma + amphetamine + \n                cocaine + methamphetamine + (1 | nuts_code)",
+        "random_effects": "(1 | nuts_code)",
+        "fixed_effects": ["ref_year", "mdma", "amphetamine", "cocaine", "methamphetamine"],
+        "REML": true,
+        "optimizer": "bobyqa",
+        "max_function_evaluations": 100000,
+        "calc_derivatives": false,
+        "convergence_tolerance": 1e-05
+      },
+      "evaluation_metrics": {
+        "rmse": [
+          {
+            "rmse": 6208319190.05
+          }
+        ],
+        "rsq": [
+          {
+            "rsq": 0.9894
+          }
+        ],
+        "mae": [
+          {
+            "mae": 4488942285
+          }
+        ]
+      },
+      "performance_context": {
+        "test_set_size": 97,
+        "training_set_size": 409,
+        "number_of_groups": 102,
+        "group_var": "nuts_code",
+        "convergence_status": "Success (bobyqa optimizer)"
+      },
+      "intended_use": {
+        "purpose": "Estimate GDP with nested random effects for geographic regions",
+        "domain": "Environmental economics",
+        "scope": "European NUTS code regions with nested structure",
+        "constraints": [
+          "Assumes random intercepts capture between-region variation",
+          "Requires sufficient number of NUTS code groups (>5 recommended)",
+          "Fixed effects assume no cross-level interactions"
+        ]
+      },
+      "known_limitations": [
+        "Short Time Series",
+        "Low Number of Observations",
+        "Imperfect estimation of population in catchment area of wastewater \n    treatment plants, especially during events",
+        "Imperfect mapping between data sources via manual mapping",
+        "Assumes normally distributed random effects and residuals",
+        "Limited to random intercepts only (no random slopes)",
+        "May be computationally intensive with many NUTS code levels",
+        "Allows new levels during prediction but at reduced accuracy",
+        "Sensitive to scaling of continuous predictors"
+      ],
+      "technical_specs": {
+        "input_features": ["ref_year", "mdma", "amphetamine", "cocaine", "methamphetamine", "nuts_code"],
+        "target_variable": "gdp",
+        "feature_types": {
+          "ref_year": "integer",
+          "mdma": "numeric",
+          "amphetamine": "numeric",
+          "cocaine": "numeric",
+          "methamphetamine": "numeric",
+          "nuts_code": "factor (grouping variable)"
+        },
+        "output_type": "numeric (continuous GDP values, \n                   accounting for group-level variation)",
+        "random_effects_variances": {
+          "grp": ["nuts_code", "Residual"],
+          "var1": ["(Intercept)", null],
+          "var2": [null, null],
+          "vcov": [2.7828539091134652e+21, 7.4911939783549239e+19],
+          "sdcor": [52752762099.377, 8655168385.6265]
+        }
+      },
+      "provenance": {
+        "creation_date": "2026-05-30T16:12:08+0200",
+        "wasGeneratedBy": {
+          "script": "use-case-experiment-reproducible.R",
+          "scriptVersion": "3b8b8f3ac46713d0317356da8f9d429e68b745fb",
+          "executionTime": "2026-05-30T16:12:08+0200"
+        },
+        "created_by": [
+          {
+            "name": "Barnabás Paksi",
+            "orcid": "0009-0001-1032-0177",
+            "email": "e11926285@student.tuwien.ac.at",
+            "affiliation": "TU Wien"
+          },
+          {
+            "name": "Helene Johanna Vaught",
+            "orcid": "0009-0005-8421-9302",
+            "email": "e11943054@student.tuwien.ac.at",
+            "affiliation": "TU Wien"
+          },
+          {
+            "name": "Vlada Hlushchenko",
+            "orcid": "0009-0009-5136-9119",
+            "email": "e12545751@student.tuwien.ac.at",
+            "affiliation": "TU Wien"
+          },
+          {
+            "name": "Amélie Assmayr",
+            "orcid": "0009-0007-0543-4165",
+            "email": "e12007770@student.tuwien.ac.at",
+            "affiliation": "TU Wien"
+          }
+        ],
+        "software_environment": {},
+        "dependencies": ["lme4_2.0.1", "tidymodels_1.5.0", "tidyverse_2.0.0"]
+      },
+      "fair4ml_compliance": {
+        "findable": "Metadata included in RO-Crate with DOI reference,\n    public dataset and code.",
+        "accessible": "Model and metadata deposited in TUWRD (T3.9)",
+        "interoperable": "Standard JSON format, referenced dataset DOI",
+        "reusable": "Clear license, public repository including all code and\n         documentation, intended use, limitations documented,\n         parameters documented, seeds and randomness controlled."
+      }
+    }
+  ],
+  "evaluation_summary": {
+    "model": ["Random Forest", "Simple Linear", "Nested Linear"],
+    "rmse": [31249340027.0136, 6272378553.3342, 6208319190.0452],
+    "rsq": [0.7296, 0.9896, 0.9894],
+    "mae": [22073943574.4873, 4554543320.3022, 4488942285.0035]
+  }
+}

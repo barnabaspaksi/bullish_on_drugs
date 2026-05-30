@@ -1,0 +1,134 @@
+{
+  "model_id": "RF-GDP-001",
+  "model_name": "Random Forest Regression for GDP Prediction",
+  "algorithm": {
+    "name": "Random Forest",
+    "version": "0.18.0",
+    "implementation": "ranger",
+    "citation": "Wright, M. N., & Ziegler, A. (2017). ranger: \n    A Fast Implementation of Random Forests for High Dimensional \n    Data in C++ and R. Journal of Statistical Software, 77(1), 1-17."
+  },
+  "training_data": {
+    "name": "European GDP and Illicit Drug Concentrations in Wastewater",
+    "doi": "10.xxxxx/xxxxx",
+    "description": "Dataset combining GDP, year, and drug metabolite\n    concentrations (amphetamine, methamphetamine, cocaine, MDMA)\n    from multiple European regions",
+    "preprocessing": ["Lowercase column names", "Lowercase city_name and metabolite_name values", "Removed cannabis and ketamine due to NAs", "Dropped rows with missing values", "80/20 train/test split with seed=123", "NUTS codes converted to factors", "gdp as target variable"],
+    "split_strategy": {
+      "method": "Random sampling without replacement",
+      "train_ratio": 0.8,
+      "seed": 123,
+      "stratification": "None"
+    }
+  },
+  "hyperparameters": {
+    "num_trees": 500,
+    "mtry": {},
+    "min_node_size": 5,
+    "splitrule": "variance",
+    "importance": "impurity",
+    "num_threads": 1,
+    "seed": 123,
+    "replace": false,
+    "sample_fraction": 0.632,
+    "respect_unordered_factors": "ignore"
+  },
+  "evaluation_metrics": {
+    "rmse": [
+      {
+        "rmse": 31249340027.01
+      }
+    ],
+    "rsq": [
+      {
+        "rsq": 0.7296
+      }
+    ],
+    "mae": [
+      {
+        "mae": 22073943574.49
+      }
+    ]
+  },
+  "performance_context": {
+    "test_set_size": 97,
+    "training_set_size": 409,
+    "evaluation_method": "Hold-out test set"
+  },
+  "intended_use": {
+    "purpose": "Estimate GDP based on wastewater drug metabolite concentrations",
+    "domain": "Environmental economics",
+    "scope": "European NUTS code regions with available \n              wastewater monitoring data",
+    "constraints": [
+      "GDP predictions should be interpreted as estimates, \n        not official statistics",
+      "Model assumes linear relationships between drug use and GDP",
+      "Requires complete data for all five drug metabolites"
+    ]
+  },
+  "known_limitations": [
+    "Short Time Series",
+    "Low Number of Observations",
+    "Imperfect estimation of population in catchment area of wastewater \n        treatment plants, especially during events",
+    "Imperfect mapping between data sources via manual mapping",
+    "Limited geographic scope (only NUTS codes present in training data)",
+    "Cannot extrapolate beyond observed GDP range in training data",
+    "Assumes stable relationship between drug use and GDP over time",
+    "Does not account for confounding factors (e.g., tourism, policing strategies)",
+    "Minimum node size of 5 may lead to overfitting in small datasets",
+    "Cannabis and ketamine omitted from analysis"
+  ],
+  "technical_specs": {
+    "input_features": ["ref_year", "mdma", "amphetamine", "cocaine", "methamphetamine", "nuts_code"],
+    "target_variable": "gdp",
+    "feature_types": {
+      "ref_year": "integer",
+      "mdma": "numeric",
+      "amphetamine": "numeric",
+      "cocaine": "numeric",
+      "methamphetamine": "numeric",
+      "nuts_code": "factor (categorical)"
+    },
+    "output_type": "numeric (continuous GDP values)",
+    "missing_value_handling": "Listwise deletion (drop_na)"
+  },
+  "provenance": {
+    "creation_date": "2026-05-30T16:12:08+0200",
+    "wasGeneratedBy": {
+      "script": "use-case-experiment-reproducible.R",
+      "scriptVersion": "3b8b8f3ac46713d0317356da8f9d429e68b745fb",
+      "executionTime": "2026-05-30T16:12:08+0200"
+    },
+    "created_by": [
+      {
+        "name": "Barnabás Paksi",
+        "orcid": "0009-0001-1032-0177",
+        "email": "e11926285@student.tuwien.ac.at",
+        "affiliation": "TU Wien"
+      },
+      {
+        "name": "Helene Johanna Vaught",
+        "orcid": "0009-0005-8421-9302",
+        "email": "e11943054@student.tuwien.ac.at",
+        "affiliation": "TU Wien"
+      },
+      {
+        "name": "Vlada Hlushchenko",
+        "orcid": "0009-0009-5136-9119",
+        "email": "e12545751@student.tuwien.ac.at",
+        "affiliation": "TU Wien"
+      },
+      {
+        "name": "Amélie Assmayr",
+        "orcid": "0009-0007-0543-4165",
+        "email": "e12007770@student.tuwien.ac.at",
+        "affiliation": "TU Wien"
+      }
+    ],
+    "software_environment": "R version 4.6.0 (2026-04-24 ucrt)",
+    "dependencies": ["ranger_0.18.0", "tidymodels_1.5.0", "tidyverse_2.0.0"]
+  },
+  "fair4ml_compliance": {
+    "findable": "Metadata included in RO-Crate with DOI reference,\n    public dataset and code.",
+    "accessible": "Model and metadata deposited in TUWRD (T3.9)",
+    "interoperable": "Standard JSON format, referenced dataset DOI",
+    "reusable": "Clear license, public repository including all code and\n         documentation, intended use, limitations documented,\n         parameters documented, seeds and randomness controlled."
+  }
+}
