@@ -19,3 +19,21 @@ ww_ref_prepped = ww_ref.sort_values(["city_name", "ref_year", "metabolite_name"]
 ww_prepped = ww.sort_values(["city_name", "ref_year", "metabolite_name"]).reset_index(drop=True)
 
 assert ww_prepped.compare(ww_ref_prepped, keep_equal=True).empty
+
+final_df = pd.read_csv("../data/processed/joined_data.csv")
+final_df_ref = pd.read_csv("../data/processed/joined_data_expected.csv")
+final_df_ref = final_df_ref.rename(columns=rename_cols)
+final_df = final_df.loc[:, final_df_ref.columns]
+final_df["metabolite_name"] = final_df["metabolite_name"].str.lower()
+final_df_ref["metabolite_name"] = final_df_ref["metabolite_name"].str.lower()
+final_df["gdp"] = final_df["gdp"].map(round)
+final_df_ref["gdp"] = final_df_ref["gdp"].map(round)
+print(final_df)
+print(final_df.shape)
+print(final_df_ref)
+print(final_df_ref.shape)
+
+fprep_ref = final_df_ref.sort_values(["city_name", "ref_year", "metabolite_name"]).reset_index(drop=True)
+fprep = final_df.sort_values(["city_name", "ref_year", "metabolite_name"]).reset_index(drop=True)
+
+assert fprep.compare(fprep_ref, keep_equal=True).empty
