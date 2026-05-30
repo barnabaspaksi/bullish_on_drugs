@@ -1,0 +1,272 @@
+{
+    "@context": "https://w3id.org/ro/crate/1.2/context",
+    "@graph": [
+        {
+            "@id": "./",
+            "@type": "Dataset",
+            "datePublished": "2026",
+            "name": "Predictive Modeling of Regional GDP based on Wastewater-Based Epidemiology",
+            "description": "Abstract: This use case explores the correlation relationship between illicit drug use in major European cities and their regional economic productivity (GDP per NUTS3 region)",
+            "creator": [
+                {
+                    "@id": "https://orcid.org/0009-0001-1032-0177"
+                },
+                {
+                    "@id": "https://orcid.org/0009-0005-8421-9302"
+                },
+                {
+                    "@id": "https://orcid.org/0009-0009-5136-9119"
+                },
+                {
+                    "@id": "https://orcid.org/0009-0007-0543-4165"
+                }
+            ],
+            "license": {
+                "@id": "https://creativecommons.org/licenses/by/4.0/"
+            },
+            "url": "https://github.com/barnabaspaksi/bullish_on_drugs",
+            "hasPart": [
+                {
+                    "@id": "data/raw/nama_10r_3gdp__custom_20659344_spreadsheet.csv"
+                },
+                {
+                    "@id": "data/raw/ww2026-all-data_en.csv"
+                },
+                {
+                    "@id": "src/use-case-experiment-reproducible.R"
+                },
+                {
+                    "@id": "outputs/metadata/modelcard_lm.md"
+                },
+                {
+                    "@id": "outputs/metadata/modelcard_lmm.md"
+                },
+                {
+                    "@id": "outputs/metadata/modelcard_rf.md"
+                },
+                {
+                    "@id": "outputs/metadata/lm_model_fair4ml.json"
+                },
+                {
+                    "@id": "outputs/metadata/lmm_model_fair4ml.json"
+                },
+                {
+                    "@id": "outputs/metadata/rf_model_fair4ml.json"
+                },
+                {
+                    "@id": "https://doi.org/10.2908/NAMA_10R_3GDP"
+                },
+                {
+                    "@id": "https://www.euda.europa.eu/data/repository/drugs-municipal-wastewater-europe-source-data-2026_en"
+                },
+                {
+                    "@id": "https://doi.org/0.82556/pbwe-bk06"
+                },
+                {
+                    "@id": "https://doi.org/10.70124/acbj8-58e25"
+                },
+                {
+                    "@id": "https://doi.org/10.70124/x3jty-5c735"
+                }
+            ]
+        },
+        {
+            "@id": "ro-crate-metadata.json",
+            "@type": "CreativeWork",
+            "conformsTo": {
+                "@id": "https://w3id.org/ro/crate/1.1"
+            },
+            "about": {
+                "@id": "./"
+            }
+        },
+        {
+            "@id": "https://creativecommons.org/licenses/by/4.0/",
+            "@type": "CreativeWork",
+            "name": "Creative Commons Attribution 4.0 International",
+            "description": "CC-BY-4.0"
+        },
+        {
+            "@id": "https://orcid.org/0009-0001-1032-0177",
+            "@type": "Person",
+            "name": "Barnab\u00e1s Paksi",
+            "affiliation": "TU Wien"
+        },
+        {
+            "@id": "https://orcid.org/0009-0005-8421-9302",
+            "@type": "Person",
+            "name": "Helene Vaught",
+            "affiliation": "TU Wien"
+        },
+        {
+            "@id": "https://orcid.org/0009-0009-5136-9119",
+            "@type": "Person",
+            "name": "Vlada Hlushchenko",
+            "affiliation": "TU Wien"
+        },
+        {
+            "@id": "https://orcid.org/0009-0007-0543-4165",
+            "@type": "Person",
+            "name": "Am\u00e9lie Assmayr",
+            "affiliation": "TU Wien"
+        },
+        {
+            "@id": "https://doi.org/10.2908/NAMA_10R_3GDP",
+            "@type": "Dataset",
+            "name": "Gross domestic product (GDP) at current market prices by NUTS 3 regions",
+            "publisher": "Eurostat",
+            "identifier": "10.2908/NAMA_10R_3GDP",
+            "description": "Economic baseline metrics for European regions at NUTS-3 level."
+        },
+        {
+            "@id": "https://www.euda.europa.eu/data/repository/drugs-municipal-wastewater-europe-source-data-2026_en",
+            "@type": "Dataset",
+            "name": "Drugs in municipal wastewater in Europe: Source data 2026",
+            "publisher": "EUDA & SCORE",
+            "description": "Mass loads (mg/1000p/day) of illicit drug target metabolites captured via wastewater tracking."
+        },
+        {
+            "@id": "data/raw/nama_10r_3gdp__custom_20659344_spreadsheet.csv",
+            "@type": "File",
+            "name": "Gross domestic product (GDP) at current market prices by NUTS 3 regions",
+            "description": "A static snapshot of the Eurostat data downloaded for this specific experiment.",
+            "isBasedOn": {
+                "@id": "https://doi.org/10.2908/NAMA_10R_3GDP"
+            }
+        },
+        {
+            "@id": "data/raw/ww2026-all-data_en.csv",
+            "@type": "File",
+            "name": "Drugs in municipal wastewater in Europe: Source data 2026",
+            "description": "A static snapshot of the EUDA/SCORE data downloaded for this specific experiment.",
+            "isBasedOn": {
+                "@id": "https://www.euda.europa.eu/data/repository/drugs-municipal-wastewater-europe-source-data-2026_en"
+            }
+        },
+        {
+            "@id": "src/use-case-experiment-reproducible.R",
+            "@type": "File",
+            "name": "Data Stewardship Experiment",
+            "encodingFormat": "text/x-r",
+            "description": "Runs the experiment: performs data loading, NUTS-3 merging, plotting, and executes ML models (Random Forest, MLR, LMM)."
+        },
+        {
+            "@id": "https://doi.org/0.82556/pbwe-bk06",
+            "@type": "Dataset",
+            "name": "Merged Longitudinal Wastewater and GDP NUTS-3 Frame",
+            "description": "Republished active filtered subset utilized in this longitudinal frame, stored inside DBRepo Container ID 6cfb3b8e-1792-4e46-871a-f3d103527203.",
+            "license": "CC-BY-4.0",
+            "isBasedOn": [
+                {
+                    "@id": "https://doi.org/10.2908/NAMA_10R_3GDP"
+                },
+                {
+                    "@id": "https://www.euda.europa.eu/data/repository/drugs-municipal-wastewater-europe-source-data-2026_en"
+                }
+            ]
+        },
+        {
+            "@id": "https://doi.org/10.70124/acbj8-58e25",
+            "@type": "Dataset",
+            "name": "Models: Predictive Modeling of Regional GDP based on Wastewater-Based Epidemiology.",
+            "description": "Trained machine learning models (Random Forest Regression, Multiple Linear Regression, and a Nested Linear Mixed Model) to explore the relationship between illicit drug consumption and regional economic productivity (GDP) across European cities. The models attempt to predict economic output using wastewater metabolite concentrations (MDMA, amphetamine, cocaine, methamphetamine), temporal data, and NUTS-3 regional administrative codes.",
+            "identifier": "10.5072/tuwrd.placeholder.models",
+            "subjectOf": [
+                {
+                    "@id": "outputs/metadata/modelcard_rf.md"
+                },
+                {
+                    "@id": "outputs/metadata/modelcard_lm.md"
+                },
+                {
+                    "@id": "outputs/metadata/modelcard_lmm.md"
+                },
+                {
+                    "@id": "outputs/metadata/rf_model_fair4ml.json"
+                },
+                {
+                    "@id": "outputs/metadata/lm_model_fair4ml.json"
+                },
+                {
+                    "@id": "outputs/metadata/lmm_model_fair4ml.json"
+                }
+            ]
+        },
+        {
+            "@id": "https://doi.org/10.70124/x3jty-5c735",
+            "@type": "Dataset",
+            "name": "Generated Outputs: Predictive Modeling of Regional GDP based on Wastewater-Based Epidemiology.",
+            "description": "Outputs of experiment investigating the relationship between illicit drug metabolite concentrations in municipal wastewater and regional GDP across European cities. The purpose of this dataset is to document the evaluation results and visualizations produced by three regression models (Random Forest Regression, Multiple Linear Regression, and a Nested Linear Mixed Model). ",
+            "identifier": "10.5072/tuwrd.placeholder.models"
+        },
+        {
+            "@id": "outputs/metadata/modelcard_lm.md",
+            "@type": "File",
+            "name": "Model Card for Trained Linear Regression model",
+            "encodingFormat": "text/markdown",
+            "description": "Model card describing intended use, training data, evaluation metrics, and limitations."
+        },
+        {
+            "@id": "outputs/metadata/modelcard_lmm.md",
+            "@type": "File",
+            "name": "Model Card for Trained Nested Linear Mixed Model",
+            "encodingFormat": "text/markdown",
+            "description": "Model card describing intended use, training data, evaluation metrics, and limitations."
+        },
+        {
+            "@id": "outputs/metadata/modelcard_rf.md",
+            "@type": "File",
+            "name": "Model Card for Trained Random Forest model (ranger implementation)",
+            "encodingFormat": "text/markdown",
+            "description": "Model card describing intended use, training data, evaluation metrics, and limitations."
+        },
+        {
+            "@id": "outputs/metadata/lm_model_fair4ml.json",
+            "@type": "File",
+            "name": "FAIR4ML Metadata for Trained Linear Regression model",
+            "encodingFormat": "application/json",
+            "description": "FAIR4ML-compliant metadata for the trained Linear Regression model."
+        },
+        {
+            "@id": "outputs/metadata/lmm_model_fair4ml.json",
+            "@type": "File",
+            "name": "FAIR4ML Metadata for Trained Nested Linear Mixed Model",
+            "encodingFormat": "application/json",
+            "description": "FAIR4ML-compliant metadata for the trained  Nested Linear Mixed Model."
+        },
+        {
+            "@id": "outputs/metadata/rf_model_fair4ml.json",
+            "@type": "File",
+            "name": "FAIR4ML Metadata for Trained Random Forest Model",
+            "encodingFormat": "application/json",
+            "description": "FAIR4ML-compliant metadata for the trained Random Forest model (ranger implementation)."
+        },
+        {
+            "@id": "#ComputationalAnalysis",
+            "@type": "CreateAction",
+            "name": "Execution of R modeling scripts calculating Predictive Modeling of Regional GDP based on Wastewater-Based Epidemiology",
+            "instrument": {
+                "@id": "src/use-case-experiment-reproducible.R"
+            },
+            "object": [
+                {
+                    "@id": "https://doi.org/10.2908/NAMA_10R_3GDP"
+                },
+                {
+                    "@id": "https://www.euda.europa.eu/data/repository/drugs-municipal-wastewater-europe-source-data-2026_en"
+                }
+            ],
+            "result": [
+                {
+                    "@id": "https://doi.org/0.82556/pbwe-bk06"
+                },
+                {
+                    "@id": "https://doi.org/10.70124/acbj8-58e25"
+                },
+                {
+                    "@id": "https://doi.org/10.70124/x3jty-5c735"
+                }
+            ]
+        }
+    ]
+}
