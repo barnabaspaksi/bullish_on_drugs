@@ -1,0 +1,3211 @@
+city,year,metabolite_name,daily_mean_concentration
+Aalborg,2024,mdma,18.38
+Aalborg,2024,amphetamine,112.76
+Aalborg,2024,cannabis,90.62
+Aalborg,2024,cocaine,488.12
+Aalborg,2024,methamphetamine,4.26
+Aalborg,2024,ketamine,30.39
+Aarhus,2023,mdma,17.7
+Aarhus,2023,amphetamine,83.32
+Aarhus,2023,methamphetamine,1.81
+Aarhus,2023,ketamine,4.92
+Aarhus,2024,mdma,12.33
+Aarhus,2024,amphetamine,74.1
+Aarhus,2024,cannabis,65.53
+Aarhus,2024,cocaine,287.21
+Aarhus,2024,methamphetamine,6.72
+Aarhus,2024,ketamine,3.4
+Adana,2019,mdma,14.51
+Adana,2019,amphetamine,0.54
+Adana,2019,cannabis,15.9
+Adana,2019,cocaine,3.11
+Adana,2020,mdma,30.93
+Adana,2020,cannabis,15.89
+Adana,2020,cocaine,4.89
+Adana,2021,mdma,13.68
+Adana,2021,amphetamine,2.64
+Adana,2021,cannabis,37.11
+Adana,2021,cocaine,5.71
+Adana,2021,methamphetamine,18.67
+Adana,2022,mdma,8.48
+Adana,2022,cocaine,9.09
+Adana,2022,methamphetamine,46.21
+Amsterdam,2011,mdma,77.24
+Amsterdam,2011,amphetamine,123.57
+Amsterdam,2011,cannabis,191.77
+Amsterdam,2011,cocaine,644.1
+Amsterdam,2011,methamphetamine,0
+Amsterdam,2012,mdma,99.84
+Amsterdam,2012,amphetamine,27.59
+Amsterdam,2012,cannabis,178.95
+Amsterdam,2012,cocaine,650.49
+Amsterdam,2012,methamphetamine,6.41
+Amsterdam,2013,mdma,89.25
+Amsterdam,2013,amphetamine,70.81
+Amsterdam,2013,cocaine,393
+Amsterdam,2013,methamphetamine,5.24
+Amsterdam,2014,mdma,150.51
+Amsterdam,2014,amphetamine,89.94
+Amsterdam,2014,cocaine,716.38
+Amsterdam,2014,methamphetamine,2.96
+Amsterdam,2015,mdma,166.16
+Amsterdam,2015,amphetamine,59.06
+Amsterdam,2015,cocaine,641.72
+Amsterdam,2015,methamphetamine,6.96
+Amsterdam,2017,mdma,230.29
+Amsterdam,2017,amphetamine,123.29
+Amsterdam,2017,cocaine,734.04
+Amsterdam,2017,methamphetamine,14.01
+Amsterdam,2018,mdma,182.97
+Amsterdam,2018,amphetamine,154.26
+Amsterdam,2018,cannabis,264.22
+Amsterdam,2018,cocaine,932.36
+Amsterdam,2018,methamphetamine,28.58
+Amsterdam,2019,mdma,287.44
+Amsterdam,2019,amphetamine,164.43
+Amsterdam,2019,cannabis,260.78
+Amsterdam,2019,cocaine,986.15
+Amsterdam,2019,methamphetamine,31.49
+Amsterdam,2020,mdma,137.89
+Amsterdam,2020,amphetamine,107.6
+Amsterdam,2020,cannabis,247.53
+Amsterdam,2020,cocaine,768.64
+Amsterdam,2020,methamphetamine,26.53
+Amsterdam,2021,mdma,125
+Amsterdam,2021,amphetamine,146.77
+Amsterdam,2021,cannabis,157.64
+Amsterdam,2021,cocaine,886.83
+Amsterdam,2021,methamphetamine,38.18
+Amsterdam,2022,mdma,182.32
+Amsterdam,2022,amphetamine,148.8
+Amsterdam,2022,cannabis,169.39
+Amsterdam,2022,cocaine,1142.43
+Amsterdam,2022,methamphetamine,39.96
+Amsterdam,2023,mdma,194.56
+Amsterdam,2023,amphetamine,122.02
+Amsterdam,2023,cannabis,195.74
+Amsterdam,2023,cocaine,1209.96
+Amsterdam,2023,methamphetamine,40.62
+Amsterdam,2024,mdma,282.51
+Amsterdam,2024,amphetamine,172.25
+Amsterdam,2024,cannabis,319.46
+Amsterdam,2024,cocaine,1206.28
+Amsterdam,2024,methamphetamine,64.4
+Amsterdam,2024,ketamine,132.21
+Ankara,2023,mdma,8.81
+Ankara,2023,amphetamine,8.69
+Ankara,2023,cannabis,24.4
+Ankara,2023,cocaine,10.61
+Ankara,2023,methamphetamine,15.13
+Ankara,2024,mdma,11.44
+Ankara,2024,amphetamine,6.73
+Ankara,2024,cannabis,16.86
+Ankara,2024,cocaine,14.38
+Antwerp Zuid,2011,mdma,52.14
+Antwerp Zuid,2011,amphetamine,277.18
+Antwerp Zuid,2011,cannabis,0
+Antwerp Zuid,2011,cocaine,721.18
+Antwerp Zuid,2011,methamphetamine,5.46
+Antwerp Zuid,2012,mdma,65.84
+Antwerp Zuid,2012,amphetamine,159.47
+Antwerp Zuid,2012,cannabis,124.7
+Antwerp Zuid,2012,cocaine,742.05
+Antwerp Zuid,2012,methamphetamine,6.33
+Antwerp Zuid,2013,mdma,72.59
+Antwerp Zuid,2013,amphetamine,185.11
+Antwerp Zuid,2013,cannabis,129.62
+Antwerp Zuid,2013,cocaine,836.79
+Antwerp Zuid,2013,methamphetamine,5.76
+Antwerp Zuid,2014,mdma,58.82
+Antwerp Zuid,2014,amphetamine,212.95
+Antwerp Zuid,2014,cocaine,632.69
+Antwerp Zuid,2014,methamphetamine,23.11
+Antwerp Zuid,2015,mdma,71.98
+Antwerp Zuid,2015,amphetamine,250.36
+Antwerp Zuid,2015,cocaine,621.12
+Antwerp Zuid,2015,methamphetamine,8.81
+Antwerp Zuid,2016,mdma,98.29
+Antwerp Zuid,2016,amphetamine,199.27
+Antwerp Zuid,2016,cocaine,914.79
+Antwerp Zuid,2016,methamphetamine,9.25
+Antwerp Zuid,2017,mdma,95.29
+Antwerp Zuid,2017,amphetamine,268.75
+Antwerp Zuid,2017,cocaine,822.93
+Antwerp Zuid,2017,methamphetamine,22.32
+Antwerp Zuid,2018,amphetamine,181.44
+Antwerp Zuid,2018,cocaine,771.79
+Antwerp Zuid,2018,methamphetamine,17.5
+Antwerp Zuid,2019,mdma,119.24
+Antwerp Zuid,2019,amphetamine,302.02
+Antwerp Zuid,2019,cocaine,1275.66
+Antwerp Zuid,2019,methamphetamine,28.98
+Antwerp Zuid,2020,mdma,79.38
+Antwerp Zuid,2020,amphetamine,346.74
+Antwerp Zuid,2020,cocaine,1174.88
+Antwerp Zuid,2020,methamphetamine,39.01
+Antwerp Zuid,2021,mdma,92.46
+Antwerp Zuid,2021,amphetamine,426.1
+Antwerp Zuid,2021,cocaine,1581.88
+Antwerp Zuid,2021,methamphetamine,92.49
+Antwerp Zuid,2022,mdma,134.12
+Antwerp Zuid,2022,amphetamine,524.99
+Antwerp Zuid,2022,cocaine,2381.39
+Antwerp Zuid,2022,methamphetamine,51.87
+Antwerp Zuid,2023,mdma,318.23
+Antwerp Zuid,2023,amphetamine,391.42
+Antwerp Zuid,2023,cocaine,1721.58
+Antwerp Zuid,2023,methamphetamine,44.4
+Antwerp Zuid,2023,ketamine,88.47
+Antwerp Zuid,2024,mdma,140.31
+Antwerp Zuid,2024,amphetamine,376.09
+Antwerp Zuid,2024,cocaine,1996.98
+Antwerp Zuid,2024,methamphetamine,93.94
+Antwerp Zuid,2024,ketamine,71.46
+Athens,2013,mdma,2.46
+Athens,2013,amphetamine,16.05
+Athens,2013,cannabis,103.56
+Athens,2013,cocaine,59.21
+Athens,2013,methamphetamine,4.76
+Athens,2014,mdma,4.4
+Athens,2014,amphetamine,16.84
+Athens,2014,cocaine,80.06
+Athens,2014,methamphetamine,5.3
+Athens,2015,mdma,3.43
+Athens,2015,amphetamine,10.43
+Athens,2015,cocaine,63.03
+Athens,2015,methamphetamine,4.4
+Athens,2016,mdma,2.53
+Athens,2016,amphetamine,4.61
+Athens,2016,cocaine,30.41
+Athens,2016,methamphetamine,2.97
+Athens,2017,mdma,2.49
+Athens,2017,amphetamine,2.24
+Athens,2017,cocaine,38.28
+Athens,2017,methamphetamine,3.98
+Athens,2018,mdma,4.7
+Athens,2018,amphetamine,8.64
+Athens,2018,cannabis,50.85
+Athens,2019,mdma,6.36
+Athens,2019,cannabis,52.56
+Athens,2019,cocaine,55.91
+Athens,2019,methamphetamine,11.32
+Athens,2020,cannabis,41.56
+Athens,2020,methamphetamine,18.31
+Athens,2021,mdma,3.38
+Athens,2021,amphetamine,12.13
+Athens,2021,cannabis,38.73
+Athens,2021,cocaine,95.85
+Athens,2021,methamphetamine,10.61
+Athens,2022,mdma,2.39
+Athens,2022,amphetamine,4.93
+Athens,2022,cocaine,103.99
+Athens,2022,ketamine,0
+Athens,2023,mdma,3.97
+Athens,2023,cocaine,133.39
+Athens,2023,ketamine,0
+Athens,2024,mdma,7.77
+Athens,2024,amphetamine,12.98
+Athens,2024,cannabis,36.9
+Athens,2024,cocaine,181.21
+Athens,2024,methamphetamine,20.35
+Athens,2024,ketamine,0
+Barcelona,2011,mdma,18.73
+Barcelona,2011,amphetamine,15.41
+Barcelona,2011,cannabis,108.63
+Barcelona,2011,cocaine,421.68
+Barcelona,2011,methamphetamine,8.43
+Barcelona,2012,mdma,27.62
+Barcelona,2012,amphetamine,13.37
+Barcelona,2012,cannabis,78.52
+Barcelona,2012,cocaine,400.59
+Barcelona,2012,methamphetamine,26.55
+Barcelona,2013,mdma,31.41
+Barcelona,2013,amphetamine,21.11
+Barcelona,2013,cannabis,126.09
+Barcelona,2013,cocaine,537.98
+Barcelona,2013,methamphetamine,26.51
+Barcelona,2014,mdma,30.35
+Barcelona,2014,amphetamine,29.79
+Barcelona,2014,cocaine,461.1
+Barcelona,2014,methamphetamine,22.15
+Barcelona,2015,mdma,33.82
+Barcelona,2015,amphetamine,30.25
+Barcelona,2015,cocaine,443.56
+Barcelona,2015,methamphetamine,33.38
+Barcelona,2016,mdma,46.79
+Barcelona,2016,amphetamine,45.64
+Barcelona,2016,cocaine,699.1
+Barcelona,2016,methamphetamine,24.05
+Barcelona,2017,mdma,48.06
+Barcelona,2017,amphetamine,42.32
+Barcelona,2017,cocaine,965.19
+Barcelona,2017,methamphetamine,48.95
+Barcelona,2018,mdma,46.77
+Barcelona,2018,amphetamine,35.2
+Barcelona,2018,cannabis,230.82
+Barcelona,2018,cocaine,733.19
+Barcelona,2018,methamphetamine,47.88
+Barcelona,2019,mdma,54.76
+Barcelona,2019,amphetamine,32.27
+Barcelona,2019,cannabis,149.76
+Barcelona,2019,cocaine,700.3
+Barcelona,2019,methamphetamine,106.83
+Barcelona,2021,mdma,25.43
+Barcelona,2021,amphetamine,29.42
+Barcelona,2021,cocaine,665.38
+Barcelona,2021,methamphetamine,62.13
+Barcelona,2022,mdma,45.53
+Barcelona,2022,amphetamine,24.8
+Barcelona,2022,cannabis,151.1
+Barcelona,2022,cocaine,622.26
+Barcelona,2022,methamphetamine,56.09
+Barcelona,2022,ketamine,29.45
+Barcelona,2023,mdma,54.82
+Barcelona,2023,amphetamine,36.63
+Barcelona,2023,cannabis,220.63
+Barcelona,2023,cocaine,619.47
+Barcelona,2023,methamphetamine,59.9
+Barcelona,2023,ketamine,52.18
+Barcelona,2024,mdma,47.17
+Barcelona,2024,amphetamine,41.91
+Barcelona,2024,cannabis,220.68
+Barcelona,2024,cocaine,349.44
+Barcelona,2024,methamphetamine,52.36
+Barcelona,2024,ketamine,55.96
+Basel,2012,mdma,14.61
+Basel,2012,amphetamine,0
+Basel,2012,cocaine,281.22
+Basel,2012,methamphetamine,0
+Basel,2013,mdma,23.09
+Basel,2013,amphetamine,33.89
+Basel,2013,cocaine,436.64
+Basel,2013,methamphetamine,12.94
+Basel,2014,mdma,23.36
+Basel,2014,amphetamine,16.56
+Basel,2014,cocaine,453.47
+Basel,2014,methamphetamine,14.13
+Basel,2015,mdma,9.55
+Basel,2015,amphetamine,39.5
+Basel,2015,cocaine,42.51
+Basel,2015,methamphetamine,60.67
+Basel,2016,mdma,24.77
+Basel,2016,amphetamine,27.4
+Basel,2016,cocaine,435.17
+Basel,2016,methamphetamine,18.97
+Basel,2017,mdma,31.31
+Basel,2017,amphetamine,31.54
+Basel,2017,cocaine,562.86
+Basel,2017,methamphetamine,37.04
+Basel,2018,mdma,22.92
+Basel,2018,amphetamine,37.03
+Basel,2018,cocaine,585.35
+Basel,2019,mdma,21.94
+Basel,2019,amphetamine,35.16
+Basel,2019,cannabis,18.37
+Basel,2019,cocaine,716.63
+Basel,2019,methamphetamine,37.37
+Basel,2021,mdma,17.65
+Basel,2021,amphetamine,39.77
+Basel,2021,cocaine,708.08
+Basel,2021,methamphetamine,53.6
+Basel,2022,mdma,21.68
+Basel,2022,amphetamine,45.85
+Basel,2022,cannabis,132.45
+Basel,2022,cocaine,837.83
+Basel,2022,methamphetamine,34.5
+Basel,2023,mdma,16.26
+Basel,2023,amphetamine,20.01
+Basel,2023,cannabis,56.09
+Basel,2023,cocaine,559.98
+Basel,2023,methamphetamine,18.22
+Basel,2023,ketamine,14.05
+Basel,2024,mdma,14.81
+Basel,2024,amphetamine,22.53
+Basel,2024,cannabis,30.7
+Basel,2024,cocaine,569.48
+Basel,2024,methamphetamine,14.59
+Basel,2024,ketamine,15.99
+Belgrade,2013,mdma,14.81
+Belgrade,2013,amphetamine,16.7
+Belgrade,2013,cannabis,16.92
+Belgrade,2013,cocaine,40.69
+Belgrade,2013,methamphetamine,0
+Bergen (2),2024,mdma,36.65
+Bergen (2),2024,amphetamine,430.06
+Bergen (2),2024,cannabis,132.72
+Bergen (2),2024,cocaine,515.61
+Bergen (2),2024,methamphetamine,0
+Bergen (2),2024,ketamine,37.9
+Berne,2012,mdma,19.22
+Berne,2012,amphetamine,33.05
+Berne,2012,cocaine,265.5
+Berne,2012,methamphetamine,19.55
+Berne,2013,mdma,27.69
+Berne,2013,amphetamine,19.06
+Berne,2013,cocaine,264.34
+Berne,2013,methamphetamine,16.01
+Berne,2014,mdma,18.83
+Berne,2014,amphetamine,18.12
+Berne,2014,cocaine,365.08
+Berne,2014,methamphetamine,10.23
+Berne,2015,mdma,12.5
+Berne,2015,amphetamine,26.15
+Berne,2015,cocaine,228.93
+Berne,2015,methamphetamine,12.51
+Berne,2016,mdma,19.55
+Berne,2016,amphetamine,24.17
+Berne,2016,cocaine,325.71
+Berne,2016,methamphetamine,8.51
+Berne,2017,mdma,33
+Berne,2017,amphetamine,53.31
+Berne,2017,cocaine,527.84
+Berne,2017,methamphetamine,25.72
+Berne,2018,mdma,28.05
+Berne,2018,amphetamine,37.4
+Berne,2018,cocaine,499.92
+Berne,2019,mdma,18.65
+Berne,2019,amphetamine,54.7
+Berne,2019,cannabis,21.35
+Berne,2019,cocaine,485.85
+Berne,2019,methamphetamine,20.27
+Berne,2020,mdma,18.33
+Berne,2020,amphetamine,55.78
+Berne,2020,cannabis,11.92
+Berne,2020,cocaine,567.18
+Berne,2020,methamphetamine,28.61
+Berne,2021,mdma,19.19
+Berne,2021,amphetamine,58.39
+Berne,2021,cocaine,501.37
+Berne,2021,methamphetamine,42.34
+Berne,2022,mdma,21
+Berne,2022,amphetamine,62.44
+Berne,2022,cannabis,110.16
+Berne,2022,cocaine,535.64
+Berne,2022,methamphetamine,28.58
+Berne,2023,mdma,17.18
+Berne,2023,amphetamine,51.93
+Berne,2023,cannabis,85.71
+Berne,2023,cocaine,631.37
+Berne,2023,methamphetamine,22.53
+Berne,2023,ketamine,11.17
+Berne,2024,mdma,25.98
+Berne,2024,amphetamine,62.87
+Berne,2024,cannabis,47.01
+Berne,2024,cocaine,660.77
+Berne,2024,methamphetamine,24.34
+Berne,2024,ketamine,11.33
+Bologna,2024,mdma,12.92
+Bologna,2024,amphetamine,2.9
+Bologna,2024,cannabis,82.04
+Bologna,2024,cocaine,531.55
+Bologna,2024,methamphetamine,23.46
+Bologna,2024,ketamine,31.81
+Bordeaux I,2016,mdma,13.82
+Bordeaux I,2016,amphetamine,0
+Bordeaux I,2016,cocaine,246.03
+Bordeaux I,2016,methamphetamine,0
+Bordeaux I,2017,mdma,18.61
+Bordeaux I,2017,amphetamine,0
+Bordeaux I,2017,cocaine,263.29
+Bordeaux I,2017,methamphetamine,0
+Bordeaux I,2018,mdma,26.73
+Bordeaux I,2018,amphetamine,0
+Bordeaux I,2018,cannabis,164.91
+Bordeaux I,2018,cocaine,201.61
+Bordeaux I,2018,methamphetamine,0
+Bordeaux I,2019,mdma,36.89
+Bordeaux I,2019,amphetamine,0
+Bordeaux I,2019,cannabis,171.25
+Bordeaux I,2019,cocaine,256.76
+Bordeaux I,2019,methamphetamine,0
+Bozen,2018,mdma,5.01
+Bozen,2018,amphetamine,2.2
+Bozen,2018,cannabis,45.7
+Bozen,2018,cocaine,393.16
+Bozen,2018,methamphetamine,1.07
+Bozen,2019,mdma,4.84
+Bozen,2019,amphetamine,1.83
+Bozen,2019,cannabis,48.9
+Bozen,2019,cocaine,377.79
+Bozen,2019,methamphetamine,0
+Bozen,2020,mdma,2.03
+Bozen,2020,amphetamine,1.99
+Bozen,2020,cannabis,33.86
+Bozen,2020,cocaine,333.1
+Bozen,2020,methamphetamine,1.32
+Bozen,2021,mdma,1.36
+Bozen,2021,amphetamine,5.68
+Bozen,2021,cannabis,38.38
+Bozen,2021,cocaine,367.1
+Bozen,2021,methamphetamine,1.74
+Bozen,2022,mdma,3.39
+Bozen,2022,amphetamine,0
+Bozen,2022,cannabis,43.44
+Bozen,2022,cocaine,366.87
+Bozen,2022,methamphetamine,0.54
+Bozen,2023,mdma,5.61
+Bozen,2023,amphetamine,2.56
+Bozen,2023,cannabis,57.71
+Bozen,2023,cocaine,447.22
+Bozen,2023,methamphetamine,0
+Bozen,2024,mdma,7.68
+Bozen,2024,amphetamine,2.75
+Bozen,2024,cannabis,52.72
+Bozen,2024,cocaine,415.08
+Bozen,2024,methamphetamine,1.06
+Bratislava C,2017,mdma,10.15
+Bratislava C,2017,amphetamine,9.34
+Bratislava C,2017,cocaine,89.22
+Bratislava C,2017,methamphetamine,120
+Bratislava C,2018,mdma,13.72
+Bratislava C,2018,amphetamine,20.44
+Bratislava C,2018,cannabis,41.84
+Bratislava C,2018,cocaine,107.08
+Bratislava C,2018,methamphetamine,144.02
+Bratislava C,2019,cannabis,33.69
+Bratislava C,2019,cocaine,69.94
+Bratislava C,2021,mdma,4.38
+Bratislava C,2021,amphetamine,12.83
+Bratislava C,2021,cannabis,20.84
+Bratislava C,2021,cocaine,76.17
+Bratislava C,2021,methamphetamine,187.35
+Bratislava C,2022,mdma,12.21
+Bratislava C,2022,amphetamine,21.64
+Bratislava C,2022,cannabis,41.64
+Bratislava C,2022,cocaine,226.52
+Bratislava C,2023,mdma,13.9
+Bratislava C,2023,cannabis,34.3
+Bratislava C,2023,cocaine,194.71
+Bratislava C,2023,methamphetamine,240.97
+Bratislava C,2023,ketamine,3.71
+Bratislava C,2024,mdma,18.07
+Bratislava C,2024,amphetamine,12.47
+Bratislava C,2024,cannabis,58.46
+Bratislava C,2024,cocaine,316.79
+Bratislava C,2024,methamphetamine,295.37
+Bratislava C,2024,ketamine,5.3
+Brno,2017,mdma,25.38
+Brno,2017,amphetamine,9.02
+Brno,2017,cocaine,24.21
+Brno,2017,methamphetamine,185.67
+Brno,2018,mdma,22.58
+Brno,2018,amphetamine,15.7
+Brno,2018,cannabis,34.97
+Brno,2018,cocaine,31.78
+Brno,2018,methamphetamine,114.65
+Brno,2019,cannabis,41.98
+Brno,2019,cocaine,41.76
+Brno,2021,mdma,26.36
+Brno,2021,amphetamine,47.06
+Brno,2021,cannabis,83.8
+Brno,2021,cocaine,74.87
+Brno,2021,methamphetamine,545.74
+Brno,2022,mdma,16.58
+Brno,2022,amphetamine,33.49
+Brno,2022,cannabis,49.7
+Brno,2022,cocaine,91.31
+Brno,2022,ketamine,1.28
+Brno,2023,mdma,15.51
+Brno,2023,cannabis,45.5
+Brno,2023,cocaine,115.61
+Brno,2023,methamphetamine,307.73
+Brno,2023,ketamine,2.01
+Brno,2024,mdma,16.12
+Brno,2024,amphetamine,26.51
+Brno,2024,cannabis,72.31
+Brno,2024,cocaine,193.39
+Brno,2024,methamphetamine,417.53
+Brno,2024,ketamine,3.82
+Brussels,2011,mdma,7.45
+Brussels,2011,amphetamine,35.39
+Brussels,2011,cocaine,184.32
+Brussels,2011,methamphetamine,0
+Brussels,2012,mdma,12.98
+Brussels,2012,amphetamine,38.85
+Brussels,2012,cannabis,73.11
+Brussels,2012,cocaine,187.19
+Brussels,2012,methamphetamine,2.09
+Brussels,2013,mdma,15.27
+Brussels,2013,amphetamine,24.8
+Brussels,2013,cannabis,89.47
+Brussels,2013,cocaine,223.81
+Brussels,2013,methamphetamine,1.71
+Brussels,2015,mdma,21.95
+Brussels,2015,amphetamine,58.28
+Brussels,2015,cocaine,472.36
+Brussels,2015,methamphetamine,3.67
+Brussels,2016,mdma,34.41
+Brussels,2016,amphetamine,36.83
+Brussels,2016,cocaine,416.83
+Brussels,2016,methamphetamine,3.84
+Brussels,2017,mdma,25.15
+Brussels,2017,amphetamine,49.17
+Brussels,2017,cocaine,373.81
+Brussels,2017,methamphetamine,6.8
+Brussels,2018,mdma,28.66
+Brussels,2018,amphetamine,34.96
+Brussels,2018,cocaine,432.53
+Brussels,2018,methamphetamine,7.21
+Brussels,2019,mdma,28.65
+Brussels,2019,amphetamine,46.52
+Brussels,2019,cocaine,454.56
+Brussels,2019,methamphetamine,9.83
+Brussels,2020,mdma,22.28
+Brussels,2020,amphetamine,55.99
+Brussels,2020,cocaine,474.2
+Brussels,2020,methamphetamine,11.39
+Brussels,2021,mdma,25.09
+Brussels,2021,amphetamine,75.58
+Brussels,2021,cocaine,768.08
+Brussels,2021,methamphetamine,17.58
+Brussels,2022,mdma,53.7
+Brussels,2022,amphetamine,123.98
+Brussels,2022,cocaine,984.8
+Brussels,2022,methamphetamine,27.73
+Brussels,2023,mdma,30.02
+Brussels,2023,amphetamine,50.82
+Brussels,2023,cocaine,598.22
+Brussels,2023,methamphetamine,16.45
+Brussels,2023,ketamine,25.06
+Brussels,2024,mdma,76.97
+Brussels,2024,amphetamine,85.56
+Brussels,2024,cocaine,1186.34
+Brussels,2024,methamphetamine,40.26
+Brussels,2024,ketamine,43.38
+Bucharest,2023,mdma,15.16
+Bucharest,2023,amphetamine,3.73
+Bucharest,2023,cocaine,175.53
+Bucharest,2023,methamphetamine,0
+Bucharest,2023,ketamine,9.23
+Bucharest,2024,mdma,11.01
+Bucharest,2024,amphetamine,4.97
+Bucharest,2024,cocaine,200.11
+Bucharest,2024,methamphetamine,3.03
+Bucharest,2024,ketamine,11.17
+Budapest,2024,amphetamine,203.79
+Budapest,2024,cannabis,56.78
+Budapest,2024,cocaine,311.72
+Budapest,2024,methamphetamine,11.01
+Budapest,2024,ketamine,79.5
+Castellon,2011,mdma,0
+Castellon,2011,amphetamine,0
+Castellon,2011,cannabis,101.73
+Castellon,2011,cocaine,371.57
+Castellon,2011,methamphetamine,0
+Castellon,2012,mdma,0
+Castellon,2012,amphetamine,0
+Castellon,2012,cannabis,117.35
+Castellon,2012,cocaine,262.96
+Castellon,2012,methamphetamine,0
+Castellon,2013,mdma,6.43
+Castellon,2013,amphetamine,8.6
+Castellon,2013,cannabis,55.74
+Castellon,2013,cocaine,174.51
+Castellon,2013,methamphetamine,0
+Castellon,2014,mdma,4.12
+Castellon,2014,amphetamine,0
+Castellon,2014,cocaine,206.28
+Castellon,2014,methamphetamine,0
+Castellon,2015,mdma,3.48
+Castellon,2015,amphetamine,0
+Castellon,2015,cocaine,126.64
+Castellon,2015,methamphetamine,0
+Castellon,2016,mdma,5.96
+Castellon,2016,amphetamine,0
+Castellon,2016,cocaine,364.67
+Castellon,2016,methamphetamine,0
+Castellon,2017,mdma,10.55
+Castellon,2017,amphetamine,0
+Castellon,2017,cocaine,319.5
+Castellon,2017,methamphetamine,0
+Castellon,2018,mdma,2.85
+Castellon,2018,amphetamine,0
+Castellon,2018,cannabis,64.2
+Castellon,2018,cocaine,296.47
+Castellon,2018,methamphetamine,0
+Castellon,2019,mdma,12.36
+Castellon,2019,amphetamine,0
+Castellon,2019,cannabis,84.28
+Castellon,2019,cocaine,714.41
+Castellon,2019,methamphetamine,0
+Castellon,2020,mdma,3.34
+Castellon,2020,amphetamine,0
+Castellon,2020,cannabis,69.49
+Castellon,2020,cocaine,437.9
+Castellon,2020,methamphetamine,0
+Castellon,2021,mdma,5.82
+Castellon,2021,cannabis,66.82
+Castellon,2021,cocaine,529.38
+Castellon,2022,mdma,23.32
+Castellon,2022,amphetamine,0
+Castellon,2022,cannabis,54.53
+Castellon,2022,cocaine,554.3
+Castellon,2022,methamphetamine,0
+Castellon,2022,ketamine,0
+Castellon,2023,mdma,8.13
+Castellon,2023,cannabis,75.27
+Castellon,2023,cocaine,445.24
+Castellon,2023,methamphetamine,0
+Castellon,2023,ketamine,3
+Castellon,2024,mdma,51.94
+Castellon,2024,cannabis,65.04
+Castellon,2024,cocaine,752.07
+Castellon,2024,ketamine,8.53
+Chemnitz,2017,mdma,9.68
+Chemnitz,2017,amphetamine,0
+Chemnitz,2017,cocaine,20.29
+Chemnitz,2017,methamphetamine,240.57
+Chemnitz,2018,mdma,12.73
+Chemnitz,2018,amphetamine,19.45
+Chemnitz,2018,cocaine,12.06
+Chemnitz,2018,methamphetamine,196.2
+Chemnitz,2019,mdma,5.96
+Chemnitz,2019,amphetamine,12.01
+Chemnitz,2019,cocaine,13.26
+Chemnitz,2019,methamphetamine,276
+Chemnitz,2020,mdma,11.66
+Chemnitz,2020,amphetamine,19.73
+Chemnitz,2020,cocaine,27.34
+Chemnitz,2020,methamphetamine,328.95
+Chemnitz,2021,mdma,7.79
+Chemnitz,2021,cocaine,20.51
+Chemnitz,2021,methamphetamine,82.69
+Chemnitz,2022,mdma,7.34
+Chemnitz,2022,amphetamine,28.38
+Chemnitz,2022,cocaine,27.13
+Chemnitz,2022,methamphetamine,279.49
+Chemnitz,2023,mdma,12.84
+Chemnitz,2023,amphetamine,26.68
+Chemnitz,2023,cocaine,57.76
+Chemnitz,2023,methamphetamine,346.34
+Chemnitz,2024,mdma,11.71
+Chemnitz,2024,amphetamine,27.43
+Chemnitz,2024,cocaine,57.48
+Chemnitz,2024,methamphetamine,362
+Chemnitz,2024,ketamine,0
+Cluj Napoca,2013,mdma,0
+Cluj Napoca,2013,amphetamine,0
+Cluj Napoca,2013,cannabis,0
+Cluj Napoca,2013,cocaine,0
+Cluj Napoca,2013,methamphetamine,0
+Copenhagen,2013,mdma,19.47
+Copenhagen,2013,amphetamine,30.64
+Copenhagen,2013,cocaine,218.55
+Copenhagen,2013,methamphetamine,9.78
+Copenhagen,2014,mdma,28.21
+Copenhagen,2014,cocaine,341.8
+Copenhagen,2014,methamphetamine,0
+Copenhagen,2015,mdma,53.08
+Copenhagen,2015,amphetamine,14.68
+Copenhagen,2015,cocaine,337.15
+Copenhagen,2015,methamphetamine,11.66
+Copenhagen,2018,mdma,18.25
+Copenhagen,2018,amphetamine,59.45
+Copenhagen,2018,cocaine,465.72
+Copenhagen,2018,methamphetamine,16.22
+Copenhagen,2019,mdma,36.91
+Copenhagen,2019,amphetamine,74.27
+Copenhagen,2019,cocaine,599.71
+Copenhagen,2019,methamphetamine,23.68
+Copenhagen,2021,mdma,34.65
+Copenhagen,2021,amphetamine,91.51
+Copenhagen,2021,cocaine,533.35
+Copenhagen,2021,methamphetamine,42.91
+Copenhagen,2022,mdma,29.25
+Copenhagen,2022,amphetamine,70.59
+Copenhagen,2022,cocaine,647.35
+Copenhagen,2022,methamphetamine,25.2
+Copenhagen,2022,ketamine,16.82
+Copenhagen,2024,mdma,37
+Copenhagen,2024,amphetamine,95.78
+Copenhagen,2024,cannabis,123.35
+Copenhagen,2024,cocaine,548.44
+Copenhagen,2024,methamphetamine,25.38
+Copenhagen,2024,ketamine,33.44
+Debrecen,2023,mdma,11.66
+Debrecen,2023,amphetamine,35.23
+Debrecen,2023,cannabis,13.12
+Debrecen,2023,cocaine,24.61
+Debrecen,2023,methamphetamine,0.42
+Debrecen,2023,ketamine,0.6
+Dortmund,2013,mdma,13.75
+Dortmund,2013,amphetamine,92.22
+Dortmund,2013,cannabis,84.53
+Dortmund,2013,cocaine,324.14
+Dortmund,2013,methamphetamine,0
+Dortmund,2014,mdma,11.25
+Dortmund,2014,amphetamine,138.29
+Dortmund,2014,cocaine,243.26
+Dortmund,2014,methamphetamine,0
+Dortmund,2015,mdma,16.58
+Dortmund,2015,amphetamine,163.4
+Dortmund,2015,cocaine,275.46
+Dortmund,2015,methamphetamine,0
+Dortmund,2016,mdma,23.74
+Dortmund,2016,amphetamine,150.39
+Dortmund,2016,cocaine,420.74
+Dortmund,2016,methamphetamine,3.73
+Dortmund,2017,mdma,18.56
+Dortmund,2017,amphetamine,168.73
+Dortmund,2017,cocaine,428.67
+Dortmund,2017,methamphetamine,0
+Dortmund,2018,mdma,21.23
+Dortmund,2018,amphetamine,138.15
+Dortmund,2018,cocaine,379.08
+Dortmund,2018,methamphetamine,2.95
+Dortmund,2019,mdma,15.34
+Dortmund,2019,amphetamine,188.83
+Dortmund,2019,cocaine,374.78
+Dortmund,2019,methamphetamine,0
+Dortmund,2020,mdma,20.61
+Dortmund,2020,amphetamine,143.13
+Dortmund,2020,cocaine,305.04
+Dortmund,2020,methamphetamine,0
+Dortmund,2021,mdma,16.75
+Dortmund,2021,cocaine,476.76
+Dortmund,2021,methamphetamine,1.83
+Dortmund,2022,mdma,11.62
+Dortmund,2022,amphetamine,191.79
+Dortmund,2022,cocaine,349.67
+Dortmund,2022,methamphetamine,3.22
+Dortmund,2023,mdma,77.18
+Dortmund,2023,amphetamine,234.66
+Dortmund,2023,cocaine,547.65
+Dortmund,2023,methamphetamine,0
+Dortmund,2023,ketamine,11.03
+Dortmund,2024,mdma,37.07
+Dortmund,2024,amphetamine,262.2
+Dortmund,2024,cocaine,480.76
+Dortmund,2024,methamphetamine,0
+Dortmund,2024,ketamine,11.54
+Dresden,2013,mdma,0
+Dresden,2013,amphetamine,0
+Dresden,2013,cannabis,29.93
+Dresden,2013,cocaine,6
+Dresden,2013,methamphetamine,136.61
+Dresden,2014,mdma,4.75
+Dresden,2014,amphetamine,22.01
+Dresden,2014,cocaine,8.39
+Dresden,2014,methamphetamine,133.02
+Dresden,2015,mdma,5.09
+Dresden,2015,amphetamine,17.36
+Dresden,2015,cocaine,7.84
+Dresden,2015,methamphetamine,150
+Dresden,2016,mdma,12.72
+Dresden,2016,amphetamine,22.63
+Dresden,2016,cocaine,17.7
+Dresden,2016,methamphetamine,136.69
+Dresden,2017,mdma,9.57
+Dresden,2017,amphetamine,23.43
+Dresden,2017,cocaine,20.86
+Dresden,2017,methamphetamine,180.18
+Dresden,2018,mdma,16.52
+Dresden,2018,amphetamine,27.64
+Dresden,2018,cocaine,33.29
+Dresden,2018,methamphetamine,174.63
+Dresden,2019,mdma,8
+Dresden,2019,amphetamine,35.44
+Dresden,2019,cocaine,28.14
+Dresden,2019,methamphetamine,171.07
+Dresden,2020,mdma,16.94
+Dresden,2020,amphetamine,28.32
+Dresden,2020,cocaine,42.14
+Dresden,2020,methamphetamine,201.51
+Dresden,2021,mdma,12.72
+Dresden,2021,cocaine,50.65
+Dresden,2021,methamphetamine,120.71
+Dresden,2022,mdma,8.18
+Dresden,2022,amphetamine,39.57
+Dresden,2022,cocaine,48.73
+Dresden,2022,methamphetamine,266.96
+Dresden,2023,mdma,12.43
+Dresden,2023,amphetamine,46.38
+Dresden,2023,cocaine,85.33
+Dresden,2023,methamphetamine,316.83
+Dresden,2023,ketamine,27.05
+Dresden,2024,mdma,17.11
+Dresden,2024,amphetamine,50.58
+Dresden,2024,cocaine,101.92
+Dresden,2024,methamphetamine,399.64
+Dresden,2024,ketamine,21.59
+Dublin,2024,mdma,41.72
+Dublin,2024,amphetamine,23.61
+Dublin,2024,cannabis,98.1
+Dublin,2024,cocaine,875.54
+Dublin,2024,methamphetamine,21.56
+Dublin,2024,ketamine,43.49
+Eindhoven,2011,mdma,66.68
+Eindhoven,2011,cannabis,102.77
+Eindhoven,2011,cocaine,437.42
+Eindhoven,2011,methamphetamine,0
+Eindhoven,2012,amphetamine,416.75
+Eindhoven,2012,cannabis,84.42
+Eindhoven,2012,cocaine,349.83
+Eindhoven,2012,methamphetamine,0
+Eindhoven,2013,cocaine,426.62
+Eindhoven,2013,methamphetamine,0
+Eindhoven,2014,amphetamine,203.73
+Eindhoven,2014,cocaine,380.83
+Eindhoven,2015,mdma,131.05
+Eindhoven,2015,cocaine,323.04
+Eindhoven,2016,mdma,125.74
+Eindhoven,2016,cocaine,497.87
+Eindhoven,2016,methamphetamine,2.31
+Eindhoven,2017,mdma,165.08
+Eindhoven,2017,amphetamine,271.73
+Eindhoven,2017,cocaine,427.78
+Eindhoven,2017,methamphetamine,0
+Eindhoven,2018,cannabis,125.57
+Eindhoven,2018,cocaine,426.93
+Eindhoven,2018,methamphetamine,2.69
+Eindhoven,2019,mdma,119.67
+Eindhoven,2019,cannabis,129.81
+Eindhoven,2019,cocaine,545.42
+Eindhoven,2020,mdma,101.21
+Eindhoven,2020,amphetamine,271.53
+Eindhoven,2020,cannabis,135.44
+Eindhoven,2020,cocaine,522.95
+Eindhoven,2020,methamphetamine,26.61
+Eindhoven,2021,mdma,82.63
+Eindhoven,2021,cannabis,112.6
+Eindhoven,2021,cocaine,623.61
+Eindhoven,2022,mdma,81.01
+Eindhoven,2022,cannabis,98.31
+Eindhoven,2022,cocaine,713.67
+Eindhoven,2023,cannabis,147.64
+Eindhoven,2023,cocaine,766.11
+Eindhoven,2023,methamphetamine,29.95
+Eindhoven,2024,amphetamine,311.26
+Eindhoven,2024,cannabis,124.64
+Eindhoven,2024,cocaine,809.89
+Eindhoven,2024,ketamine,90.77
+Eleusis,2019,mdma,0.83
+Eleusis,2019,cannabis,21.46
+Eleusis,2019,cocaine,16.43
+Eleusis,2019,methamphetamine,0.97
+Eleusis,2020,cannabis,18.98
+Eleusis,2020,methamphetamine,0
+Erfurt,2017,mdma,7.61
+Erfurt,2017,amphetamine,0
+Erfurt,2017,cocaine,48.56
+Erfurt,2017,methamphetamine,211.23
+Erfurt,2018,mdma,19.06
+Erfurt,2018,amphetamine,39.76
+Erfurt,2018,cocaine,46.05
+Erfurt,2018,methamphetamine,211.26
+Erfurt,2019,mdma,10.61
+Erfurt,2019,amphetamine,45.73
+Erfurt,2019,cocaine,52.03
+Erfurt,2019,methamphetamine,251.75
+Erfurt,2020,mdma,13.06
+Erfurt,2020,amphetamine,44.31
+Erfurt,2020,cocaine,71.02
+Erfurt,2020,methamphetamine,435.28
+Erfurt,2021,mdma,17.54
+Erfurt,2021,cocaine,81.07
+Erfurt,2021,methamphetamine,112.63
+Erfurt,2022,mdma,13.45
+Erfurt,2022,amphetamine,56.87
+Erfurt,2022,cocaine,78.31
+Erfurt,2022,methamphetamine,226.41
+Erfurt,2023,mdma,15.24
+Erfurt,2023,amphetamine,62.49
+Erfurt,2023,cocaine,120.04
+Erfurt,2023,methamphetamine,334.42
+Erfurt,2023,ketamine,4.1
+Erfurt,2024,mdma,28.6
+Erfurt,2024,amphetamine,64.62
+Erfurt,2024,cocaine,118.62
+Erfurt,2024,methamphetamine,334.94
+Erfurt,2024,ketamine,13.28
+Fort-de-France P,2017,mdma,0
+Fort-de-France P,2017,amphetamine,0
+Fort-de-France P,2017,cocaine,398.99
+Fort-de-France P,2017,methamphetamine,0
+Frankfurt (3),2017,mdma,22.57
+Frankfurt (3),2017,amphetamine,84.67
+Frankfurt (3),2017,cocaine,427.93
+Frankfurt (3),2017,methamphetamine,8.49
+Geneva,2012,mdma,10.15
+Geneva,2012,amphetamine,38.96
+Geneva,2012,cocaine,341.15
+Geneva,2012,methamphetamine,0
+Geneva,2013,mdma,18.78
+Geneva,2013,amphetamine,0
+Geneva,2013,cocaine,373.45
+Geneva,2013,methamphetamine,0
+Geneva,2014,mdma,21.27
+Geneva,2014,amphetamine,0
+Geneva,2014,cocaine,447.63
+Geneva,2014,methamphetamine,0
+Geneva,2015,mdma,23.93
+Geneva,2015,amphetamine,5.98
+Geneva,2015,cocaine,442.68
+Geneva,2015,methamphetamine,6.29
+Geneva,2016,mdma,32.3
+Geneva,2016,amphetamine,9.86
+Geneva,2016,cocaine,484.7
+Geneva,2016,methamphetamine,6.86
+Geneva,2017,mdma,47.18
+Geneva,2017,amphetamine,14.64
+Geneva,2017,cocaine,794.84
+Geneva,2017,methamphetamine,18.1
+Geneva,2018,mdma,40.98
+Geneva,2018,amphetamine,10
+Geneva,2018,cocaine,600.44
+Geneva,2019,mdma,27.68
+Geneva,2019,amphetamine,8.34
+Geneva,2019,cannabis,217.04
+Geneva,2019,cocaine,676.89
+Geneva,2019,methamphetamine,9.51
+Geneva,2020,mdma,26.99
+Geneva,2020,amphetamine,0
+Geneva,2020,cannabis,188.27
+Geneva,2020,cocaine,501.5
+Geneva,2020,methamphetamine,8.18
+Geneva,2021,mdma,14.7
+Geneva,2021,amphetamine,12.25
+Geneva,2021,cocaine,652.8
+Geneva,2021,methamphetamine,16.24
+Geneva,2022,mdma,30.56
+Geneva,2022,amphetamine,16.99
+Geneva,2022,cannabis,180.81
+Geneva,2022,cocaine,769.69
+Geneva,2022,methamphetamine,10.92
+Geneva,2023,mdma,33.29
+Geneva,2023,amphetamine,12.55
+Geneva,2023,cannabis,150.01
+Geneva,2023,cocaine,812.89
+Geneva,2023,methamphetamine,12.67
+Geneva,2023,ketamine,22.8
+Geneva,2024,mdma,38.59
+Geneva,2024,amphetamine,13.69
+Geneva,2024,cannabis,145.37
+Geneva,2024,cocaine,917.84
+Geneva,2024,methamphetamine,18.95
+Geneva,2024,ketamine,41.11
+Gothenburg,2012,mdma,0
+Gothenburg,2012,amphetamine,87.14
+Gothenburg,2012,cannabis,0
+Gothenburg,2012,cocaine,25.3
+Gothenburg,2012,methamphetamine,50.04
+Gothenburg,2013,mdma,5.87
+Gothenburg,2013,amphetamine,215.33
+Gothenburg,2013,cannabis,0
+Gothenburg,2013,cocaine,30.58
+Gothenburg,2013,methamphetamine,0
+Granada,2023,mdma,78.91
+Granada,2023,amphetamine,51.81
+Granada,2023,cocaine,1031.3
+Granada,2023,methamphetamine,0.73
+Granada,2023,ketamine,22.93
+Granada,2024,mdma,34.34
+Granada,2024,amphetamine,21.05
+Graz,2019,mdma,17.39
+Graz,2019,amphetamine,26.67
+Graz,2019,cannabis,59.61
+Graz,2019,cocaine,154.19
+Graz,2019,methamphetamine,5.68
+Graz,2020,mdma,14.14
+Graz,2020,amphetamine,29.27
+Graz,2020,cannabis,50.69
+Graz,2020,cocaine,138.22
+Graz,2020,methamphetamine,7.27
+Graz,2021,mdma,9.64
+Graz,2021,amphetamine,38.57
+Graz,2021,cannabis,87.17
+Graz,2021,cocaine,138.65
+Graz,2021,methamphetamine,13.09
+Graz,2022,mdma,12.43
+Graz,2022,amphetamine,24.46
+Graz,2022,cannabis,60.24
+Graz,2022,cocaine,180.62
+Graz,2022,methamphetamine,7.52
+Graz,2023,mdma,23.73
+Graz,2023,amphetamine,45.39
+Graz,2023,cannabis,64.2
+Graz,2023,cocaine,278.41
+Graz,2023,methamphetamine,11.55
+Graz,2024,mdma,15.53
+Graz,2024,amphetamine,49.64
+Graz,2024,cannabis,66.17
+Graz,2024,cocaine,332.85
+Graz,2024,methamphetamine,6.38
+Groningen,2024,mdma,106.17
+Groningen,2024,amphetamine,247.35
+Groningen,2024,cannabis,258.08
+Groningen,2024,cocaine,932.69
+Groningen,2024,methamphetamine,3.44
+Groningen,2024,ketamine,41.28
+Hamburg (2),2017,mdma,31.29
+Hamburg (2),2017,amphetamine,69.2
+Hamburg (2),2017,cocaine,392.84
+Hamburg (2),2017,methamphetamine,3.59
+Hamburg (2),2020,mdma,19.34
+Hamburg (2),2020,amphetamine,62.51
+Hamburg (2),2020,cocaine,459.17
+Hamburg (2),2020,methamphetamine,7.64
+Hannover (2),2017,mdma,21.98
+Hannover (2),2017,amphetamine,83.02
+Hannover (2),2017,cocaine,302.91
+Hannover (2),2017,methamphetamine,1.72
+Hannover (2),2024,mdma,26.07
+Hannover (2),2024,amphetamine,97.34
+Hannover (2),2024,cocaine,421.51
+Hannover (2),2024,methamphetamine,5.42
+Hannover (2),2024,ketamine,19.13
+Helsinki,2012,mdma,14.57
+Helsinki,2012,amphetamine,43.73
+Helsinki,2012,cocaine,9.27
+Helsinki,2013,mdma,27.61
+Helsinki,2013,amphetamine,94.51
+Helsinki,2014,mdma,18.02
+Helsinki,2014,amphetamine,68.53
+Helsinki,2014,cocaine,9.4
+Helsinki,2014,methamphetamine,3.7
+Helsinki,2015,mdma,38.42
+Helsinki,2015,amphetamine,117.1
+Helsinki,2015,cocaine,9.97
+Helsinki,2015,methamphetamine,5.03
+Helsinki,2016,mdma,34.16
+Helsinki,2016,amphetamine,100.77
+Helsinki,2016,cocaine,16.75
+Helsinki,2016,methamphetamine,83.4
+Helsinki,2017,mdma,26.85
+Helsinki,2017,amphetamine,47.81
+Helsinki,2017,cocaine,29.93
+Helsinki,2017,methamphetamine,46
+Helsinki,2018,mdma,37.82
+Helsinki,2018,amphetamine,149.39
+Helsinki,2018,cocaine,62.88
+Helsinki,2018,methamphetamine,19.02
+Helsinki,2019,mdma,44.06
+Helsinki,2019,amphetamine,201.6
+Helsinki,2019,cocaine,73.81
+Helsinki,2019,methamphetamine,33.23
+Helsinki,2020,mdma,40.13
+Helsinki,2020,amphetamine,261.38
+Helsinki,2020,cocaine,81.98
+Helsinki,2020,methamphetamine,10.15
+Helsinki,2021,mdma,22.54
+Helsinki,2021,amphetamine,315.53
+Helsinki,2021,cocaine,60.53
+Helsinki,2021,methamphetamine,2.94
+Helsinki,2022,mdma,17.66
+Helsinki,2022,amphetamine,149.1
+Helsinki,2022,cocaine,118.93
+Helsinki,2022,methamphetamine,56.33
+Helsinki,2023,mdma,31.39
+Helsinki,2023,amphetamine,184.74
+Helsinki,2023,cocaine,250.72
+Helsinki,2023,methamphetamine,31.66
+Helsinki,2024,mdma,35.19
+Helsinki,2024,amphetamine,186.03
+Helsinki,2024,cocaine,224.53
+Helsinki,2024,methamphetamine,22.89
+Helsinki,2024,ketamine,10.28
+Innsbruck,2016,mdma,21.73
+Innsbruck,2016,amphetamine,12.45
+Innsbruck,2016,cocaine,161.96
+Innsbruck,2016,methamphetamine,2.01
+Innsbruck,2017,mdma,20.91
+Innsbruck,2017,amphetamine,14.82
+Innsbruck,2017,cocaine,222.78
+Innsbruck,2017,methamphetamine,2.86
+Innsbruck,2018,mdma,26.69
+Innsbruck,2018,amphetamine,17.05
+Innsbruck,2018,cannabis,91.09
+Innsbruck,2018,cocaine,335.51
+Innsbruck,2018,methamphetamine,2.12
+Innsbruck,2019,mdma,23.51
+Innsbruck,2019,amphetamine,19.23
+Innsbruck,2019,cannabis,81.48
+Innsbruck,2019,cocaine,329.97
+Innsbruck,2019,methamphetamine,1.91
+Innsbruck,2020,mdma,22.47
+Innsbruck,2020,amphetamine,17.55
+Innsbruck,2020,cannabis,61.49
+Innsbruck,2020,cocaine,320.67
+Innsbruck,2020,methamphetamine,3.69
+Innsbruck,2021,mdma,14.58
+Innsbruck,2021,amphetamine,22.02
+Innsbruck,2021,cannabis,97.72
+Innsbruck,2021,cocaine,274.18
+Innsbruck,2021,methamphetamine,5.8
+Innsbruck,2022,mdma,15.59
+Innsbruck,2022,amphetamine,13.62
+Innsbruck,2022,cannabis,83.61
+Innsbruck,2022,cocaine,358.91
+Innsbruck,2022,methamphetamine,13.68
+Innsbruck,2023,mdma,19.57
+Innsbruck,2023,amphetamine,15.6
+Innsbruck,2023,cannabis,84.29
+Innsbruck,2023,cocaine,423.39
+Innsbruck,2023,methamphetamine,11.83
+Innsbruck,2024,mdma,22.71
+Innsbruck,2024,amphetamine,16.36
+Innsbruck,2024,cannabis,79.05
+Innsbruck,2024,cocaine,522.76
+Innsbruck,2024,methamphetamine,9.09
+Istanbul (II-VII),2019,mdma,33.09
+Istanbul (II-VII),2019,amphetamine,3.46
+Istanbul (II-VII),2019,cannabis,9.25
+Istanbul (II-VII),2019,cocaine,36.22
+Istanbul (II-VII),2019,methamphetamine,16.2
+Istanbul (II-VII),2020,mdma,26.33
+Istanbul (II-VII),2020,cannabis,35.81
+Istanbul (II-VII),2020,cocaine,54.44
+Istanbul (II-VII),2020,methamphetamine,28.83
+Istanbul (II-VII),2021,amphetamine,12.21
+Istanbul (II-VII),2021,cannabis,24.47
+Istanbul (II-VII),2021,cocaine,53.88
+Istanbul (II-VII),2021,methamphetamine,72.49
+Istanbul (II-VII),2022,mdma,6.49
+Istanbul (II-VII),2022,amphetamine,13.37
+Istanbul (II-VII),2022,cannabis,22.91
+Istanbul (II-VII),2022,cocaine,59.09
+Istanbul (II-VII),2022,methamphetamine,92.12
+Istanbul (II-VII),2022,ketamine,3.3
+Istanbul (II-VII),2023,mdma,23.31
+Istanbul (II-VII),2023,cannabis,14.16
+Istanbul (II-VII),2023,methamphetamine,94.13
+Istanbul (II-VII),2024,mdma,14.02
+Istanbul (II-VII),2024,amphetamine,5.9
+Istanbul (II-VII),2024,cannabis,16.52
+Istanbul (II-VII),2024,cocaine,42.05
+Istanbul (II-VII),2024,methamphetamine,72.13
+Joensuu,2014,mdma,1.61
+Joensuu,2014,amphetamine,21.02
+Joensuu,2014,cocaine,0.35
+Joensuu,2014,methamphetamine,1.59
+Joensuu,2016,mdma,4.56
+Joensuu,2016,amphetamine,31.25
+Joensuu,2016,cocaine,0.9
+Joensuu,2016,methamphetamine,2.13
+Joensuu,2018,mdma,16.71
+Joensuu,2018,amphetamine,50.77
+Joensuu,2018,cocaine,2.06
+Joensuu,2018,methamphetamine,2.38
+Joensuu,2020,mdma,11.6
+Joensuu,2020,amphetamine,133.61
+Joensuu,2020,cocaine,1.74
+Joensuu,2020,methamphetamine,1.32
+Joensuu,2022,mdma,3.28
+Joensuu,2022,amphetamine,67.3
+Joensuu,2022,cocaine,5.84
+Joensuu,2022,methamphetamine,6.79
+Joensuu,2024,mdma,29.42
+Joensuu,2024,amphetamine,101.27
+Joensuu,2024,cocaine,23.45
+Joensuu,2024,methamphetamine,14.53
+Kajaani,2018,mdma,7.05
+Kajaani,2018,amphetamine,35.63
+Kajaani,2018,cocaine,0.36
+Kajaani,2018,methamphetamine,3.24
+Kajaani,2020,mdma,5.91
+Kajaani,2020,amphetamine,51.8
+Kajaani,2020,cocaine,0.93
+Kajaani,2020,methamphetamine,1.11
+Kajaani,2022,mdma,0.96
+Kajaani,2022,amphetamine,77.91
+Kajaani,2022,cocaine,0.6
+Kajaani,2022,methamphetamine,1.99
+Kajaani,2024,mdma,6.03
+Kajaani,2024,amphetamine,159.91
+Kajaani,2024,cocaine,17.55
+Kajaani,2024,methamphetamine,2.51
+Kapfenberg,2019,mdma,24.23
+Kapfenberg,2019,amphetamine,30.69
+Kapfenberg,2019,cannabis,65.7
+Kapfenberg,2019,cocaine,64.72
+Kapfenberg,2019,methamphetamine,1.65
+Kapfenberg,2020,mdma,18.57
+Kapfenberg,2020,amphetamine,26.45
+Kapfenberg,2020,cannabis,60.49
+Kapfenberg,2020,cocaine,146.46
+Kapfenberg,2020,methamphetamine,1.14
+Kapfenberg,2021,mdma,3.59
+Kapfenberg,2021,amphetamine,29.46
+Kapfenberg,2021,cannabis,76.53
+Kapfenberg,2021,cocaine,109.24
+Kapfenberg,2021,methamphetamine,1.64
+Kapfenberg,2022,mdma,5.58
+Kapfenberg,2022,amphetamine,24.41
+Kapfenberg,2022,cannabis,21.4
+Kapfenberg,2022,cocaine,97.41
+Kapfenberg,2022,methamphetamine,2.58
+Kapfenberg,2023,mdma,5.77
+Kapfenberg,2023,amphetamine,33.43
+Kapfenberg,2023,cannabis,67.42
+Kapfenberg,2023,cocaine,151.36
+Kapfenberg,2023,methamphetamine,2.32
+Kapfenberg,2024,mdma,7.79
+Kapfenberg,2024,amphetamine,62.69
+Kapfenberg,2024,cannabis,53.46
+Kapfenberg,2024,cocaine,166.56
+Kapfenberg,2024,methamphetamine,1.13
+Karlovy Vary,2020,mdma,10.49
+Karlovy Vary,2020,amphetamine,31.78
+Karlovy Vary,2020,cannabis,100.54
+Karlovy Vary,2020,cocaine,63.51
+Karlovy Vary,2020,methamphetamine,388.75
+Karlovy Vary,2021,mdma,0
+Karlovy Vary,2021,amphetamine,33.83
+Karlovy Vary,2021,cannabis,122.59
+Karlovy Vary,2021,cocaine,63.99
+Karlovy Vary,2021,methamphetamine,339.12
+Karlovy Vary,2022,mdma,10.06
+Karlovy Vary,2022,amphetamine,46.64
+Karlovy Vary,2022,cannabis,121.41
+Karlovy Vary,2022,cocaine,118.14
+Karlovy Vary,2022,methamphetamine,459.42
+Karlovy Vary,2023,mdma,12.8
+Karlovy Vary,2023,amphetamine,50.44
+Karlovy Vary,2023,cannabis,109.13
+Karlovy Vary,2023,cocaine,130.93
+Karlovy Vary,2023,methamphetamine,306.2
+Karlovy Vary,2024,mdma,14.32
+Karlovy Vary,2024,amphetamine,32.85
+Karlovy Vary,2024,cannabis,71.97
+Karlovy Vary,2024,cocaine,103.2
+Karlovy Vary,2024,methamphetamine,371.95
+Karlovy Vary,2024,ketamine,0
+Karlstad,2024,mdma,6.55
+Karlstad,2024,amphetamine,366.66
+Karlstad,2024,cannabis,36.84
+Karlstad,2024,cocaine,108.62
+Karlstad,2024,methamphetamine,1.39
+Karlstad,2024,ketamine,4
+Kaunas,2018,mdma,14.9
+Kaunas,2018,amphetamine,14.41
+Kaunas,2018,cocaine,57.59
+Kaunas,2018,methamphetamine,56.51
+Kaunas,2019,mdma,31.79
+Kaunas,2019,amphetamine,43.07
+Kaunas,2019,cocaine,65.32
+Kaunas,2019,methamphetamine,36.93
+Kaunas,2020,mdma,20.7
+Kaunas,2020,amphetamine,52.39
+Kaunas,2020,cocaine,65.35
+Kaunas,2020,methamphetamine,6.37
+Kaunas,2021,mdma,17.65
+Kaunas,2021,amphetamine,58.12
+Kaunas,2021,cocaine,84.69
+Kaunas,2021,methamphetamine,43.73
+Kaunas,2022,mdma,15.04
+Kaunas,2022,amphetamine,172.49
+Kaunas,2022,cocaine,146.44
+Kaunas,2022,methamphetamine,27.98
+Kaunas,2023,mdma,14.86
+Kaunas,2023,amphetamine,67.11
+Kaunas,2023,cocaine,199.4
+Kaunas,2023,methamphetamine,13.28
+Kaunas,2023,ketamine,0
+Kaunas,2024,mdma,12.42
+Kaunas,2024,cocaine,254.31
+Kaunas,2024,ketamine,0
+Kemi,2018,mdma,8.23
+Kemi,2018,amphetamine,99.46
+Kemi,2018,cocaine,1.98
+Kemi,2018,methamphetamine,2.27
+Kemi,2020,mdma,10.34
+Kemi,2020,amphetamine,265
+Kemi,2020,cocaine,1.86
+Kemi,2020,methamphetamine,1.02
+Kemi,2022,mdma,8.69
+Kemi,2022,amphetamine,108.16
+Kemi,2022,cocaine,0.12
+Kemi,2022,methamphetamine,1.69
+Kemi,2024,mdma,10.3
+Kemi,2024,amphetamine,84.98
+Kemi,2024,cocaine,8.15
+Kemi,2024,methamphetamine,2.21
+Klagenfurt,2022,mdma,9.89
+Klagenfurt,2022,amphetamine,8.87
+Klagenfurt,2022,cannabis,55.92
+Klagenfurt,2022,cocaine,184.39
+Klagenfurt,2022,methamphetamine,1.63
+Klagenfurt,2023,mdma,7.09
+Klagenfurt,2023,amphetamine,6.41
+Klagenfurt,2023,cannabis,41.55
+Klagenfurt,2023,cocaine,189.29
+Klagenfurt,2023,methamphetamine,0
+Klagenfurt,2024,mdma,9.5
+Klagenfurt,2024,amphetamine,7.15
+Klagenfurt,2024,cannabis,42.84
+Klagenfurt,2024,cocaine,311.32
+Klagenfurt,2024,methamphetamine,0.81
+Klaipeda,2018,mdma,24.97
+Klaipeda,2018,amphetamine,20.73
+Klaipeda,2018,cocaine,62.67
+Klaipeda,2018,methamphetamine,7.64
+Klaipeda,2019,mdma,43.15
+Klaipeda,2019,amphetamine,19.36
+Klaipeda,2019,cocaine,88.63
+Klaipeda,2019,methamphetamine,8.22
+Klaipeda,2020,mdma,14.42
+Klaipeda,2020,amphetamine,23.11
+Klaipeda,2020,cocaine,89.91
+Klaipeda,2020,methamphetamine,3.34
+Klaipeda,2021,mdma,7.29
+Klaipeda,2021,amphetamine,42.85
+Klaipeda,2021,cocaine,108.86
+Klaipeda,2021,methamphetamine,13.97
+Klaipeda,2022,mdma,7.61
+Klaipeda,2022,amphetamine,11.28
+Klaipeda,2022,cocaine,71.53
+Klaipeda,2022,methamphetamine,2.59
+Klaipeda,2023,mdma,8.27
+Klaipeda,2023,amphetamine,19.12
+Klaipeda,2023,cocaine,92.15
+Klaipeda,2023,methamphetamine,0.82
+Klaipeda,2023,ketamine,0
+Klaipeda,2024,mdma,14.9
+Klaipeda,2024,amphetamine,21.86
+Klaipeda,2024,cocaine,164.15
+Klaipeda,2024,methamphetamine,1.49
+Klaipeda,2024,ketamine,0
+Klosterneuburg,2015,mdma,13.88
+Klosterneuburg,2015,amphetamine,0
+Klosterneuburg,2015,cocaine,83.39
+Klosterneuburg,2015,methamphetamine,0
+Kokkola,2018,mdma,2.98
+Kokkola,2018,amphetamine,25.15
+Kokkola,2018,cocaine,0.83
+Kokkola,2018,methamphetamine,1.59
+Kokkola,2020,mdma,20.42
+Kokkola,2020,amphetamine,30.65
+Kokkola,2020,cocaine,0.75
+Kokkola,2020,methamphetamine,0.71
+Kokkola,2022,mdma,2.57
+Kokkola,2022,amphetamine,61.06
+Kokkola,2022,cocaine,0.81
+Kokkola,2022,methamphetamine,3.8
+Kokkola,2024,mdma,8.86
+Kokkola,2024,amphetamine,88.64
+Kokkola,2024,cocaine,3.05
+Kokkola,2024,methamphetamine,1.9
+Koper,2019,mdma,11.76
+Koper,2019,amphetamine,8.22
+Koper,2019,cannabis,101.12
+Koper,2019,cocaine,592.73
+Koper,2019,methamphetamine,0.47
+Koper,2020,mdma,3.79
+Koper,2020,amphetamine,0
+Koper,2020,cocaine,320.99
+Koper,2020,methamphetamine,0.41
+Koper,2021,mdma,6.42
+Koper,2021,amphetamine,0
+Koper,2021,cannabis,117.31
+Koper,2021,cocaine,406.55
+Koper,2021,methamphetamine,1.14
+Koper,2022,mdma,4.71
+Koper,2022,amphetamine,0
+Koper,2022,cannabis,82
+Koper,2022,cocaine,347.79
+Koper,2022,methamphetamine,3.75
+Koper,2022,ketamine,0
+Koper,2023,mdma,7.07
+Koper,2023,amphetamine,0
+Koper,2023,cannabis,167.48
+Koper,2023,cocaine,496.63
+Koper,2023,methamphetamine,0.78
+Koper,2023,ketamine,0
+Koper,2024,mdma,18.97
+Koper,2024,amphetamine,13.68
+Koper,2024,cannabis,81.88
+Koper,2024,cocaine,654.84
+Koper,2024,methamphetamine,0
+Koper,2024,ketamine,0
+Kouvola,2018,mdma,12.08
+Kouvola,2018,amphetamine,155.92
+Kouvola,2018,cocaine,8.24
+Kouvola,2018,methamphetamine,9.63
+Kouvola,2020,mdma,25.52
+Kouvola,2020,amphetamine,238.7
+Kouvola,2020,cocaine,7.55
+Kouvola,2020,methamphetamine,2.08
+Kouvola,2022,mdma,4.14
+Kouvola,2022,amphetamine,179.64
+Kouvola,2022,cocaine,8.19
+Kouvola,2022,methamphetamine,5.79
+Kouvola,2024,mdma,10.83
+Kouvola,2024,amphetamine,146.96
+Kouvola,2024,cocaine,32.39
+Kouvola,2024,methamphetamine,3.47
+Krakow P,2017,mdma,7.41
+Krakow P,2017,amphetamine,23.41
+Krakow P,2017,methamphetamine,0.5
+Krakow P,2019,mdma,26.79
+Krakow P,2019,amphetamine,65.9
+Krakow P,2019,cannabis,27.96
+Krakow P,2019,cocaine,46.57
+Krakow P,2019,methamphetamine,2.7
+Krakow P,2020,mdma,30.72
+Krakow P,2020,amphetamine,71.39
+Krakow P,2020,cannabis,29.88
+Krakow P,2020,cocaine,53.96
+Krakow P,2020,methamphetamine,1.67
+Krakow P,2021,mdma,44.13
+Krakow P,2021,amphetamine,100.28
+Krakow P,2021,cannabis,51.15
+Krakow P,2021,cocaine,67.2
+Krakow P,2021,methamphetamine,3.97
+Krakow P,2022,amphetamine,36.97
+Krakow P,2022,cannabis,46.03
+Krakow P,2022,cocaine,82.14
+Krakow P,2022,methamphetamine,3.24
+Krakow P,2022,ketamine,1.66
+Krakow P,2023,mdma,24.16
+Krakow P,2023,amphetamine,66.89
+Krakow P,2023,cannabis,37.54
+Krakow P,2023,cocaine,70.35
+Krakow P,2023,methamphetamine,5.16
+Krakow P,2023,ketamine,4.23
+Krakow P,2024,mdma,42.26
+Krakow P,2024,amphetamine,79.72
+Krakow P,2024,cannabis,41.68
+Krakow P,2024,cocaine,92.56
+Krakow P,2024,methamphetamine,3.57
+Krakow P,2024,ketamine,4.05
+Kranj,2022,mdma,11.06
+Kranj,2022,amphetamine,6.15
+Kranj,2022,cannabis,38.01
+Kranj,2022,cocaine,188
+Kranj,2022,methamphetamine,0.69
+Kranj,2022,ketamine,0
+Kranj,2023,mdma,12.51
+Kranj,2023,amphetamine,0
+Kranj,2023,cannabis,56.59
+Kranj,2023,cocaine,319.68
+Kranj,2023,methamphetamine,1.26
+Kranj,2023,ketamine,1.33
+Kranj,2024,mdma,11.42
+Kranj,2024,amphetamine,20.6
+Kranj,2024,cannabis,45.65
+Kranj,2024,cocaine,441.84
+Kranj,2024,methamphetamine,0.73
+Kranj,2024,ketamine,1.48
+Kufstein,2020,mdma,34.88
+Kufstein,2020,amphetamine,14.2
+Kufstein,2020,cannabis,59.41
+Kufstein,2020,cocaine,404.04
+Kufstein,2020,methamphetamine,2.12
+Kufstein,2021,mdma,3.07
+Kufstein,2021,amphetamine,19.8
+Kufstein,2021,cannabis,91.24
+Kufstein,2021,cocaine,401.61
+Kufstein,2021,methamphetamine,1.27
+Kufstein,2022,mdma,16.65
+Kufstein,2022,amphetamine,11.78
+Kufstein,2022,cannabis,104.54
+Kufstein,2022,cocaine,536.65
+Kufstein,2022,methamphetamine,2.06
+Kufstein,2023,mdma,8.59
+Kufstein,2023,amphetamine,20.67
+Kufstein,2023,cannabis,90.77
+Kufstein,2023,cocaine,589.11
+Kufstein,2023,methamphetamine,1.61
+Kufstein,2024,mdma,8.8
+Kufstein,2024,amphetamine,15.91
+Kufstein,2024,cannabis,74.09
+Kufstein,2024,cocaine,641.52
+Kufstein,2024,methamphetamine,0.68
+Kuopio,2014,mdma,7.86
+Kuopio,2014,amphetamine,43.27
+Kuopio,2014,cocaine,4.3
+Kuopio,2014,methamphetamine,6.15
+Kuopio,2016,mdma,13.42
+Kuopio,2016,amphetamine,37.87
+Kuopio,2016,cocaine,1.14
+Kuopio,2016,methamphetamine,32.77
+Kuopio,2018,mdma,10.1
+Kuopio,2018,amphetamine,84.32
+Kuopio,2018,cocaine,1.87
+Kuopio,2018,methamphetamine,23.41
+Kuopio,2020,mdma,17.47
+Kuopio,2020,amphetamine,190.48
+Kuopio,2020,cocaine,5.89
+Kuopio,2020,methamphetamine,1.77
+Kuopio,2022,mdma,3.52
+Kuopio,2022,amphetamine,97.65
+Kuopio,2022,cocaine,20.39
+Kuopio,2022,methamphetamine,2.51
+Kuopio,2024,mdma,15.71
+Kuopio,2024,amphetamine,205.7
+Kuopio,2024,cocaine,27.42
+Kuopio,2024,methamphetamine,1.24
+Lahti,2014,mdma,24.26
+Lahti,2014,amphetamine,139.62
+Lahti,2014,cocaine,11.03
+Lahti,2014,methamphetamine,12.78
+Lahti,2016,mdma,17.97
+Lahti,2016,amphetamine,119.86
+Lahti,2016,cocaine,9.93
+Lahti,2016,methamphetamine,3.76
+Lahti,2018,mdma,20.01
+Lahti,2018,amphetamine,160.58
+Lahti,2018,cocaine,44.22
+Lahti,2018,methamphetamine,21.58
+Lahti,2020,mdma,38.8
+Lahti,2020,amphetamine,342.78
+Lahti,2020,cocaine,37.49
+Lahti,2020,methamphetamine,19.39
+Lahti,2022,mdma,6.19
+Lahti,2022,amphetamine,159.41
+Lahti,2022,cocaine,60.67
+Lahti,2022,methamphetamine,4.24
+Lahti,2024,mdma,16.1
+Lahti,2024,amphetamine,216.24
+Lahti,2024,cocaine,111.14
+Lahti,2024,methamphetamine,2.54
+Lappeenranta,2014,mdma,4.6
+Lappeenranta,2014,amphetamine,22.88
+Lappeenranta,2014,cocaine,1.74
+Lappeenranta,2014,methamphetamine,0.93
+Lappeenranta,2016,mdma,14.54
+Lappeenranta,2016,amphetamine,40.12
+Lappeenranta,2016,cocaine,0
+Lappeenranta,2016,methamphetamine,2.79
+Lappeenranta,2018,mdma,14.49
+Lappeenranta,2018,amphetamine,69.7
+Lappeenranta,2018,cocaine,2.57
+Lappeenranta,2018,methamphetamine,8.1
+Lappeenranta,2020,mdma,15.07
+Lappeenranta,2020,amphetamine,86.31
+Lappeenranta,2020,cocaine,1.47
+Lappeenranta,2020,methamphetamine,0.72
+Lappeenranta,2022,mdma,12.03
+Lappeenranta,2022,amphetamine,131.77
+Lappeenranta,2022,cocaine,11.21
+Lappeenranta,2022,methamphetamine,15.59
+Lappeenranta,2024,mdma,12.06
+Lappeenranta,2024,amphetamine,174.2
+Lappeenranta,2024,cocaine,9
+Lappeenranta,2024,methamphetamine,4.08
+Lausanne,2014,mdma,20.46
+Lausanne,2014,amphetamine,7.26
+Lausanne,2014,cocaine,311.89
+Lausanne,2014,methamphetamine,3.81
+Lausanne,2015,mdma,42.88
+Lausanne,2015,amphetamine,10.6
+Lausanne,2015,cocaine,313.92
+Lausanne,2015,methamphetamine,2.32
+Leeuwarden,2023,mdma,76.36
+Leeuwarden,2023,amphetamine,330.66
+Leeuwarden,2023,cannabis,199.84
+Leeuwarden,2023,cocaine,1191.51
+Leeuwarden,2023,methamphetamine,25.69
+Leeuwarden,2023,ketamine,25.75
+Lisbon,2013,mdma,4.85
+Lisbon,2013,amphetamine,0
+Lisbon,2013,cocaine,106.82
+Lisbon,2013,methamphetamine,0
+Lisbon,2015,mdma,22.93
+Lisbon,2015,amphetamine,3.23
+Lisbon,2015,cocaine,264.33
+Lisbon,2015,methamphetamine,0
+Lisbon,2016,mdma,26.91
+Lisbon,2016,amphetamine,3.33
+Lisbon,2016,cocaine,257.96
+Lisbon,2016,methamphetamine,0
+Lisbon,2017,mdma,38.32
+Lisbon,2017,amphetamine,3.04
+Lisbon,2017,cocaine,271.6
+Lisbon,2017,methamphetamine,0
+Lisbon,2018,mdma,49.35
+Lisbon,2018,amphetamine,5.22
+Lisbon,2018,cannabis,117.67
+Lisbon,2018,cocaine,454.53
+Lisbon,2018,methamphetamine,1.85
+Lisbon,2019,mdma,40.53
+Lisbon,2019,amphetamine,3.21
+Lisbon,2019,cannabis,101.78
+Lisbon,2019,cocaine,453.34
+Lisbon,2019,methamphetamine,0
+Lisbon,2020,mdma,44.68
+Lisbon,2020,amphetamine,4.59
+Lisbon,2020,cannabis,91.24
+Lisbon,2020,cocaine,365.8
+Lisbon,2020,methamphetamine,3.76
+Lisbon,2021,mdma,48.68
+Lisbon,2021,amphetamine,5.66
+Lisbon,2021,cannabis,101.77
+Lisbon,2021,cocaine,500.48
+Lisbon,2021,methamphetamine,7.92
+Lisbon,2022,mdma,121.79
+Lisbon,2022,amphetamine,14.82
+Lisbon,2022,cannabis,129.91
+Lisbon,2022,cocaine,731.95
+Lisbon,2022,methamphetamine,9.78
+Lisbon,2022,ketamine,19.12
+Lisbon,2023,mdma,33.08
+Lisbon,2023,amphetamine,4.9
+Lisbon,2023,cannabis,113.19
+Lisbon,2023,methamphetamine,6.1
+Lisbon,2024,mdma,81.77
+Lisbon,2024,amphetamine,18.36
+Lisbon,2024,cannabis,150.83
+Lisbon,2024,cocaine,625.08
+Lisbon,2024,methamphetamine,10.78
+Lisbon,2024,ketamine,14.28
+Ljubljana,2017,mdma,35.59
+Ljubljana,2017,amphetamine,35.24
+Ljubljana,2017,cocaine,449.76
+Ljubljana,2017,methamphetamine,0
+Ljubljana,2018,mdma,34.95
+Ljubljana,2018,amphetamine,20.57
+Ljubljana,2018,cannabis,38.36
+Ljubljana,2018,cocaine,289.38
+Ljubljana,2018,methamphetamine,2.3
+Ljubljana,2019,mdma,26.33
+Ljubljana,2019,amphetamine,20.31
+Ljubljana,2019,cannabis,103.53
+Ljubljana,2019,cocaine,429.71
+Ljubljana,2019,methamphetamine,16.54
+Ljubljana,2020,mdma,102.52
+Ljubljana,2020,amphetamine,14.06
+Ljubljana,2020,cocaine,336.05
+Ljubljana,2020,methamphetamine,1.12
+Ljubljana,2021,mdma,7.49
+Ljubljana,2021,amphetamine,6.78
+Ljubljana,2021,cannabis,143.02
+Ljubljana,2021,cocaine,364.79
+Ljubljana,2021,methamphetamine,3.75
+Ljubljana,2022,mdma,18.12
+Ljubljana,2022,amphetamine,19.52
+Ljubljana,2022,cannabis,79.95
+Ljubljana,2022,cocaine,466.59
+Ljubljana,2022,methamphetamine,11.42
+Ljubljana,2022,ketamine,6.69
+Ljubljana,2023,mdma,24.06
+Ljubljana,2023,amphetamine,16.76
+Ljubljana,2023,cannabis,137.36
+Ljubljana,2023,cocaine,554.73
+Ljubljana,2023,methamphetamine,9.68
+Ljubljana,2023,ketamine,16.65
+Ljubljana,2024,mdma,32.21
+Ljubljana,2024,amphetamine,25.51
+Ljubljana,2024,cannabis,90.21
+Ljubljana,2024,cocaine,692.72
+Ljubljana,2024,methamphetamine,4.67
+Ljubljana,2024,ketamine,8.09
+Lleida,2022,mdma,17.38
+Lleida,2022,amphetamine,25.55
+Lleida,2022,cannabis,89.24
+Lleida,2022,cocaine,759.54
+Lleida,2022,methamphetamine,0
+Lleida,2022,ketamine,4.22
+Lleida,2023,mdma,11.2
+Lleida,2023,amphetamine,44.23
+Lleida,2023,cannabis,172.82
+Lleida,2023,cocaine,879.41
+Lleida,2023,methamphetamine,2.61
+Lleida,2023,ketamine,8.87
+Lleida,2024,mdma,42.47
+Lleida,2024,amphetamine,42.25
+Lleida,2024,cannabis,121.31
+Lleida,2024,cocaine,623.86
+Lleida,2024,methamphetamine,0
+Lleida,2024,ketamine,10.61
+Lugano,2014,mdma,3.68
+Lugano,2014,amphetamine,0
+Lugano,2014,cocaine,240.6
+Lugano,2014,methamphetamine,0
+Lugano,2015,mdma,7.74
+Lugano,2015,amphetamine,0
+Lugano,2015,cocaine,228.49
+Lugano,2015,methamphetamine,0
+Lugano,2016,mdma,2.52
+Lugano,2016,amphetamine,0
+Lugano,2016,cocaine,381.08
+Lugano,2016,methamphetamine,0.37
+Luxembourg,2024,mdma,22.21
+Luxembourg,2024,amphetamine,8.05
+Luxembourg,2024,cannabis,140.4
+Luxembourg,2024,cocaine,499.33
+Luxembourg,2024,methamphetamine,2.36
+Luxembourg,2024,ketamine,12.4
+Madrid VdlV,2017,mdma,13.18
+Madrid VdlV,2017,amphetamine,0
+Madrid VdlV,2017,cocaine,458.79
+Madrid VdlV,2017,methamphetamine,12.01
+Madrid VdlV,2018,mdma,13.01
+Madrid VdlV,2018,amphetamine,0
+Madrid VdlV,2018,cannabis,56.83
+Madrid VdlV,2018,cocaine,316.47
+Madrid VdlV,2018,methamphetamine,7.93
+Madrid VdlV,2019,mdma,9.07
+Madrid VdlV,2019,amphetamine,0
+Madrid VdlV,2019,cannabis,88.68
+Madrid VdlV,2019,cocaine,504.86
+Madrid VdlV,2019,methamphetamine,6.64
+Magdeburg,2017,mdma,23.49
+Magdeburg,2017,amphetamine,97.91
+Magdeburg,2017,cocaine,136.23
+Magdeburg,2017,methamphetamine,85.2
+Magdeburg,2020,mdma,19.06
+Magdeburg,2020,amphetamine,114.45
+Magdeburg,2020,cocaine,180.79
+Magdeburg,2020,methamphetamine,142.63
+Magdeburg,2021,mdma,13.53
+Magdeburg,2021,cocaine,222.21
+Magdeburg,2021,methamphetamine,48.67
+Magdeburg,2022,mdma,13.04
+Magdeburg,2022,amphetamine,146.8
+Magdeburg,2022,cocaine,203.17
+Magdeburg,2022,methamphetamine,152.23
+Magdeburg,2023,mdma,20.04
+Magdeburg,2023,amphetamine,122.97
+Magdeburg,2023,cocaine,233.94
+Magdeburg,2023,methamphetamine,163.31
+Magdeburg,2023,ketamine,29.6
+Magdeburg,2024,mdma,21.33
+Magdeburg,2024,amphetamine,131.37
+Magdeburg,2024,cocaine,226.4
+Magdeburg,2024,methamphetamine,195.41
+Magdeburg,2024,ketamine,12.77
+Mainz,2017,mdma,25.98
+Mainz,2017,amphetamine,226.88
+Mainz,2017,cocaine,128.46
+Mainz,2017,methamphetamine,2.03
+Malta,2015,amphetamine,3.72
+Malta,2015,cocaine,68.45
+Malta,2015,methamphetamine,0.19
+Maribor,2018,mdma,6.31
+Maribor,2018,amphetamine,3.86
+Maribor,2018,cocaine,92.56
+Maribor,2018,methamphetamine,0
+Maribor,2019,mdma,20.07
+Maribor,2019,amphetamine,17.69
+Maribor,2019,cannabis,59.52
+Maribor,2019,cocaine,237.5
+Maribor,2019,methamphetamine,0.83
+Maribor,2020,mdma,8.73
+Maribor,2020,amphetamine,4.44
+Maribor,2020,cocaine,139.68
+Maribor,2020,methamphetamine,0
+Maribor,2021,mdma,6.86
+Maribor,2021,amphetamine,0
+Maribor,2021,cannabis,100.66
+Maribor,2021,cocaine,155.83
+Maribor,2021,methamphetamine,0
+Maribor,2022,mdma,13.79
+Maribor,2022,amphetamine,20.24
+Maribor,2022,cannabis,61.62
+Maribor,2022,cocaine,240.47
+Maribor,2022,methamphetamine,0.67
+Maribor,2022,ketamine,0
+Maribor,2023,mdma,17.56
+Maribor,2023,amphetamine,30.25
+Maribor,2023,cannabis,88.6
+Maribor,2023,cocaine,394.89
+Maribor,2023,methamphetamine,0.4
+Maribor,2023,ketamine,0
+Maribor,2024,mdma,17.84
+Maribor,2024,amphetamine,32.51
+Maribor,2024,cannabis,64.97
+Maribor,2024,cocaine,447.91
+Maribor,2024,methamphetamine,0
+Maribor,2024,ketamine,1.36
+Mariehamn,2018,mdma,18.9
+Mariehamn,2018,amphetamine,57.43
+Mariehamn,2018,cocaine,23.98
+Mariehamn,2018,methamphetamine,1.09
+Mariehamn,2020,mdma,0.83
+Mariehamn,2020,amphetamine,18.4
+Mariehamn,2020,cocaine,41.53
+Mariehamn,2020,methamphetamine,0
+Mariehamn,2022,mdma,3.13
+Mariehamn,2022,amphetamine,66.98
+Mariehamn,2022,cocaine,22.54
+Mariehamn,2022,methamphetamine,0.58
+Mariehamn,2024,mdma,5.52
+Mariehamn,2024,amphetamine,86.8
+Mariehamn,2024,cocaine,17.41
+Mariehamn,2024,methamphetamine,2.46
+Merchtem,2017,mdma,7.36
+Merchtem,2017,amphetamine,26.81
+Merchtem,2017,cocaine,234.78
+Merchtem,2017,methamphetamine,0
+Mikkeli,2018,mdma,19.67
+Mikkeli,2018,amphetamine,96.25
+Mikkeli,2018,cocaine,2.47
+Mikkeli,2018,methamphetamine,6.7
+Mikkeli,2020,mdma,36.11
+Mikkeli,2020,amphetamine,126.83
+Mikkeli,2020,cocaine,2.98
+Mikkeli,2020,methamphetamine,4.7
+Mikkeli,2022,mdma,2.56
+Mikkeli,2022,amphetamine,67.84
+Mikkeli,2022,cocaine,1.57
+Mikkeli,2022,methamphetamine,0.45
+Mikkeli,2024,mdma,5.38
+Mikkeli,2024,amphetamine,91.4
+Mikkeli,2024,cocaine,21.82
+Mikkeli,2024,methamphetamine,2.61
+Milan,2011,mdma,7.58
+Milan,2011,amphetamine,11.05
+Milan,2011,cannabis,27.61
+Milan,2011,cocaine,238.85
+Milan,2011,methamphetamine,48.68
+Milan,2012,mdma,8.74
+Milan,2012,amphetamine,0
+Milan,2012,cannabis,24.25
+Milan,2012,cocaine,241.75
+Milan,2012,methamphetamine,10.11
+Milan,2013,mdma,4.96
+Milan,2013,cannabis,24.91
+Milan,2013,cocaine,233.17
+Milan,2013,methamphetamine,5.93
+Milan,2014,mdma,3.96
+Milan,2014,amphetamine,0
+Milan,2014,cocaine,208.05
+Milan,2014,methamphetamine,5.37
+Milan,2015,mdma,6.7
+Milan,2015,amphetamine,2.72
+Milan,2015,cocaine,206.12
+Milan,2015,methamphetamine,10.05
+Milan,2016,mdma,4.45
+Milan,2016,amphetamine,0
+Milan,2016,cocaine,306.59
+Milan,2016,methamphetamine,13.77
+Milan,2017,mdma,4.34
+Milan,2017,amphetamine,0
+Milan,2017,cocaine,341.43
+Milan,2017,methamphetamine,10.07
+Milan,2018,mdma,5.84
+Milan,2018,amphetamine,0
+Milan,2018,cannabis,31.44
+Milan,2018,cocaine,362.19
+Milan,2018,methamphetamine,12.93
+Milan,2019,mdma,6.45
+Milan,2019,amphetamine,3.56
+Milan,2019,cannabis,35.68
+Milan,2019,cocaine,236.55
+Milan,2019,methamphetamine,18.76
+Milan,2020,mdma,2.47
+Milan,2020,amphetamine,0
+Milan,2020,cannabis,47.64
+Milan,2020,cocaine,401.44
+Milan,2020,methamphetamine,11.09
+Milan,2021,mdma,2.57
+Milan,2021,amphetamine,0
+Milan,2021,cannabis,42.98
+Milan,2021,cocaine,385.29
+Milan,2021,methamphetamine,12.67
+Milan,2022,amphetamine,0
+Milan,2022,cannabis,53.33
+Milan,2022,cocaine,390.11
+Milan,2022,methamphetamine,9.7
+Milan,2022,ketamine,13.83
+Milan,2023,mdma,9.84
+Milan,2023,amphetamine,6.6
+Milan,2023,cannabis,54.22
+Milan,2023,cocaine,369.18
+Milan,2023,methamphetamine,16.18
+Milan,2023,ketamine,22.98
+Milan,2024,mdma,14.44
+Milan,2024,amphetamine,4.05
+Milan,2024,cannabis,52.28
+Milan,2024,cocaine,402.39
+Milan,2024,methamphetamine,11.14
+Milan,2024,ketamine,24.92
+Molina de Segura,2015,mdma,4.22
+Molina de Segura,2015,amphetamine,0
+Molina de Segura,2015,cocaine,232.78
+Molina de Segura,2015,methamphetamine,0
+Molina de Segura,2016,mdma,0
+Molina de Segura,2016,amphetamine,0
+Molina de Segura,2016,cocaine,509.94
+Molina de Segura,2016,methamphetamine,0
+Munich G,2014,mdma,18.06
+Munich G,2014,amphetamine,22.19
+Munich G,2014,cocaine,79.46
+Munich G,2014,methamphetamine,0
+Munich G,2015,mdma,7.24
+Munich G,2015,amphetamine,0
+Munich G,2015,cocaine,26.8
+Munich G,2015,methamphetamine,7.18
+Munich G,2016,mdma,24.09
+Munich G,2016,amphetamine,26.17
+Munich G,2016,cocaine,113.79
+Munich G,2016,methamphetamine,24.8
+Munich G,2017,mdma,22.46
+Munich G,2017,amphetamine,25.53
+Munich G,2017,cocaine,140.16
+Munich G,2017,methamphetamine,8.1
+Munich G,2018,mdma,21.07
+Munich G,2018,amphetamine,6.3
+Munich G,2018,cocaine,187.06
+Munich G,2018,methamphetamine,5.42
+Munich G,2019,mdma,17.09
+Munich G,2019,amphetamine,26.18
+Munich G,2019,cocaine,235.7
+Munich G,2019,methamphetamine,8.01
+Munich G,2020,mdma,14.38
+Munich G,2020,amphetamine,14.14
+Munich G,2020,cocaine,191.33
+Munich G,2020,methamphetamine,9.3
+Munich G,2021,mdma,13.55
+Munich G,2021,cocaine,236.17
+Munich G,2021,methamphetamine,4.94
+Munich G,2022,mdma,11.74
+Munich G,2022,amphetamine,31.67
+Munich G,2022,cocaine,236.41
+Munich G,2022,methamphetamine,14.1
+Munich G,2023,mdma,16.1
+Munich G,2023,amphetamine,30.93
+Munich G,2023,cocaine,301.46
+Munich G,2023,methamphetamine,14.36
+Munich G,2023,ketamine,19.29
+Munich G,2024,mdma,39.37
+Munich G,2024,amphetamine,37.87
+Munich G,2024,cocaine,407.64
+Munich G,2024,methamphetamine,18.86
+Munich G,2024,ketamine,14.51
+Mytilene,2015,mdma,0.81
+Mytilene,2015,amphetamine,0
+Mytilene,2015,cocaine,2.65
+Mytilene,2015,methamphetamine,0
+Narva,2021,cannabis,37.34
+Narva,2021,cocaine,35.73
+Nicosia (2),2021,mdma,3.34
+Nicosia (2),2021,amphetamine,4.14
+Nicosia (2),2021,cocaine,47.68
+Nicosia (2),2021,methamphetamine,10.44
+Nicosia (2),2022,mdma,1.04
+Nicosia (2),2022,amphetamine,3.19
+Nicosia (2),2022,cocaine,46.12
+Nicosia (2),2022,methamphetamine,20.09
+Nicosia (2),2022,ketamine,0
+Nicosia (2),2023,mdma,2.99
+Nicosia (2),2023,amphetamine,6.28
+Nicosia (2),2023,cocaine,65.27
+Nicosia (2),2023,methamphetamine,9.17
+Nicosia (2),2023,ketamine,0
+Nicosia (2),2024,mdma,1.62
+Nicosia (2),2024,amphetamine,5.77
+Nicosia (2),2024,cocaine,43.54
+Nicosia (2),2024,methamphetamine,10.82
+Nicosia (2),2024,ketamine,0
+Ninove,2013,mdma,10.96
+Ninove,2013,amphetamine,111.94
+Ninove,2013,cannabis,39.95
+Ninove,2013,cocaine,106.2
+Ninove,2013,methamphetamine,0
+Ninove,2014,mdma,15.82
+Ninove,2014,amphetamine,129.4
+Ninove,2014,cocaine,114.17
+Ninove,2014,methamphetamine,0.49
+Ninove,2015,mdma,10.44
+Ninove,2015,amphetamine,119.04
+Ninove,2015,cocaine,98.52
+Ninove,2015,methamphetamine,1.01
+Novi Sad,2013,mdma,7.09
+Novi Sad,2013,amphetamine,25.67
+Novi Sad,2013,cannabis,185.88
+Novi Sad,2013,cocaine,15.78
+Novi Sad,2013,methamphetamine,0
+Novi Sad,2020,mdma,19.61
+Novi Sad,2020,amphetamine,69.76
+Novi Sad,2020,cocaine,125.95
+Novi Sad,2020,methamphetamine,0
+Novo mesto,2019,mdma,8.77
+Novo mesto,2019,amphetamine,13.02
+Novo mesto,2019,cannabis,71.83
+Novo mesto,2019,cocaine,259.59
+Novo mesto,2019,methamphetamine,0
+Novo mesto,2020,mdma,2.72
+Novo mesto,2020,amphetamine,2.66
+Novo mesto,2020,cocaine,107.44
+Novo mesto,2020,methamphetamine,0
+Novo mesto,2021,mdma,4.59
+Novo mesto,2021,amphetamine,28.71
+Novo mesto,2021,cannabis,76.05
+Novo mesto,2021,cocaine,192.82
+Novo mesto,2021,methamphetamine,0
+Novo mesto,2022,mdma,2.95
+Novo mesto,2022,amphetamine,5.35
+Novo mesto,2022,cannabis,57.46
+Novo mesto,2022,cocaine,261.13
+Novo mesto,2022,methamphetamine,0.3
+Novo mesto,2022,ketamine,0
+Novo mesto,2023,mdma,3.86
+Novo mesto,2023,amphetamine,4.03
+Novo mesto,2023,cannabis,73.9
+Novo mesto,2023,cocaine,303.06
+Novo mesto,2023,methamphetamine,1.72
+Novo mesto,2023,ketamine,0
+Novo mesto,2024,mdma,1.13
+Novo mesto,2024,amphetamine,9.82
+Novo mesto,2024,cannabis,36.84
+Novo mesto,2024,cocaine,318.89
+Novo mesto,2024,methamphetamine,0
+Novo mesto,2024,ketamine,2.01
+Nuremberg,2017,mdma,13.66
+Nuremberg,2017,amphetamine,41.65
+Nuremberg,2017,cocaine,18.11
+Nuremberg,2017,methamphetamine,94.77
+Nuremberg,2020,mdma,5.64
+Nuremberg,2020,amphetamine,33.18
+Nuremberg,2020,cocaine,38.24
+Nuremberg,2020,methamphetamine,123.56
+Nuremberg,2021,mdma,12.14
+Nuremberg,2021,cocaine,72.94
+Nuremberg,2021,methamphetamine,57.61
+Nuremberg,2022,mdma,6.15
+Nuremberg,2022,amphetamine,61.04
+Nuremberg,2022,cocaine,61.86
+Nuremberg,2022,methamphetamine,132.41
+Nuremberg,2023,mdma,25.87
+Nuremberg,2023,amphetamine,46.96
+Nuremberg,2023,cocaine,103.7
+Nuremberg,2023,methamphetamine,167.89
+Nuremberg,2023,ketamine,24.03
+Nuremberg,2024,mdma,15.44
+Nuremberg,2024,amphetamine,53.19
+Nuremberg,2024,cocaine,91.62
+Nuremberg,2024,methamphetamine,175.17
+Nuremberg,2024,ketamine,11.96
+Odense,2021,mdma,11.38
+Odense,2021,amphetamine,90.74
+Odense,2021,cocaine,295.15
+Odense,2021,methamphetamine,4.78
+Odense,2024,mdma,10.03
+Odense,2024,amphetamine,121.81
+Odense,2024,cannabis,78.41
+Odense,2024,cocaine,406.63
+Odense,2024,methamphetamine,1.5
+Odense,2024,ketamine,7.22
+Oostende,2015,mdma,9.18
+Oostende,2015,amphetamine,176.58
+Oostende,2015,cocaine,80.71
+Oostende,2015,methamphetamine,1.1
+Oostende,2016,mdma,13.41
+Oostende,2016,amphetamine,178.98
+Oostende,2016,cocaine,98
+Oostende,2016,methamphetamine,0
+Oostende,2017,mdma,14.66
+Oostende,2017,amphetamine,236.37
+Oostende,2017,cocaine,145.14
+Oostende,2017,methamphetamine,0
+Oostende,2018,mdma,11.59
+Oostende,2018,amphetamine,151.63
+Oostende,2018,cocaine,139.17
+Oostende,2018,methamphetamine,0
+Oostende,2019,mdma,25.96
+Oostende,2019,amphetamine,291.64
+Oostende,2019,cocaine,249.38
+Oostende,2019,methamphetamine,1.58
+Oslo (2),2024,mdma,37.79
+Oslo (2),2024,amphetamine,296.7
+Oslo (2),2024,cannabis,163.11
+Oslo (2),2024,cocaine,672.16
+Oslo (2),2024,methamphetamine,29.35
+Oslo (2),2024,ketamine,65.51
+Ostrava,2019,mdma,25.14
+Ostrava,2019,amphetamine,48.67
+Ostrava,2019,cannabis,56.3
+Ostrava,2019,cocaine,27.41
+Ostrava,2019,methamphetamine,601.16
+Ostrava,2020,mdma,16.77
+Ostrava,2020,amphetamine,76.6
+Ostrava,2020,cannabis,70.68
+Ostrava,2020,cocaine,45.4
+Ostrava,2020,methamphetamine,702.94
+Ostrava,2021,mdma,10.31
+Ostrava,2021,amphetamine,76.77
+Ostrava,2021,cannabis,82.08
+Ostrava,2021,cocaine,45.91
+Ostrava,2021,methamphetamine,684.14
+Ostrava,2022,amphetamine,94.74
+Ostrava,2022,cannabis,76.25
+Ostrava,2022,cocaine,71.68
+Ostrava,2022,methamphetamine,922.26
+Ostrava,2023,mdma,9.71
+Ostrava,2023,amphetamine,59.32
+Ostrava,2023,cannabis,54.13
+Ostrava,2023,cocaine,99.11
+Ostrava,2023,methamphetamine,614.44
+Ostrava,2023,ketamine,1.67
+Ostrava,2024,mdma,26.41
+Ostrava,2024,amphetamine,56.62
+Ostrava,2024,cannabis,61.53
+Ostrava,2024,cocaine,119.23
+Ostrava,2024,methamphetamine,577.04
+Ostrava,2024,ketamine,1.55
+Oulu,2014,mdma,40.66
+Oulu,2014,amphetamine,24.86
+Oulu,2014,cocaine,0.28
+Oulu,2014,methamphetamine,1.27
+Oulu,2016,mdma,10.31
+Oulu,2016,amphetamine,32.58
+Oulu,2016,cocaine,0
+Oulu,2016,methamphetamine,12.04
+Oulu,2018,mdma,16.81
+Oulu,2018,amphetamine,69.35
+Oulu,2018,cocaine,2.75
+Oulu,2018,methamphetamine,2.66
+Oulu,2020,mdma,19.57
+Oulu,2020,amphetamine,106.73
+Oulu,2020,cocaine,3.72
+Oulu,2020,methamphetamine,1.21
+Oulu,2022,mdma,10.05
+Oulu,2022,amphetamine,49.98
+Oulu,2022,cocaine,7.21
+Oulu,2022,methamphetamine,4.19
+Oulu,2024,mdma,25.74
+Oulu,2024,amphetamine,140.06
+Oulu,2024,cocaine,29.47
+Oulu,2024,methamphetamine,2.87
+Paris Seine Centre,2011,mdma,14.94
+Paris Seine Centre,2011,amphetamine,0
+Paris Seine Centre,2011,cannabis,123.59
+Paris Seine Centre,2011,cocaine,206.3
+Paris Seine Centre,2011,methamphetamine,0
+Paris Seine Centre,2012,amphetamine,0
+Paris Seine Centre,2012,cannabis,117.46
+Paris Seine Centre,2012,cocaine,215.42
+Paris Seine Centre,2012,methamphetamine,0
+Paris Seine Centre,2013,mdma,26.06
+Paris Seine Centre,2013,amphetamine,0
+Paris Seine Centre,2013,cannabis,151.03
+Paris Seine Centre,2013,cocaine,242.66
+Paris Seine Centre,2013,methamphetamine,4
+Paris Seine Centre,2014,mdma,19.06
+Paris Seine Centre,2014,amphetamine,0
+Paris Seine Centre,2014,cocaine,233.96
+Paris Seine Centre,2014,methamphetamine,0
+Paris Seine Centre,2015,mdma,20.6
+Paris Seine Centre,2015,amphetamine,0
+Paris Seine Centre,2015,cocaine,161.56
+Paris Seine Centre,2015,methamphetamine,0
+Paris Seine Centre,2016,mdma,17.16
+Paris Seine Centre,2016,amphetamine,0
+Paris Seine Centre,2016,cocaine,169.6
+Paris Seine Centre,2016,methamphetamine,0
+Paris Seine Centre,2017,mdma,43.43
+Paris Seine Centre,2017,amphetamine,0
+Paris Seine Centre,2017,cocaine,324.24
+Paris Seine Centre,2017,methamphetamine,0
+Paris Seine Centre,2018,mdma,34.3
+Paris Seine Centre,2018,amphetamine,0
+Paris Seine Centre,2018,cannabis,83.14
+Paris Seine Centre,2018,cocaine,524.98
+Paris Seine Centre,2018,methamphetamine,0
+Paris Seine Centre,2019,mdma,27.14
+Paris Seine Centre,2019,amphetamine,0
+Paris Seine Centre,2019,cannabis,93.67
+Paris Seine Centre,2019,cocaine,273.54
+Paris Seine Centre,2019,methamphetamine,0
+Paris Seine Centre,2020,mdma,32.29
+Paris Seine Centre,2020,amphetamine,0
+Paris Seine Centre,2020,cannabis,163.69
+Paris Seine Centre,2020,cocaine,410.58
+Paris Seine Centre,2020,methamphetamine,0
+Paris Seine Centre,2021,mdma,56.95
+Paris Seine Centre,2021,amphetamine,0
+Paris Seine Centre,2021,cannabis,117.74
+Paris Seine Centre,2021,cocaine,427.42
+Paris Seine Centre,2021,methamphetamine,0
+Paris Seine Centre,2023,mdma,83.04
+Paris Seine Centre,2023,amphetamine,0
+Paris Seine Centre,2023,cannabis,119.1
+Paris Seine Centre,2023,cocaine,616.48
+Paris Seine Centre,2023,methamphetamine,34.37
+Paris Seine Centre,2023,ketamine,31.81
+Paris Seine Centre,2024,mdma,50.57
+Paris Seine Centre,2024,amphetamine,5.85
+Paris Seine Centre,2024,cannabis,53.88
+Paris Seine Centre,2024,methamphetamine,12.25
+Paris Seine Centre,2024,ketamine,15.75
+Paris South Suburbs,2017,mdma,5.19
+Paris South Suburbs,2017,amphetamine,0
+Paris South Suburbs,2017,cocaine,104.31
+Paris South Suburbs,2017,methamphetamine,0
+Paris South Suburbs,2018,mdma,0
+Paris South Suburbs,2018,amphetamine,0
+Paris South Suburbs,2018,cannabis,87.98
+Paris South Suburbs,2018,cocaine,56.77
+Paris South Suburbs,2018,methamphetamine,0
+Piestany,2013,mdma,0
+Piestany,2013,amphetamine,13.99
+Piestany,2013,cannabis,20.92
+Piestany,2013,cocaine,3.23
+Piestany,2013,methamphetamine,123.8
+Piestany,2015,mdma,0
+Piestany,2015,amphetamine,23.34
+Piestany,2015,cocaine,6.15
+Piestany,2015,methamphetamine,131.86
+Piestany,2016,mdma,10.16
+Piestany,2016,amphetamine,30.89
+Piestany,2016,cocaine,20.03
+Piestany,2016,methamphetamine,310.21
+Piestany,2017,mdma,2.24
+Piestany,2017,amphetamine,2.11
+Piestany,2017,cocaine,6.35
+Piestany,2017,methamphetamine,78.03
+Piestany,2018,mdma,2.46
+Piestany,2018,amphetamine,24.06
+Piestany,2018,cannabis,17.96
+Piestany,2018,cocaine,22.01
+Piestany,2018,methamphetamine,81.9
+Piestany,2019,cannabis,27.68
+Piestany,2019,cocaine,33.19
+Piestany,2021,mdma,2.01
+Piestany,2021,amphetamine,11.45
+Piestany,2021,cannabis,20.92
+Piestany,2021,cocaine,11.92
+Piestany,2021,methamphetamine,151.15
+Piestany,2022,mdma,2.49
+Piestany,2022,amphetamine,7.88
+Piestany,2022,cannabis,26.72
+Piestany,2022,cocaine,41.33
+Piestany,2023,mdma,5.99
+Piestany,2023,cannabis,23.42
+Piestany,2023,cocaine,35.77
+Piestany,2023,methamphetamine,227.95
+Piestany,2023,ketamine,0.75
+Piestany,2024,mdma,8.58
+Piestany,2024,amphetamine,7.62
+Piestany,2024,cannabis,52.34
+Piestany,2024,cocaine,60.27
+Piestany,2024,methamphetamine,223.78
+Piestany,2024,ketamine,2.61
+Plzen,2023,mdma,18.69
+Plzen,2023,amphetamine,46.01
+Plzen,2023,cannabis,114.72
+Plzen,2023,cocaine,162.31
+Plzen,2023,methamphetamine,317.82
+Plzen,2024,mdma,23.2
+Plzen,2024,amphetamine,57.48
+Plzen,2024,cannabis,105.41
+Plzen,2024,cocaine,200.1
+Plzen,2024,methamphetamine,484.72
+Plzen,2024,ketamine,2.41
+Pori,2018,mdma,14.92
+Pori,2018,amphetamine,40.64
+Pori,2018,cocaine,4.32
+Pori,2018,methamphetamine,4.16
+Pori,2020,mdma,17.44
+Pori,2020,amphetamine,78.45
+Pori,2020,cocaine,3.74
+Pori,2020,methamphetamine,1.49
+Pori,2022,mdma,3.62
+Pori,2022,amphetamine,60.99
+Pori,2022,cocaine,6.63
+Pori,2022,methamphetamine,3.91
+Pori,2024,mdma,16.28
+Pori,2024,amphetamine,61.32
+Pori,2024,cocaine,21.11
+Pori,2024,methamphetamine,2.11
+Porto,2015,mdma,10.27
+Porto,2015,amphetamine,0
+Porto,2015,cocaine,92.42
+Porto,2015,methamphetamine,0.41
+Porto,2016,mdma,10.78
+Porto,2016,amphetamine,0
+Porto,2016,cocaine,90.75
+Porto,2016,methamphetamine,0.51
+Porto,2017,mdma,10.81
+Porto,2017,amphetamine,0
+Porto,2017,cocaine,160.22
+Porto,2017,methamphetamine,0.47
+Porto,2018,mdma,21.07
+Porto,2018,amphetamine,1.93
+Porto,2018,cannabis,44.67
+Porto,2018,cocaine,219.48
+Porto,2018,methamphetamine,0.36
+Porto,2019,mdma,21.38
+Porto,2019,amphetamine,2
+Porto,2019,cannabis,53.01
+Porto,2019,cocaine,264.35
+Porto,2019,methamphetamine,0
+Porto,2020,mdma,21.33
+Porto,2020,amphetamine,0
+Porto,2020,cannabis,63.21
+Porto,2020,cocaine,329.85
+Porto,2020,methamphetamine,0
+Porto,2021,mdma,8.04
+Porto,2021,amphetamine,0
+Porto,2021,cannabis,47.55
+Porto,2021,cocaine,237.8
+Porto,2021,methamphetamine,0
+Porto,2022,mdma,16.56
+Porto,2022,amphetamine,7.26
+Porto,2022,cannabis,64.12
+Porto,2022,cocaine,265.85
+Porto,2022,methamphetamine,0
+Porto,2023,mdma,18.56
+Porto,2023,amphetamine,0
+Porto,2023,cannabis,98.29
+Porto,2023,cocaine,512.53
+Porto,2023,methamphetamine,0
+Porto,2024,mdma,21.99
+Porto,2024,amphetamine,10.97
+Porto,2024,cannabis,53.74
+Porto,2024,cocaine,415.58
+Porto,2024,methamphetamine,1.49
+Porto,2024,ketamine,0.94
+Prague (2),2012,mdma,9.54
+Prague (2),2012,amphetamine,32.41
+Prague (2),2012,cannabis,61.7
+Prague (2),2012,cocaine,48.34
+Prague (2),2012,methamphetamine,186.72
+Prague (2),2013,mdma,21.9
+Prague (2),2013,amphetamine,36.24
+Prague (2),2013,cannabis,79.63
+Prague (2),2013,cocaine,51.45
+Prague (2),2013,methamphetamine,326.6
+Prague (2),2019,mdma,93.78
+Prague (2),2019,amphetamine,81.29
+Prague (2),2019,cannabis,140.77
+Prague (2),2019,cocaine,477.92
+Prague (2),2019,methamphetamine,726.87
+Prague (2),2020,mdma,36.18
+Prague (2),2020,amphetamine,39.08
+Prague (2),2020,cannabis,90.35
+Prague (2),2020,cocaine,267.94
+Prague (2),2020,methamphetamine,327.64
+Prague (2),2021,mdma,26.6
+Prague (2),2021,amphetamine,40.07
+Prague (2),2021,cannabis,91.03
+Prague (2),2021,cocaine,239.83
+Prague (2),2021,methamphetamine,328.77
+Prague (2),2022,mdma,51.44
+Prague (2),2022,amphetamine,74.54
+Prague (2),2022,cannabis,112.38
+Prague (2),2022,cocaine,513.4
+Prague (2),2022,methamphetamine,628.65
+Prague (2),2024,mdma,54.74
+Prague (2),2024,amphetamine,53.78
+Prague (2),2024,cannabis,80.35
+Prague (2),2024,cocaine,501.72
+Prague (2),2024,methamphetamine,408.54
+Prague (2),2024,ketamine,13.59
+Purgstall,2019,mdma,4.41
+Purgstall,2019,amphetamine,13.74
+Purgstall,2019,cannabis,30.6
+Purgstall,2019,cocaine,22.03
+Purgstall,2019,methamphetamine,1.48
+Purgstall,2020,mdma,4.64
+Purgstall,2020,amphetamine,23.77
+Purgstall,2020,cannabis,38.96
+Purgstall,2020,cocaine,24.39
+Purgstall,2020,methamphetamine,1.32
+Purgstall,2021,mdma,4.11
+Purgstall,2021,amphetamine,23.44
+Purgstall,2021,cannabis,37.71
+Purgstall,2021,cocaine,28.24
+Purgstall,2021,methamphetamine,2.66
+Purgstall,2022,mdma,5.91
+Purgstall,2022,amphetamine,30.06
+Purgstall,2022,cannabis,30.04
+Purgstall,2022,cocaine,38.8
+Purgstall,2022,methamphetamine,3.35
+Purgstall,2023,mdma,13.22
+Purgstall,2023,amphetamine,14.31
+Purgstall,2023,cannabis,42.96
+Purgstall,2023,cocaine,24.89
+Purgstall,2023,methamphetamine,6.39
+Purgstall,2024,mdma,23.64
+Purgstall,2024,amphetamine,15.69
+Purgstall,2024,cannabis,38.52
+Purgstall,2024,cocaine,66.4
+Purgstall,2024,methamphetamine,11.23
+Region Millstättersee,2018,mdma,7.33
+Region Millstättersee,2018,amphetamine,7.14
+Region Millstättersee,2018,cannabis,39.33
+Region Millstättersee,2018,cocaine,72.1
+Region Millstättersee,2018,methamphetamine,0
+Region Millstättersee,2019,mdma,5.63
+Region Millstättersee,2019,amphetamine,2.57
+Region Millstättersee,2019,cannabis,31.5
+Region Millstättersee,2019,cocaine,55.47
+Region Millstättersee,2019,methamphetamine,0
+Region Millstättersee,2020,mdma,7
+Region Millstättersee,2020,amphetamine,6.16
+Region Millstättersee,2020,cannabis,31.63
+Region Millstättersee,2020,cocaine,75.72
+Region Millstättersee,2020,methamphetamine,5.48
+Region Millstättersee,2021,mdma,0
+Region Millstättersee,2021,amphetamine,4.94
+Region Millstättersee,2021,cannabis,24.25
+Region Millstättersee,2021,cocaine,30.44
+Region Millstättersee,2021,methamphetamine,0
+Region Millstättersee,2022,mdma,4.46
+Region Millstättersee,2022,amphetamine,1.74
+Region Millstättersee,2022,cannabis,47.17
+Region Millstättersee,2022,cocaine,110.57
+Region Millstättersee,2022,methamphetamine,0
+Region Millstättersee,2023,mdma,3.55
+Region Millstättersee,2023,amphetamine,2.02
+Region Millstättersee,2023,cannabis,49.5
+Region Millstättersee,2023,cocaine,216.28
+Region Millstättersee,2023,methamphetamine,0
+Region Millstättersee,2024,mdma,5.89
+Region Millstättersee,2024,amphetamine,6.19
+Region Millstättersee,2024,cannabis,25.8
+Region Millstättersee,2024,cocaine,172
+Region Millstättersee,2024,methamphetamine,0.84
+Ried im Innkreis,2024,mdma,6.3
+Ried im Innkreis,2024,amphetamine,101.68
+Ried im Innkreis,2024,cannabis,58.15
+Ried im Innkreis,2024,cocaine,95.96
+Ried im Innkreis,2024,methamphetamine,9.01
+Riga,2019,mdma,25.71
+Riga,2019,amphetamine,57.91
+Riga,2019,cocaine,57.34
+Riga,2019,methamphetamine,31.42
+Riga,2020,mdma,42.98
+Riga,2020,amphetamine,53.45
+Riga,2020,cocaine,78.63
+Riga,2020,methamphetamine,76.82
+Riga,2021,mdma,29.05
+Riga,2021,amphetamine,40.96
+Riga,2021,cocaine,109.66
+Riga,2021,methamphetamine,225.56
+Riga,2022,mdma,33.84
+Riga,2022,amphetamine,106.47
+Riga,2022,cocaine,201.61
+Riga,2022,methamphetamine,167.97
+Riga,2023,mdma,28.64
+Riga,2023,amphetamine,160.07
+Riga,2023,cocaine,231.72
+Riga,2023,methamphetamine,21.39
+Riga,2023,ketamine,0
+Riga,2024,mdma,16.19
+Riga,2024,amphetamine,139.03
+Riga,2024,cocaine,202.67
+Riga,2024,methamphetamine,22.36
+Riga,2024,ketamine,0
+Rome,2024,mdma,5.55
+Rome,2024,amphetamine,0
+Rome,2024,cannabis,78.77
+Rome,2024,cocaine,478.61
+Rome,2024,methamphetamine,13.27
+Rome,2024,ketamine,8.95
+Rostock,2017,mdma,19.54
+Rostock,2017,amphetamine,149.99
+Rostock,2017,cocaine,136.13
+Rostock,2017,methamphetamine,2.57
+Rotterdam (2),2023,mdma,236.71
+Rotterdam (2),2023,amphetamine,237.16
+Rotterdam (2),2023,cannabis,225.36
+Rotterdam (2),2023,cocaine,1088.44
+Rotterdam (2),2023,methamphetamine,12.37
+Rotterdam (2),2023,ketamine,76.69
+Rotterdam (2),2024,mdma,111.9
+Rotterdam (2),2024,amphetamine,173.2
+Rotterdam (2),2024,cannabis,147.99
+Rotterdam (2),2024,cocaine,972.92
+Rotterdam (2),2024,methamphetamine,9.8
+Rotterdam (2),2024,ketamine,61.44
+Rovaniemi,2014,mdma,12.34
+Rovaniemi,2014,amphetamine,46.39
+Rovaniemi,2014,cocaine,0.39
+Rovaniemi,2014,methamphetamine,2.24
+Rovaniemi,2016,mdma,14.27
+Rovaniemi,2016,amphetamine,73.97
+Rovaniemi,2016,cocaine,1.53
+Rovaniemi,2016,methamphetamine,9.69
+Rovaniemi,2018,mdma,31.76
+Rovaniemi,2018,amphetamine,138.61
+Rovaniemi,2018,cocaine,3.59
+Rovaniemi,2018,methamphetamine,5.72
+Rovaniemi,2020,mdma,21.99
+Rovaniemi,2020,amphetamine,170.03
+Rovaniemi,2020,cocaine,3.24
+Rovaniemi,2020,methamphetamine,1.87
+Rovaniemi,2022,mdma,5.33
+Rovaniemi,2022,amphetamine,78.88
+Rovaniemi,2022,cocaine,3.47
+Rovaniemi,2022,methamphetamine,1.55
+Rovaniemi,2024,mdma,21.25
+Rovaniemi,2024,amphetamine,188.72
+Rovaniemi,2024,cocaine,15.61
+Rovaniemi,2024,methamphetamine,2.53
+Salzburg,2022,mdma,6.85
+Salzburg,2022,amphetamine,22.84
+Salzburg,2022,cannabis,58.2
+Salzburg,2022,cocaine,192.23
+Salzburg,2022,methamphetamine,2.22
+Salzburg,2023,mdma,6.9
+Salzburg,2023,amphetamine,17.58
+Salzburg,2023,cannabis,55.15
+Salzburg,2023,cocaine,253.83
+Salzburg,2023,methamphetamine,3.1
+Salzburg,2024,mdma,8.85
+Salzburg,2024,amphetamine,24.3
+Salzburg,2024,cannabis,50.76
+Salzburg,2024,cocaine,279.9
+Salzburg,2024,methamphetamine,4.78
+Santiago,2011,mdma,5.99
+Santiago,2011,amphetamine,33.84
+Santiago,2011,cannabis,78.79
+Santiago,2011,cocaine,211.22
+Santiago,2011,methamphetamine,0
+Santiago,2012,mdma,5.05
+Santiago,2012,amphetamine,0
+Santiago,2012,cannabis,116.95
+Santiago,2012,cocaine,239.97
+Santiago,2012,methamphetamine,0
+Santiago,2013,amphetamine,0
+Santiago,2013,cannabis,56.72
+Santiago,2013,cocaine,130.21
+Santiago,2013,methamphetamine,0
+Santiago,2014,mdma,11.19
+Santiago,2014,amphetamine,0
+Santiago,2014,cocaine,165.17
+Santiago,2014,methamphetamine,0
+Santiago,2015,mdma,14.42
+Santiago,2015,amphetamine,0
+Santiago,2015,cocaine,135.1
+Santiago,2015,methamphetamine,0
+Santiago,2016,mdma,4.46
+Santiago,2016,amphetamine,0
+Santiago,2016,cocaine,142.68
+Santiago,2016,methamphetamine,0
+Santiago,2017,mdma,11.53
+Santiago,2017,amphetamine,6.42
+Santiago,2017,cocaine,342.68
+Santiago,2017,methamphetamine,0
+Santiago,2018,mdma,14.32
+Santiago,2018,amphetamine,0
+Santiago,2018,cannabis,64.9
+Santiago,2018,cocaine,352.14
+Santiago,2018,methamphetamine,0
+Santiago,2019,mdma,15.04
+Santiago,2019,amphetamine,10.04
+Santiago,2019,cannabis,120.06
+Santiago,2019,cocaine,500.54
+Santiago,2019,methamphetamine,0
+Santiago,2020,mdma,29.64
+Santiago,2020,amphetamine,0
+Santiago,2020,cannabis,92.14
+Santiago,2020,cocaine,610.78
+Santiago,2020,methamphetamine,0
+Santiago,2021,mdma,17.78
+Santiago,2021,amphetamine,14.46
+Santiago,2021,cannabis,82.68
+Santiago,2021,cocaine,546.97
+Santiago,2021,methamphetamine,0
+Santiago,2022,mdma,30.41
+Santiago,2022,amphetamine,8.35
+Santiago,2022,cannabis,92.81
+Santiago,2022,cocaine,505.1
+Santiago,2022,methamphetamine,1.56
+Santiago,2023,mdma,16.75
+Santiago,2023,amphetamine,0
+Santiago,2023,cannabis,71.9
+Santiago,2023,cocaine,627.43
+Santiago,2023,methamphetamine,0
+Santiago,2024,mdma,16.84
+Santiago,2024,amphetamine,10.93
+Santiago,2024,cannabis,54.32
+Santiago,2024,cocaine,609.79
+Santiago,2024,methamphetamine,0
+Santiago,2024,ketamine,3.97
+Split,2024,mdma,35.49
+Split,2024,amphetamine,79.93
+Split,2024,cannabis,4.93
+Split,2024,cocaine,232.99
+Split,2024,methamphetamine,1.84
+Split,2024,ketamine,12.59
+St. Gallen Hofen,2017,mdma,27.84
+St. Gallen Hofen,2017,amphetamine,43.92
+St. Gallen Hofen,2017,cocaine,821.69
+St. Gallen Hofen,2017,methamphetamine,7.41
+St. Gallen Hofen,2018,mdma,41.54
+St. Gallen Hofen,2018,amphetamine,47.57
+St. Gallen Hofen,2018,cocaine,708.34
+St. Gallen Hofen,2019,mdma,28.61
+St. Gallen Hofen,2019,amphetamine,61.84
+St. Gallen Hofen,2019,cannabis,13.31
+St. Gallen Hofen,2019,cocaine,909.82
+St. Gallen Hofen,2019,methamphetamine,12.73
+St. Gallen Hofen,2020,mdma,14.45
+St. Gallen Hofen,2020,amphetamine,76
+St. Gallen Hofen,2020,cannabis,10.23
+St. Gallen Hofen,2020,cocaine,691.83
+St. Gallen Hofen,2020,methamphetamine,9.01
+St. Gallen Hofen,2021,mdma,27.72
+St. Gallen Hofen,2021,amphetamine,129.98
+St. Gallen Hofen,2021,cocaine,1336.68
+St. Gallen Hofen,2021,methamphetamine,23.2
+Steyr,2022,mdma,7.15
+Steyr,2022,amphetamine,31.56
+Steyr,2022,cannabis,71.15
+Steyr,2022,cocaine,81.8
+Steyr,2022,methamphetamine,24.68
+Steyr,2023,mdma,15.78
+Steyr,2023,amphetamine,35.52
+Steyr,2023,cannabis,86.59
+Steyr,2023,cocaine,132.04
+Steyr,2023,methamphetamine,19.66
+Steyr,2024,mdma,12.16
+Steyr,2024,amphetamine,37.45
+Steyr,2024,cannabis,61.54
+Steyr,2024,cocaine,149.75
+Steyr,2024,methamphetamine,16.98
+Stockholm (2),2016,mdma,37.75
+Stockholm (2),2016,amphetamine,208.84
+Stockholm (2),2016,cocaine,144.14
+Stockholm (2),2016,methamphetamine,24.47
+Stockholm (2),2019,mdma,27.49
+Stockholm (2),2019,amphetamine,446.94
+Stockholm (2),2019,cocaine,211.23
+Stockholm (2),2019,methamphetamine,13.72
+Stockholm (2),2020,mdma,39.95
+Stockholm (2),2020,amphetamine,329.97
+Stockholm (2),2020,cocaine,323.34
+Stockholm (2),2020,methamphetamine,13.97
+Stockholm (2),2021,mdma,33.49
+Stockholm (2),2021,amphetamine,200.8
+Stockholm (2),2021,cocaine,159.19
+Stockholm (2),2021,methamphetamine,7.2
+Stockholm (2),2024,mdma,23.35
+Stockholm (2),2024,amphetamine,362.4
+Stockholm (2),2024,cannabis,57.61
+Stockholm (2),2024,cocaine,374.23
+Stockholm (2),2024,methamphetamine,16.78
+Stockholm (2),2024,ketamine,14.96
+Stuttgart,2017,mdma,23.17
+Stuttgart,2017,amphetamine,69.94
+Stuttgart,2017,cocaine,216.82
+Stuttgart,2017,methamphetamine,5.86
+Stuttgart,2024,mdma,22.84
+Stuttgart,2024,amphetamine,111.13
+Stuttgart,2024,cocaine,436.81
+Stuttgart,2024,methamphetamine,14.21
+Stuttgart,2024,ketamine,14.74
+Tallinn,2022,mdma,23.94
+Tallinn,2022,amphetamine,103.8
+Tallinn,2022,cannabis,56.84
+Tallinn,2022,cocaine,201.83
+Tallinn,2022,methamphetamine,27.41
+Tallinn,2023,mdma,27.55
+Tallinn,2023,amphetamine,107.59
+Tallinn,2023,cannabis,65.23
+Tallinn,2023,cocaine,282.82
+Tallinn,2023,methamphetamine,1.63
+Tampere,2014,mdma,9.66
+Tampere,2014,amphetamine,41.87
+Tampere,2014,cocaine,1
+Tampere,2014,methamphetamine,1.52
+Tampere,2015,mdma,28.16
+Tampere,2015,amphetamine,53.22
+Tampere,2015,cocaine,5.06
+Tampere,2015,methamphetamine,3.52
+Tampere,2016,mdma,27.08
+Tampere,2016,amphetamine,78.19
+Tampere,2016,cocaine,6.44
+Tampere,2016,methamphetamine,4.07
+Tampere,2017,mdma,44.51
+Tampere,2017,amphetamine,42.87
+Tampere,2017,cocaine,16.29
+Tampere,2017,methamphetamine,24.89
+Tampere,2018,mdma,22.44
+Tampere,2018,amphetamine,68.08
+Tampere,2018,cocaine,27.1
+Tampere,2018,methamphetamine,22.22
+Tampere,2019,mdma,23.25
+Tampere,2019,amphetamine,125.68
+Tampere,2019,cocaine,12.67
+Tampere,2019,methamphetamine,5.92
+Tampere,2020,mdma,31.54
+Tampere,2020,amphetamine,157.13
+Tampere,2020,cocaine,18.29
+Tampere,2020,methamphetamine,1.76
+Tampere,2021,mdma,18.06
+Tampere,2021,amphetamine,155.12
+Tampere,2021,cocaine,9.41
+Tampere,2021,methamphetamine,1.09
+Tampere,2022,mdma,9.64
+Tampere,2022,amphetamine,77.69
+Tampere,2022,cocaine,13.21
+Tampere,2022,methamphetamine,14.24
+Tampere,2023,mdma,20.88
+Tampere,2023,amphetamine,137.59
+Tampere,2023,cocaine,47.43
+Tampere,2023,methamphetamine,7.35
+Tampere,2024,mdma,28.54
+Tampere,2024,amphetamine,159.96
+Tampere,2024,cocaine,73.78
+Tampere,2024,methamphetamine,3.02
+Tampere,2024,ketamine,10.89
+Tarragona,2021,mdma,6.3
+Tarragona,2021,amphetamine,31.28
+Tarragona,2021,cannabis,39.64
+Tarragona,2021,methamphetamine,6.78
+Tarragona,2022,amphetamine,57.8
+Tarragona,2022,cannabis,87.71
+Tarragona,2022,cocaine,1610.55
+Tarragona,2022,methamphetamine,9.12
+Tarragona,2023,amphetamine,51.51
+Tarragona,2023,cannabis,192.64
+Tarragona,2023,cocaine,1463.91
+Tarragona,2024,mdma,32.14
+Tarragona,2024,amphetamine,54.73
+Tarragona,2024,cannabis,228.9
+Tarragona,2024,cocaine,1482.91
+Tarragona,2024,ketamine,30.77
+Tartu,2021,cannabis,25.73
+Tartu,2021,cocaine,67.26
+Tartu,2023,mdma,24.75
+Tartu,2023,amphetamine,102.66
+Tartu,2023,cannabis,36.13
+Tartu,2023,cocaine,178.32
+Tartu,2023,methamphetamine,10.27
+Thessaloniki,2015,cocaine,9.67
+Thessaloniki,2015,methamphetamine,0
+Trondheim (2),2024,mdma,21.17
+Trondheim (2),2024,amphetamine,394.43
+Trondheim (2),2024,cannabis,110.78
+Trondheim (2),2024,cocaine,264.37
+Trondheim (2),2024,methamphetamine,5.74
+Trondheim (2),2024,ketamine,9.59
+Turku,2012,mdma,0
+Turku,2012,amphetamine,43.61
+Turku,2012,cocaine,0
+Turku,2013,mdma,5.27
+Turku,2013,amphetamine,63.99
+Turku,2014,mdma,10.5
+Turku,2014,amphetamine,62.39
+Turku,2014,cocaine,1.49
+Turku,2014,methamphetamine,3.66
+Turku,2015,mdma,18.72
+Turku,2015,amphetamine,84.47
+Turku,2015,cocaine,0.85
+Turku,2015,methamphetamine,11.53
+Turku,2016,mdma,16.59
+Turku,2016,amphetamine,72.03
+Turku,2016,cocaine,1.8
+Turku,2016,methamphetamine,26.98
+Turku,2017,mdma,14.73
+Turku,2017,amphetamine,64.77
+Turku,2017,cocaine,4.74
+Turku,2017,methamphetamine,17.59
+Turku,2018,mdma,16.12
+Turku,2018,amphetamine,66.25
+Turku,2018,cocaine,6.94
+Turku,2018,methamphetamine,5.65
+Turku,2019,mdma,29.26
+Turku,2019,amphetamine,137.17
+Turku,2019,cocaine,11.07
+Turku,2019,methamphetamine,12.97
+Turku,2020,mdma,36.31
+Turku,2020,amphetamine,110.4
+Turku,2020,cocaine,17.52
+Turku,2020,methamphetamine,4.34
+Turku,2021,mdma,14.5
+Turku,2021,amphetamine,195.64
+Turku,2021,cocaine,10.45
+Turku,2021,methamphetamine,2.45
+Turku,2022,mdma,9.67
+Turku,2022,amphetamine,68.39
+Turku,2022,cocaine,18.29
+Turku,2022,methamphetamine,21.05
+Turku,2023,mdma,22.3
+Turku,2023,amphetamine,117.26
+Turku,2023,cocaine,59.46
+Turku,2023,methamphetamine,5.68
+Turku,2024,mdma,34.57
+Turku,2024,amphetamine,167.53
+Turku,2024,cocaine,91.21
+Turku,2024,methamphetamine,9.87
+Turku,2024,ketamine,5.4
+Umea,2011,mdma,0
+Umea,2011,amphetamine,13.82
+Umea,2011,cannabis,0
+Umea,2011,cocaine,2.63
+Umea,2011,methamphetamine,2.93
+Umea,2012,mdma,0
+Umea,2012,amphetamine,0
+Umea,2012,cannabis,0
+Umea,2012,cocaine,0
+Umea,2012,methamphetamine,0.94
+Umea,2013,mdma,4.49
+Umea,2013,amphetamine,29.99
+Umea,2013,cannabis,0
+Umea,2013,cocaine,5.07
+Umea,2013,methamphetamine,0
+Uppsala,2019,mdma,17.24
+Uppsala,2019,amphetamine,114.48
+Uppsala,2019,cocaine,62.27
+Uppsala,2019,methamphetamine,1.93
+Uppsala,2020,mdma,20.36
+Uppsala,2020,amphetamine,173.33
+Uppsala,2020,cocaine,94.74
+Uppsala,2020,methamphetamine,1.5
+Uppsala,2021,mdma,9.83
+Uppsala,2021,amphetamine,202.17
+Uppsala,2021,cocaine,77.12
+Uppsala,2021,methamphetamine,2.54
+Uppsala,2023,amphetamine,173.57
+Uppsala,2023,cocaine,68.55
+Uppsala,2023,methamphetamine,0.89
+Uppsala,2023,ketamine,12.78
+Utrecht,2011,amphetamine,83.46
+Utrecht,2011,cannabis,109.17
+Utrecht,2011,cocaine,356.34
+Utrecht,2011,methamphetamine,0
+Utrecht,2012,mdma,161.86
+Utrecht,2012,amphetamine,46.67
+Utrecht,2012,cannabis,133.29
+Utrecht,2012,cocaine,344.77
+Utrecht,2012,methamphetamine,1.4
+Utrecht,2013,mdma,83.11
+Utrecht,2013,amphetamine,46.52
+Utrecht,2013,cocaine,199.16
+Utrecht,2013,methamphetamine,0
+Utrecht,2014,mdma,85.97
+Utrecht,2014,amphetamine,111.06
+Utrecht,2014,cocaine,220.2
+Utrecht,2015,mdma,62.01
+Utrecht,2015,amphetamine,36.43
+Utrecht,2015,cocaine,148.1
+Utrecht,2015,methamphetamine,0
+Utrecht,2016,mdma,88.75
+Utrecht,2016,amphetamine,97.94
+Utrecht,2016,cocaine,310.36
+Utrecht,2016,methamphetamine,0
+Utrecht,2017,mdma,59.82
+Utrecht,2017,amphetamine,74.89
+Utrecht,2017,cocaine,288.74
+Utrecht,2017,methamphetamine,0
+Utrecht,2018,mdma,160.32
+Utrecht,2018,cannabis,100.66
+Utrecht,2018,cocaine,414.6
+Utrecht,2018,methamphetamine,0
+Utrecht,2019,mdma,129.13
+Utrecht,2019,amphetamine,144.77
+Utrecht,2019,cannabis,131.76
+Utrecht,2019,cocaine,460.25
+Utrecht,2019,methamphetamine,8.79
+Utrecht,2020,mdma,130.5
+Utrecht,2020,amphetamine,175.65
+Utrecht,2020,cannabis,146.02
+Utrecht,2020,cocaine,493.63
+Utrecht,2020,methamphetamine,4.83
+Utrecht,2021,mdma,101
+Utrecht,2021,amphetamine,236.8
+Utrecht,2021,cannabis,89.53
+Utrecht,2021,cocaine,529.55
+Utrecht,2021,methamphetamine,5.7
+Utrecht,2022,mdma,111.62
+Utrecht,2022,amphetamine,221.78
+Utrecht,2022,cannabis,99.56
+Utrecht,2022,cocaine,651.63
+Utrecht,2022,methamphetamine,6.86
+Utrecht,2023,mdma,116.73
+Utrecht,2023,cannabis,146.61
+Utrecht,2023,cocaine,734.55
+Utrecht,2023,methamphetamine,4.92
+Utrecht,2024,mdma,110.47
+Utrecht,2024,amphetamine,304.26
+Utrecht,2024,cannabis,122.44
+Utrecht,2024,cocaine,688.55
+Utrecht,2024,methamphetamine,8.64
+Utrecht,2024,ketamine,44.25
+Vaasa,2014,mdma,8.75
+Vaasa,2014,amphetamine,42.6
+Vaasa,2014,cocaine,0.85
+Vaasa,2014,methamphetamine,3.79
+Vaasa,2016,mdma,18.67
+Vaasa,2016,amphetamine,29.7
+Vaasa,2016,cocaine,0
+Vaasa,2016,methamphetamine,2.18
+Vaasa,2018,mdma,11.65
+Vaasa,2018,amphetamine,64.76
+Vaasa,2018,cocaine,1.27
+Vaasa,2018,methamphetamine,19.05
+Vaasa,2020,mdma,24.56
+Vaasa,2020,amphetamine,178.68
+Vaasa,2020,cocaine,1.82
+Vaasa,2020,methamphetamine,3.07
+Vaasa,2022,mdma,4.95
+Vaasa,2022,amphetamine,57.18
+Vaasa,2022,cocaine,1.81
+Vaasa,2022,methamphetamine,1.93
+Vaasa,2024,mdma,22.01
+Vaasa,2024,amphetamine,73.9
+Vaasa,2024,cocaine,23.04
+Vaasa,2024,methamphetamine,1.79
+Velenje,2019,mdma,10.15
+Velenje,2019,amphetamine,83.94
+Velenje,2019,cannabis,90
+Velenje,2019,cocaine,156.62
+Velenje,2019,methamphetamine,0
+Velenje,2020,mdma,6.14
+Velenje,2020,amphetamine,95.79
+Velenje,2020,cocaine,148.13
+Velenje,2020,methamphetamine,0.97
+Velenje,2021,mdma,7.59
+Velenje,2021,amphetamine,84.66
+Velenje,2021,cannabis,74.48
+Velenje,2021,cocaine,220.45
+Velenje,2021,methamphetamine,2.5
+Velenje,2022,mdma,9.02
+Velenje,2022,amphetamine,65.2
+Velenje,2022,cannabis,72.36
+Velenje,2022,cocaine,201.05
+Velenje,2022,methamphetamine,0
+Velenje,2022,ketamine,0
+Velenje,2023,mdma,5.11
+Velenje,2023,amphetamine,135.08
+Velenje,2023,cannabis,78.17
+Velenje,2023,cocaine,376.11
+Velenje,2023,methamphetamine,0
+Velenje,2023,ketamine,0
+Velenje,2024,mdma,1.95
+Velenje,2024,amphetamine,58.28
+Velenje,2024,cannabis,68.18
+Velenje,2024,cocaine,258.7
+Velenje,2024,methamphetamine,0
+Velenje,2024,ketamine,0
+Vilnius,2017,mdma,15.96
+Vilnius,2017,amphetamine,13.08
+Vilnius,2017,cocaine,34.7
+Vilnius,2017,methamphetamine,39.69
+Vilnius,2018,mdma,22.94
+Vilnius,2018,amphetamine,16.12
+Vilnius,2018,cocaine,49.8
+Vilnius,2018,methamphetamine,34.06
+Vilnius,2019,mdma,39.67
+Vilnius,2019,amphetamine,32.32
+Vilnius,2019,cocaine,75.56
+Vilnius,2019,methamphetamine,31.28
+Vilnius,2020,mdma,31.83
+Vilnius,2020,amphetamine,50.62
+Vilnius,2020,cocaine,70.99
+Vilnius,2020,methamphetamine,1.71
+Vilnius,2021,mdma,19.38
+Vilnius,2021,amphetamine,70.02
+Vilnius,2021,cocaine,119.98
+Vilnius,2021,methamphetamine,29.25
+Vilnius,2022,mdma,30.58
+Vilnius,2022,amphetamine,80.7
+Vilnius,2022,cocaine,123.73
+Vilnius,2022,methamphetamine,6.95
+Vilnius,2023,mdma,51.13
+Vilnius,2023,amphetamine,66.07
+Vilnius,2023,cocaine,124.03
+Vilnius,2023,methamphetamine,4.28
+Vilnius,2023,ketamine,10.68
+Vilnius,2024,mdma,19.75
+Vilnius,2024,amphetamine,57.16
+Vilnius,2024,cocaine,169.07
+Vilnius,2024,methamphetamine,5.63
+Vilnius,2024,ketamine,4.48
+Wasserverband Hofsteig,2018,mdma,8.9
+Wasserverband Hofsteig,2018,amphetamine,11.77
+Wasserverband Hofsteig,2018,cannabis,68.18
+Wasserverband Hofsteig,2018,cocaine,181.88
+Wasserverband Hofsteig,2018,methamphetamine,1.27
+Wasserverband Hofsteig,2019,mdma,11.91
+Wasserverband Hofsteig,2019,amphetamine,18.08
+Wasserverband Hofsteig,2019,cannabis,81.01
+Wasserverband Hofsteig,2019,cocaine,215.76
+Wasserverband Hofsteig,2019,methamphetamine,1.62
+Wasserverband Hofsteig,2020,mdma,6.52
+Wasserverband Hofsteig,2020,amphetamine,24.26
+Wasserverband Hofsteig,2020,cannabis,79.34
+Wasserverband Hofsteig,2020,cocaine,196.67
+Wasserverband Hofsteig,2020,methamphetamine,1.8
+Wasserverband Hofsteig,2021,mdma,9.28
+Wasserverband Hofsteig,2021,amphetamine,26.32
+Wasserverband Hofsteig,2021,cannabis,94.49
+Wasserverband Hofsteig,2021,cocaine,351.72
+Wasserverband Hofsteig,2021,methamphetamine,0
+Wasserverband Hofsteig,2022,mdma,6.58
+Wasserverband Hofsteig,2022,amphetamine,15.41
+Wasserverband Hofsteig,2022,cannabis,50.56
+Wasserverband Hofsteig,2022,cocaine,320.13
+Wasserverband Hofsteig,2022,methamphetamine,3.38
+Wasserverband Hofsteig,2023,mdma,5.6
+Wasserverband Hofsteig,2023,amphetamine,16.83
+Wasserverband Hofsteig,2023,cannabis,49.14
+Wasserverband Hofsteig,2023,cocaine,271.05
+Wasserverband Hofsteig,2023,methamphetamine,1
+Wasserverband Hofsteig,2024,mdma,9.59
+Wasserverband Hofsteig,2024,amphetamine,36
+Wasserverband Hofsteig,2024,cannabis,55.86
+Wasserverband Hofsteig,2024,cocaine,342
+Wasserverband Hofsteig,2024,methamphetamine,2.36
+Wien,2022,mdma,18.19
+Wien,2022,amphetamine,39.09
+Wien,2022,cannabis,83.12
+Wien,2022,cocaine,370.58
+Wien,2022,methamphetamine,28.05
+Wien,2023,mdma,18.67
+Wien,2023,amphetamine,39.66
+Wien,2023,cannabis,80.09
+Wien,2023,cocaine,442.74
+Wien,2023,methamphetamine,20.81
+Wien,2024,mdma,21.05
+Wien,2024,amphetamine,42.3
+Wien,2024,cannabis,87.34
+Wien,2024,cocaine,443.95
+Wien,2024,methamphetamine,28.98
+Wiener Neustadt,2022,mdma,8.54
+Wiener Neustadt,2022,amphetamine,28.1
+Wiener Neustadt,2022,cannabis,66.82
+Wiener Neustadt,2022,cocaine,175.45
+Wiener Neustadt,2022,methamphetamine,31.03
+Wiener Neustadt,2023,mdma,10.63
+Wiener Neustadt,2023,amphetamine,26.65
+Wiener Neustadt,2023,cannabis,60.51
+Wiener Neustadt,2023,cocaine,268.27
+Wiener Neustadt,2023,methamphetamine,31.58
+Wiener Neustadt,2024,mdma,11.86
+Wiener Neustadt,2024,amphetamine,26.28
+Wiener Neustadt,2024,cannabis,55.94
+Wiener Neustadt,2024,cocaine,277.24
+Wiener Neustadt,2024,methamphetamine,22.05
+Wildon,2022,mdma,7.11
+Wildon,2022,amphetamine,16.27
+Wildon,2022,cannabis,47.94
+Wildon,2022,cocaine,167.42
+Wildon,2022,methamphetamine,6.69
+Wildon,2023,mdma,10.53
+Wildon,2023,amphetamine,36.21
+Wildon,2023,cannabis,45.96
+Wildon,2023,cocaine,188.89
+Wildon,2023,methamphetamine,8.29
+Wildon,2024,mdma,6.02
+Wildon,2024,amphetamine,39.59
+Wildon,2024,cannabis,31.32
+Wildon,2024,cocaine,165.58
+Wildon,2024,methamphetamine,4.16
+Zagreb,2011,mdma,3.26
+Zagreb,2011,amphetamine,14.6
+Zagreb,2011,cannabis,30.59
+Zagreb,2011,cocaine,49.95
+Zagreb,2011,methamphetamine,0
+Zagreb,2012,mdma,7.65
+Zagreb,2012,amphetamine,12.13
+Zagreb,2012,cannabis,44.71
+Zagreb,2012,cocaine,69.8
+Zagreb,2012,methamphetamine,0
+Zagreb,2013,mdma,9.45
+Zagreb,2013,amphetamine,10
+Zagreb,2013,cannabis,63.01
+Zagreb,2013,cocaine,80.03
+Zagreb,2014,mdma,11.68
+Zagreb,2014,amphetamine,15.65
+Zagreb,2014,cocaine,77.43
+Zagreb,2014,methamphetamine,0.77
+Zagreb,2015,mdma,27.28
+Zagreb,2015,amphetamine,76.73
+Zagreb,2015,cocaine,100.47
+Zagreb,2015,methamphetamine,0
+Zagreb,2016,mdma,49.22
+Zagreb,2016,amphetamine,72.23
+Zagreb,2016,cocaine,162.32
+Zagreb,2016,methamphetamine,0
+Zagreb,2017,mdma,32.62
+Zagreb,2017,amphetamine,56.32
+Zagreb,2017,cocaine,216.27
+Zagreb,2017,methamphetamine,0
+Zagreb,2018,mdma,29.83
+Zagreb,2018,amphetamine,76.08
+Zagreb,2018,cannabis,120.03
+Zagreb,2018,cocaine,234.54
+Zagreb,2018,methamphetamine,0
+Zagreb,2019,mdma,36.5
+Zagreb,2019,amphetamine,145.67
+Zagreb,2019,cannabis,186.13
+Zagreb,2019,cocaine,395.55
+Zagreb,2019,methamphetamine,0
+Zagreb,2020,mdma,41.38
+Zagreb,2020,amphetamine,1013.84
+Zagreb,2020,cannabis,228.93
+Zagreb,2020,cocaine,510.24
+Zagreb,2020,methamphetamine,6.14
+Zagreb,2021,mdma,28.26
+Zagreb,2021,amphetamine,151.41
+Zagreb,2021,cannabis,132.9
+Zagreb,2021,cocaine,548.62
+Zagreb,2021,methamphetamine,0
+Zagreb,2022,mdma,26.86
+Zagreb,2022,amphetamine,99.81
+Zagreb,2022,cannabis,96.34
+Zagreb,2022,cocaine,401.19
+Zagreb,2022,methamphetamine,0
+Zagreb,2023,mdma,27.27
+Zagreb,2023,amphetamine,98.29
+Zagreb,2023,cannabis,85.68
+Zagreb,2023,cocaine,567.95
+Zagreb,2023,methamphetamine,0
+Zagreb,2023,ketamine,0
+Zagreb,2024,mdma,20.71
+Zagreb,2024,amphetamine,82.75
+Zagreb,2024,cannabis,88.8
+Zagreb,2024,cocaine,677.38
+Zagreb,2024,methamphetamine,45.47
+Zurich,2012,mdma,38.75
+Zurich,2012,amphetamine,0
+Zurich,2012,cocaine,436.86
+Zurich,2012,methamphetamine,0
+Zurich,2013,mdma,42.87
+Zurich,2013,amphetamine,42.65
+Zurich,2013,cocaine,678.79
+Zurich,2013,methamphetamine,16.71
+Zurich,2014,mdma,55.42
+Zurich,2014,amphetamine,25.65
+Zurich,2014,cocaine,598.27
+Zurich,2014,methamphetamine,21.79
+Zurich,2015,mdma,40.62
+Zurich,2015,amphetamine,23.92
+Zurich,2015,cocaine,529.32
+Zurich,2015,methamphetamine,23.21
+Zurich,2016,mdma,59.32
+Zurich,2016,amphetamine,35.08
+Zurich,2016,cocaine,722.53
+Zurich,2016,methamphetamine,25.28
+Zurich,2017,mdma,81.2
+Zurich,2017,amphetamine,46.71
+Zurich,2017,cocaine,934.42
+Zurich,2017,methamphetamine,62.04
+Zurich,2018,mdma,73.4
+Zurich,2018,amphetamine,51.76
+Zurich,2018,cocaine,855.96
+Zurich,2019,mdma,53.66
+Zurich,2019,amphetamine,58.11
+Zurich,2019,cannabis,140.2
+Zurich,2019,cocaine,890.94
+Zurich,2019,methamphetamine,64.53
+Zurich,2020,mdma,28.17
+Zurich,2020,amphetamine,42.09
+Zurich,2020,cannabis,114.68
+Zurich,2020,cocaine,874.36
+Zurich,2020,methamphetamine,60.38
+Zurich,2021,mdma,27.37
+Zurich,2021,amphetamine,54.7
+Zurich,2021,cocaine,790.58
+Zurich,2021,methamphetamine,74.02
+Zurich,2022,mdma,42.12
+Zurich,2022,amphetamine,52.98
+Zurich,2022,cannabis,132.53
+Zurich,2022,cocaine,931.09
+Zurich,2022,methamphetamine,71.49
+Zurich,2023,mdma,47.12
+Zurich,2023,amphetamine,51.97
+Zurich,2023,cannabis,121.1
+Zurich,2023,cocaine,1022.61
+Zurich,2023,methamphetamine,61.92
+Zurich,2023,ketamine,45.72
+Zurich,2024,mdma,46.76
+Zurich,2024,amphetamine,59.59
+Zurich,2024,cannabis,87.59
+Zurich,2024,cocaine,1086.39
+Zurich,2024,methamphetamine,59.76
+Zurich,2024,ketamine,54.3
+Zwolle,2024,mdma,49.98
+Zwolle,2024,amphetamine,272.17
+Zwolle,2024,cannabis,98.16
+Zwolle,2024,cocaine,492.68
+Zwolle,2024,methamphetamine,1.14
+Zwolle,2024,ketamine,29.59
