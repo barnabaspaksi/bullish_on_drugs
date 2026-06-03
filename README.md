@@ -1,5 +1,10 @@
 # Predictive Modeling of Regional GDP based on Wastewater-Based Epidemiology
 
+## How to Execute the Experiment
+- Two files are essential for this:
+- 1. Obtain data from DBRepo using src/api_reimplementation.ipynb and save them locally (they do not need a lot of space).
+- 2. Run the experiment and generate outputs using src/use-case-experiment-reproducible.R 
+
 ## INFO FOR LAST DAY (PROGRESS):
 I ran everything again and finished my part (T2.5):
 step 0: derive_3NF creates the local files from the raw ones in the format which fits the schema. In particular, only rows which have a join partner may be uploaded.
