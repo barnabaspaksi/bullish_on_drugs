@@ -1,6 +1,10 @@
 # Predictive Modeling of Regional GDP based on Wastewater-Based Epidemiology
 
-## How to Execute the Experiment
+## 1. Install Dependencies
+- Navigate to the docs folder in Terminal and run: conda env create -f environment.yml
+- Open the file src/use-case-experiment-reproducible.R in RStudio (version 2026.05.0+218) using R version 4.6.0 and it should recommend installing all required packages.
+ 
+## 2. How to Execute the Experiment after Setup
 - Two files are essential for this:
 - 1. Obtain data from DBRepo using src/api_reimplementation.ipynb and save them locally (they do not need a lot of space).
 - 2. Run the experiment and generate outputs using src/use-case-experiment-reproducible.R 
