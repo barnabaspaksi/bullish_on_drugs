@@ -31,10 +31,9 @@ NEXT STEPS: use views to query the data in DBRepo and reproduce the experiment. 
  - Figures are named semantically, not just numbered.
  - Dates are given in ISO 8601 format (YYYY-MM-DD), i.e. months and days are padded. Dates appear after the description, before the version and extension.
  - Versioning should be avoided by using replacements and commits to Github, if possible. Otherwise, the version should not be padded (e.g. orchestrator_v4.py rather than orchestrator_v_4.py).
+ - Documentation: keeping documentation for older versions is permissible to minimize search time in commits and reflect the evolution of the project. 
  - Scripts should not include the execution order. If necessary, an orchestrator should be provided.
  - Config files should have config_ prepended to them.
- - Documentation template: [document_type]_[subject]_[version].[ext]. Here, keeping documentation for older versions is permissible to minimize search time in commits and reflect the evolution of the project. Document types can include the following: model_card (Model Card), data_dict (Data Dictionary), report (Report).
- - Requirements for the environment should appear in requirements.txt for Python and renv.lock for R in the project root. Other files needed for running the analysis pipeline should be included in the project root.
  - The license should be at the project root. 
 
 ## Licences
