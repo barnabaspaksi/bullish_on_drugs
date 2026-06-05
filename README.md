@@ -24,6 +24,18 @@ WARNING: the notebooks sometimes load for a long time when we keep reloading the
  - Config files should have config_ prepended to them.
  - The license should be at the project root. 
 
+## Original Input Data
+- data/raw/nama_10r_3gdp__custom_20659344_spreadsheet.csv (Eurostat GDP data)
+- data/raw/ww2026-all-data_en.csv (Estimated concentrations of metabolites from illicit drugs in wastewater from EUDA & SCORE)
+- data/processed/city_nuts_mapping_unique.csv (Manually compiled mapping from city names to NUTS-3 regions)
+
+## Output Data
+- The outputs folder contains visualizations generated before the experiment (exploratory analysis).
+- The file outputs/model_metrics_comparison.csv contains the evaluation metrics from all models.
+- The folder outputs/metadata containing fair4ml files along with model cards describe the machine learning models, their parameters, assumptions and expectations.
+- The file outputs/session_info.txt serves as a pure unfiltered source of data regarding the run of the experiment to allow a perfect reproduction of the experimental environment. Workspace state logs are also provided before and after the analysis.
+- Other outputs include data/processed which clearly document major steps in the process of obtaining the input data for the experiment from raw files (incl. DBRepo storage).
+
 ## Authors
 
 - Barnabás Paksi (https://orcid.org/0009-0001-1032-0177)
