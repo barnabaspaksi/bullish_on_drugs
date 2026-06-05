@@ -24,6 +24,15 @@ WARNING: the notebooks sometimes load for a long time when we keep reloading the
  - Config files should have config_ prepended to them.
  - The license should be at the project root. 
 
+## Authors
+
+- Barnabás Paksi (https://orcid.org/0009-0001-1032-0177)
+- Helene Johanna Vaught (https://orcid.org/0009-0005-8421-9302)
+- Vlada Hluschchenko (https://orcid.org/0009-0009-5136-9119)
+- Amélie Assmayr (https://orcid.org/0009-0007-0543-4165)
+
+The authors formed Group 20 in the course 194.045 Data Stewardship (UE 2,0) 2026S at TU Wien (https://ror.org/04d836q62).
+    
 ## Licences
 
 ### Input Data
