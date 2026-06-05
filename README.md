@@ -1,5 +1,20 @@
 # Predictive Modeling of Regional GDP based on Wastewater-Based Epidemiology
 
+## Table of Contents
+* [Abstract](#abstract)
+* [Methodology](#methodology)
+* [1. Install Dependencies](#1-install-dependencies)
+* [2. How to Execute the Experiment after Setup](#2-how-to-execute-the-experiment-after-setup)
+* [File organisation](#file-organisation)
+* [Original Input Data](#original-input-data)
+* [Output Data](#output-data)
+* [Authors](#authors)
+* [Licences](#licences)
+  * [Input Data](#input-data)
+  * [Software / Code](#software--code)
+  * [Output Data (models, figures, generated datasets)](#output-data-models-figures-generated-datasets)
+* [Zenodo](#zenodo)
+
 ## Abstract
 This use case explores the correlation relationship between illicit drug use in major European cities and their regional economic productivity (GDP). 
 <br> Original Publishers: 
