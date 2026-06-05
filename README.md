@@ -2,7 +2,7 @@
 
 ## 1. Install Dependencies
 - Navigate to the docs folder in Terminal and run: conda env create -f environment.yml
-- Open the file src/use-case-experiment-reproducible.R in RStudio (version 2026.05.0+218) using R version 4.6.0 and it should recommend installing all required packages.
+- Open the file src/use-case-experiment-reproducible.R in RStudio (version 2026.05.0+218) using R version 4.6.0 and it should recommend installing all required packages. Note, if you do not see this recommendation, you can also look at the outputs/session_info.txt file which contains a full list of packages used during the experiment.
  
 ## 2. How to Execute the Experiment after Setup
 - Two files are essential for this:
