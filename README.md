@@ -55,5 +55,5 @@ Licensed under CC BY 4.0 — all outputs in the `outputs/` folder are freely
 reusable with attribution.
 
 ## Zenodo
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20464727-blue)](https://doi.org/10.5281/zenodo.20464727)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20464727.svg)](https://doi.org/10.5281/zenodo.20464727)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20464726-blue)](https://doi.org/10.5281/zenodo.20464726)
+
