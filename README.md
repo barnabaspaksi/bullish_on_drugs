@@ -11,6 +11,25 @@
 WARNING: the notebooks sometimes load for a long time when we keep reloading the RestClient stuff. This can be solved by restarting Python completely.
 
 ## File organisation
+
+```text
+.
+├── data/                   
+│   ├── processed/           # data created by us 
+│   └── raw/                 # original data from Eurostat and EUDA
+├── docs/                    # Documentation and supplementary materials
+├── outputs/                 # Generated artifacts from experiment
+│   ├── metadata/            # FAIR4ML metadata and model cards
+│   └── models/              # Trained models from R
+├── schema/                  # Schemas for DBRepo 3NF Storage
+├── src/                     # Source code 
+├── CITATION.cff             # Citation metadata for the repository
+├── LICENSE                  
+├── README.md                # This file
+├── codemeta.json            # Software metadata context
+└── ro-crate-metadata.json   # RO-Crate research object description
+```
+
  The project uses the following file-naming convention:
  - If there is a specific naming requirement in the assignment, it takes precedence over the following guidelines.
  - Unedited data retrieved from external sources are not renamed. Scripts referencing them may use descriptive names, rather than the original technical filenames. If they are preprocessed, the following schema should be used for the resulting files: [data_source]_[desc].[ext]. When there is more than one data source, use [desc].[ext].
