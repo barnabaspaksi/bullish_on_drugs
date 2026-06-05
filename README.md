@@ -7,7 +7,7 @@ This use case explores the correlation relationship between illicit drug use in 
 <br> EUROSTAT: DOI: https://doi.org/10.2908/NAMA_10R_3GDP, URI: https://ec.europa.eu/eurostat/databrowser/view/nama_10r_3gdp__custom_20659344/default/table
 
 ## Methodology
-Underlying Wastewater Data: 
+Underlying **Wastewater Data**: 
 <br> 1. Core Approach (Wastewater Analysis): The method analyzes communal wastewater for drugs and their metabolic products to estimate community-level drug consumption. It is a multi-disciplinary field combining analytical chemistry, physiology, sewage engineering, spatial epidemiology, and conventional drug epidemiology. 
 <br> 2. Network & Timeframe: Data is collected by scientists and experts in a Europe-wide network called the Sewage analysis CORe group — Europe (SCORE). Data has been collected from a range of cities annually since 2011. <br> 3. Sampling & Measurement Specifics: 
 <br> - Values reported: All values indicate the population-normalised loads of drug residues quantified in raw sewage. These values are not corrected with excretion factors. 
@@ -17,7 +17,7 @@ Underlying Wastewater Data:
 <br> - Site information: A separate table in the original dataset published by EUDA and SCORE provides details on each treatment plant (SiteID, location, responsible institution, and approximate population served). 
 <br> 4. Substance-specific Notes: The main excreted metabolite is measured for specific drugs (e.g., Benzoylecgonine for cocaine; THC-COOH for cannabis). City Mapping: Cities were manually mapped to relevant NUTS regions containing them. 
 
-<br> GDP Data were retrieved from Eurostat, the main statistical authority responsible for collecting and provisioning economic data: 
+<br> **GDP Data** were retrieved from Eurostat, the main statistical authority responsible for collecting and provisioning economic data: 
 <br> Source & Extraction: 
 <br> Data Source: ESTAT (Eurostat) 
 <br> Extraction Date: 23/03/2026 (11:48:35) 
@@ -32,9 +32,9 @@ Underlying Wastewater Data:
 <br> Included: 2011 through 2024 (14 years) 
 <br> Data uploaded to this dataset in DBRepo correspond to a subset of the original data, as we were required to transform them into third normal form (3NF).
 
-<br> Data Stewardship and Preprocessing Challenge: While the drug dataset identifies locations by specific city strings (e.g., 'Graz', 'Steyr'), Eurostat utilizes standardized NUTS-3 administrative codes (e.g., 'DE212'). This is resolved via a custom mapping schema table ('city_map'). Only the active filtered subset utilized in this longitudinal frame is republished here.
+<br> Data Stewardship and Preprocessing Challenge: While the drug dataset identifies locations by specific city strings (e.g., 'Graz', 'Steyr'), Eurostat utilizes standardized NUTS-3 administrative codes (e.g., 'DE212'). This is resolved via a **custom mapping schema** table ('city_map'). Only the active filtered subset utilized in this longitudinal frame is republished here.
 
-<br> Temporal & Spatial Coverage: Annual wastewater tracking spans years 2011 to 2025 across 115 cities and 25 countries in the European Union, Norway, and Türkiye. GDP tracking spans annually from 2000 to 2024 across EU Member States, Candidate and potential Candidate Countries, Norway, and Switzerland. Our subset only contains common European countries for the years 2011-2024. Data availability varies across years and regions.
+<br> Temporal & Spatial Coverage: Annual wastewater tracking spans years 2011 to 2025 across 115 cities and 25 countries in the European Union, Norway, and Türkiye. GDP tracking spans annually from 2000 to 2024 across EU Member States, Candidate and potential Candidate Countries, Norway, and Switzerland. **Our subset only contains common European countries for the years 2011-2024**. Data availability varies across years and regions.
 
 <br> Units of Measure: Wastewater metrics indicate concentrations (mg/1000p/day) of illicit drug loads (Cocaine, Methamphetamine, MDMA) measured from 24-hour composite samples collected over a single week between March and May. GDP values indicate economic output expressed in Euros at current market prices by NUTS 3 region.
 
