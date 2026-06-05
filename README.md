@@ -53,3 +53,6 @@ input data licence. See [LICENSE](./LICENSE).
 ### Output Data (models, figures, generated datasets)
 Licensed under CC BY 4.0 — all outputs in the `outputs/` folder are freely 
 reusable with attribution.
+
+## Zenodo
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20464726.svg)](https://doi.org/10.5281/zenodo.20464726)
