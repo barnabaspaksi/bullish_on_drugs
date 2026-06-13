@@ -60,7 +60,7 @@ Underlying **Wastewater Data**:
 ## 2. How to Execute the Experiment after Setup
 - Two files are essential for this:
 - 1. Obtain data from DBRepo using src/api_reimplementation.ipynb and save them locally (they do not need a lot of space).
-- 2. Run the experiment and generate outputs using src/use-case-experiment-reproducible.R 
+- 2. Run the experiment and generate outputs using src/use_case_experiment_reproducible.R 
 WARNING: the notebooks sometimes load for a long time when we keep reloading the RestClient stuff. This can be solved by restarting Python completely.
 
 ## File organisation
